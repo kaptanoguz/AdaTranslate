@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "gen_0401",
+    "en": "negotiate",
+    "tr": "müzakere etmek, pazarlık etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0402",
+    "en": "achieve",
+    "tr": "başarmak, elde etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0403",
+    "en": "analyze",
+    "tr": "analiz etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0404",
+    "en": "approach",
+    "tr": "yaklaşmak, yaklaşım",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0405",
+    "en": "assess",
+    "tr": "değerlendirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0406",
+    "en": "assume",
+    "tr": "varsaymak, üstlenmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0407",
+    "en": "benefit",
+    "tr": "fayda sağlamak, yararlanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0408",
+    "en": "challenge",
+    "tr": "meydan okumak, sorgulamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0409",
+    "en": "communicate",
+    "tr": "iletişim kurmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0410",
+    "en": "compensate",
+    "tr": "telafi etmek, tazmin etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0411",
+    "en": "conclude",
+    "tr": "sonuçlandırmak, varmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0412",
+    "en": "conduct",
+    "tr": "yürütmek, yönetmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0413",
+    "en": "consider",
+    "tr": "göz önünde bulundurmak, düşünmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0414",
+    "en": "consist",
+    "tr": "oluşmak, ibaret olmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0415",
+    "en": "consume",
+    "tr": "tüketmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0416",
+    "en": "contribute",
+    "tr": "katkıda bulunmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0417",
+    "en": "convince",
+    "tr": "ikna etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0418",
+    "en": "create",
+    "tr": "yaratmak, oluşturmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0419",
+    "en": "crucial",
+    "tr": "çok önemli, hayati",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0420",
+    "en": "demonstrate",
+    "tr": "göstermek, kanıtlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0421",
+    "en": "develop",
+    "tr": "geliştirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0422",
+    "en": "distribute",
+    "tr": "dağıtmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0423",
+    "en": "dominate",
+    "tr": "hâkim olmak, egemen olmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0424",
+    "en": "eliminate",
+    "tr": "ortadan kaldırmak, elemine etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0425",
+    "en": "emphasize",
+    "tr": "vurgulamak, önemle belirtmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0426",
+    "en": "enable",
+    "tr": "olanak sağlamak, mümkün kılmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0427",
+    "en": "enhance",
+    "tr": "artırmak, geliştirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0428",
+    "en": "establish",
+    "tr": "kurmak, oluşturmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0429",
+    "en": "estimate",
+    "tr": "tahmin etmek, tahmin",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0430",
+    "en": "evaluate",
+    "tr": "değerlendirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0431",
+    "en": "examine",
+    "tr": "incelemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0432",
+    "en": "expand",
+    "tr": "genişletmek, büyümek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0433",
+    "en": "expect",
+    "tr": "beklemek, ummak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0434",
+    "en": "export",
+    "tr": "ihraç etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0435",
+    "en": "feature",
+    "tr": "özellik, öne çıkmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0436",
+    "en": "finance",
+    "tr": "finanse etmek, finans",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0437",
+    "en": "focus",
+    "tr": "odaklanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0438",
+    "en": "generate",
+    "tr": "üretmek, oluşturmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0439",
+    "en": "genuine",
+    "tr": "gerçek, samimi",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0440",
+    "en": "govern",
+    "tr": "yönetmek, hükmetmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0441",
+    "en": "implement",
+    "tr": "uygulamak, hayata geçirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0442",
+    "en": "imply",
+    "tr": "ima etmek, gerektirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0443",
+    "en": "improve",
+    "tr": "geliştirmek, iyileştirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0444",
+    "en": "include",
+    "tr": "içermek, dahil etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0445",
+    "en": "increase",
+    "tr": "artırmak, artmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0446",
+    "en": "indicate",
+    "tr": "belirtmek, göstermmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0447",
+    "en": "influence",
+    "tr": "etkilemek, etki",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0448",
+    "en": "inform",
+    "tr": "bilgilendirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0449",
+    "en": "inherit",
+    "tr": "miras almak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0450",
+    "en": "initial",
+    "tr": "ilk, başlangıç",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0451",
+    "en": "intend",
+    "tr": "niyet etmek, amaçlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0452",
+    "en": "interpret",
+    "tr": "yorumlamak, tercüme etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0453",
+    "en": "involve",
+    "tr": "içermek, dahil etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0454",
+    "en": "justify",
+    "tr": "haklı çıkarmak, gerekçelendirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0455",
+    "en": "maintain",
+    "tr": "sürdürmek, korumak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0456",
+    "en": "manage",
+    "tr": "yönetmek, idare etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0457",
+    "en": "manufacture",
+    "tr": "üretmek, imal etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0458",
+    "en": "minimize",
+    "tr": "en aza indirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0459",
+    "en": "modify",
+    "tr": "değiştirmek, düzenlemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0460",
+    "en": "monitor",
+    "tr": "izlemek, gözlemlemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0461",
+    "en": "observe",
+    "tr": "gözlemlemek, dikkat etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0462",
+    "en": "obtain",
+    "tr": "elde etmek, temin etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0463",
+    "en": "obvious",
+    "tr": "apaçık, bariz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0464",
+    "en": "occupy",
+    "tr": "işgal etmek, kaplamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0465",
+    "en": "participate",
+    "tr": "katılmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0466",
+    "en": "perceive",
+    "tr": "algılamak, fark etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0467",
+    "en": "perform",
+    "tr": "gerçekleştirmek, sergilemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0468",
+    "en": "persuade",
+    "tr": "ikna etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0469",
+    "en": "predict",
+    "tr": "öngörmek, tahmin etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0470",
+    "en": "prefer",
+    "tr": "tercih etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0471",
+    "en": "prepare",
+    "tr": "hazırlamak, hazırlanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0472",
+    "en": "prevent",
+    "tr": "önlemek, engellemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0473",
+    "en": "proceed",
+    "tr": "devam etmek, ilerlemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0474",
+    "en": "process",
+    "tr": "işlemek, süreç",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0475",
+    "en": "produce",
+    "tr": "üretmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0476",
+    "en": "profit",
+    "tr": "kâr etmek, yarar sağlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0477",
+    "en": "promote",
+    "tr": "teşvik etmek, terfi ettirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0478",
+    "en": "propose",
+    "tr": "önermek, teklif etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0479",
+    "en": "protect",
+    "tr": "korumak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0480",
+    "en": "provide",
+    "tr": "sağlamak, temin etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0481",
+    "en": "publish",
+    "tr": "yayımlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0482",
+    "en": "purchase",
+    "tr": "satın almak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0483",
+    "en": "pursue",
+    "tr": "takip etmek, peşinden gitmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0484",
+    "en": "qualify",
+    "tr": "nitelik kazandırmak, hak kazanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0485",
+    "en": "recognize",
+    "tr": "tanımak, farkına varmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0486",
+    "en": "recommend",
+    "tr": "tavsiye etmek, önermek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0487",
+    "en": "recover",
+    "tr": "iyileşmek, kurtarmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0488",
+    "en": "reduce",
+    "tr": "azaltmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0489",
+    "en": "reflect",
+    "tr": "yansıtmak, yansımak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0490",
+    "en": "regard",
+    "tr": "saygı duymak, kabul etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0491",
+    "en": "register",
+    "tr": "kayıt etmek, tescil etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0492",
+    "en": "regulate",
+    "tr": "düzenlemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0493",
+    "en": "reject",
+    "tr": "reddetmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0494",
+    "en": "relate",
+    "tr": "ilişkilendirmek, bağlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0495",
+    "en": "release",
+    "tr": "serbest bırakmak, yayınlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0496",
+    "en": "rely",
+    "tr": "güvenmek, dayanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0497",
+    "en": "remain",
+    "tr": "kalmak, kalmakta olmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0498",
+    "en": "remove",
+    "tr": "kaldırmak, çıkarmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0499",
+    "en": "replace",
+    "tr": "değiştirmek, yerine koymak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0500",
+    "en": "report",
+    "tr": "rapor etmek, bildirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0501",
+    "en": "represent",
+    "tr": "temsil etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0502",
+    "en": "require",
+    "tr": "gerektirmek, istemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0503",
+    "en": "research",
+    "tr": "araştırmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0504",
+    "en": "resolve",
+    "tr": "çözümlemek, karar vermek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0505",
+    "en": "respond",
+    "tr": "karşılık vermek, yanıtlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0506",
+    "en": "restore",
+    "tr": "geri yüklemek, onarmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0507",
+    "en": "retain",
+    "tr": "elinde tutmak, korumak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0508",
+    "en": "reveal",
+    "tr": "ortaya çıkarmak, açıklamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0509",
+    "en": "revise",
+    "tr": "gözden geçirmek, düzeltmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0510",
+    "en": "reward",
+    "tr": "ödüllendirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0511",
+    "en": "select",
+    "tr": "seçmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0512",
+    "en": "significant",
+    "tr": "önemli, anlamlı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0513",
+    "en": "submit",
+    "tr": "sunmak, teslim etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0514",
+    "en": "succeed",
+    "tr": "başarmak, başarılı olmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0515",
+    "en": "suggest",
+    "tr": "önermek, ima etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0516",
+    "en": "supply",
+    "tr": "tedarik etmek, sağlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0517",
+    "en": "support",
+    "tr": "desteklemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0518",
+    "en": "survive",
+    "tr": "hayatta kalmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0519",
+    "en": "suspect",
+    "tr": "şüphelenmek, kuşkulanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0520",
+    "en": "transform",
+    "tr": "dönüştürmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0521",
+    "en": "call off",
+    "tr": "iptal etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Planlanmış bir şeyi iptal etmek.",
+    "example_en": "They called off the meeting."
+  },
+  {
+    "id": "gen_0522",
+    "en": "break down",
+    "tr": "bozulmak, çökmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Makine bozulmak veya biri duygusal olarak çökmek.",
+    "example_en": "My car broke down on the highway."
+  },
+  {
+    "id": "gen_0523",
+    "en": "bring up",
+    "tr": "bahsetmek, gündeme getirmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir konuyu konuşmaya açmak.",
+    "example_en": "She brought up a good point."
+  },
+  {
+    "id": "gen_0524",
+    "en": "carry out",
+    "tr": "gerçekleştirmek, yerine getirmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir görev veya planı tamamlamak.",
+    "example_en": "We carried out the orders."
+  },
+  {
+    "id": "gen_0525",
+    "en": "come across",
+    "tr": "rastlamak, tesadüfen bulmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Kazara karşılaşmak veya bulmak.",
+    "example_en": "I came across an old photo."
+  },
+  {
+    "id": "gen_0526",
+    "en": "come up with",
+    "tr": "bulmak, ortaya koymak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir fikir veya çözüm üretmek.",
+    "example_en": "He came up with a new idea."
+  },
+  {
+    "id": "gen_0527",
+    "en": "cut off",
+    "tr": "kesmek, irtibatı koparmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bağlantıyı veya teması kesmek.",
+    "example_en": "We were cut off during the call."
+  },
+  {
+    "id": "gen_0528",
+    "en": "deal with",
+    "tr": "başa çıkmak, ilgilenmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir sorunla uğraşmak veya biriyle muhatap olmak.",
+    "example_en": "She deals with customers."
+  },
+  {
+    "id": "gen_0529",
+    "en": "figure out",
+    "tr": "anlamak, çözmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir şeyi kavramak veya çözüm bulmak.",
+    "example_en": "I can't figure out this puzzle."
+  },
+  {
+    "id": "gen_0530",
+    "en": "find out",
+    "tr": "öğrenmek, keşfetmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bilgi edinmek, bir gerçeği ortaya çıkarmak.",
+    "example_en": "We found out the truth."
+  },
+  {
+    "id": "gen_0531",
+    "en": "get along",
+    "tr": "geçinmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Birbiriyle iyi anlaşmak.",
+    "example_en": "They get along very well."
+  },
+  {
+    "id": "gen_0532",
+    "en": "get over",
+    "tr": "atlatmak, üstesinden gelmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Zor bir durumu atlatmak.",
+    "example_en": "He got over his fear."
+  },
+  {
+    "id": "gen_0533",
+    "en": "get rid of",
+    "tr": "kurtulmak, elden çıkarmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir şeyden kurtulmak, yok etmek.",
+    "example_en": "I want to get rid of this old sofa."
+  },
+  {
+    "id": "gen_0534",
+    "en": "give up",
+    "tr": "vazgeçmek, bırakmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çabayı durdurmak, pes etmek.",
+    "example_en": "Don't give up on your dreams."
+  },
+  {
+    "id": "gen_0535",
+    "en": "go on",
+    "tr": "devam etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Sürmek, devam etmek.",
+    "example_en": "The show went on for hours."
+  },
+  {
+    "id": "gen_0536",
+    "en": "hang out",
+    "tr": "takılmak, vakit geçirmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Arkadaşlarla vakit geçirmek.",
+    "example_en": "We hung out at the park."
+  },
+  {
+    "id": "gen_0537",
+    "en": "hold on",
+    "tr": "beklemek, dayanmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Biraz beklemek veya tutunmak.",
+    "example_en": "Hold on, I'll be right back."
+  },
+  {
+    "id": "gen_0538",
+    "en": "keep up",
+    "tr": "ayak uydurmak, sürdürmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Birine yetişmek veya bir şeyi sürdürmek.",
+    "example_en": "He can't keep up with the class."
+  },
+  {
+    "id": "gen_0539",
+    "en": "look after",
+    "tr": "bakmak, göz kulak olmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Birine veya bir şeye bakmak.",
+    "example_en": "She looks after her little brother."
+  },
+  {
+    "id": "gen_0540",
+    "en": "look forward to",
+    "tr": "sabırsızlıkla beklemek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir şeyi heyecanla beklemek.",
+    "example_en": "I look forward to your reply."
+  },
+  {
+    "id": "gen_0541",
+    "en": "look into",
+    "tr": "incelemek, araştırmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir konuyu araştırmak.",
+    "example_en": "We will look into the complaint."
+  },
+  {
+    "id": "gen_0542",
+    "en": "look up",
+    "tr": "aramak, ziyaret etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Sözlükte aramak veya birini ziyaret etmek.",
+    "example_en": "Look up the word in a dictionary."
+  },
+  {
+    "id": "gen_0543",
+    "en": "make up",
+    "tr": "uydurmak, barışmak, oluşturmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Yalan uydurmak, barışmak veya oluşturmak.",
+    "example_en": "They made up after the fight."
+  },
+  {
+    "id": "gen_0544",
+    "en": "pass away",
+    "tr": "vefat etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Kibarca ölmek anlamında.",
+    "example_en": "Her grandfather passed away."
+  },
+  {
+    "id": "gen_0545",
+    "en": "pick up",
+    "tr": "almak, toplamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir şeyi yerden almak veya öğrenmek.",
+    "example_en": "Can you pick up the kids?"
+  },
+  {
+    "id": "gen_0546",
+    "en": "point out",
+    "tr": "belirtmek, işaret etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Dikkat çekmek, göstermek.",
+    "example_en": "He pointed out my mistake."
+  },
+  {
+    "id": "gen_0547",
+    "en": "put off",
+    "tr": "ertelemek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir işi sonraya bırakmak.",
+    "example_en": "Don't put off your homework."
+  },
+  {
+    "id": "gen_0548",
+    "en": "put up with",
+    "tr": "katlanmak, tahammül etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Rahatsız edici bir şeye dayanmak.",
+    "example_en": "I won't put up with this noise."
+  },
+  {
+    "id": "gen_0549",
+    "en": "run out",
+    "tr": "tükenmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Stok veya zaman bitmek.",
+    "example_en": "We ran out of milk."
+  },
+  {
+    "id": "gen_0550",
+    "en": "set up",
+    "tr": "kurmak, ayarlamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir sistem veya toplantı hazırlamak.",
+    "example_en": "They set up a new company."
+  },
+  {
+    "id": "gen_0551",
+    "en": "show up",
+    "tr": "gelmek, ortaya çıkmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Belirmek, görünmek.",
+    "example_en": "He didn't show up to the party."
+  },
+  {
+    "id": "gen_0552",
+    "en": "take after",
+    "tr": "(birine) çekmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Karakter veya görünüşte birine benzemek.",
+    "example_en": "She takes after her mother."
+  },
+  {
+    "id": "gen_0553",
+    "en": "take off",
+    "tr": "kalkmak, çıkarmak, patlamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Uçak kalkmak, kıyafet çıkarmak veya popüler olmak.",
+    "example_en": "The plane took off."
+  },
+  {
+    "id": "gen_0554",
+    "en": "take over",
+    "tr": "devralmak, ele geçirmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Kontrolü almak.",
+    "example_en": "She took over the project."
+  },
+  {
+    "id": "gen_0555",
+    "en": "take part in",
+    "tr": "katılmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir etkinliğe katılmak.",
+    "example_en": "He took part in the race."
+  },
+  {
+    "id": "gen_0556",
+    "en": "take place",
+    "tr": "gerçekleşmek, meydana gelmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Olmak, vuku bulmak.",
+    "example_en": "The wedding took place in June."
+  },
+  {
+    "id": "gen_0557",
+    "en": "turn down",
+    "tr": "reddetmek, kısmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir teklifi reddetmek veya sesi kısmek.",
+    "example_en": "She turned down the job offer."
+  },
+  {
+    "id": "gen_0558",
+    "en": "turn up",
+    "tr": "ortaya çıkmak, gelmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Belirmek veya sesi açmak.",
+    "example_en": "He turned up late."
+  },
+  {
+    "id": "gen_0559",
+    "en": "wake up",
+    "tr": "uyanmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Uykudan uyanmak.",
+    "example_en": "I wake up at seven."
+  },
+  {
+    "id": "gen_0560",
+    "en": "work out",
+    "tr": "çözmek, sonuçlanmak, egzersiz yapmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir problemi çözmek veya spor yapmak.",
+    "example_en": "We worked out the details."
+  },
+  {
+    "id": "gen_0561",
+    "en": "a piece of cake",
+    "tr": "çok kolay",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Son derece kolay bir iş.",
+    "example_en": "The exam was a piece of cake."
+  },
+  {
+    "id": "gen_0562",
+    "en": "break the ice",
+    "tr": "buzları eritmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Ortamı yumuşatmak, gerginliği gidermek.",
+    "example_en": "He told a joke to break the ice."
+  },
+  {
+    "id": "gen_0563",
+    "en": "burn the midnight oil",
+    "tr": "gece geç saatlere kadar çalışmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Gece boyu çalışmak.",
+    "example_en": "She burned the midnight oil before finals."
+  },
+  {
+    "id": "gen_0564",
+    "en": "call it a day",
+    "tr": "işi bugünlük bırakmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çalışmayı durdurmak, kapatmak.",
+    "example_en": "We were tired, so we called it a day."
+  },
+  {
+    "id": "gen_0565",
+    "en": "cost an arm and a leg",
+    "tr": "çok pahalı olmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çok yüksek fiyatlı olmak.",
+    "example_en": "That car costs an arm and a leg."
+  },
+  {
+    "id": "gen_0566",
+    "en": "hit the nail on the head",
+    "tr": "tam isabet etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Tam hedefi veya doğruyu bulmak.",
+    "example_en": "You hit the nail on the head."
+  },
+  {
+    "id": "gen_0567",
+    "en": "it's not rocket science",
+    "tr": "zor değil, basit",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çok karmaşık olmayan şey.",
+    "example_en": "Relax, it's not rocket science."
+  },
+  {
+    "id": "gen_0568",
+    "en": "kill two birds with one stone",
+    "tr": "bir taşla iki kuş vurmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Tek eylemle iki sonuç almak.",
+    "example_en": "I killed two birds with one stone."
+  },
+  {
+    "id": "gen_0569",
+    "en": "let the cat out of the bag",
+    "tr": "sırrı açık etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir sırrı istemeden açıklamak.",
+    "example_en": "He let the cat out of the bag."
+  },
+  {
+    "id": "gen_0570",
+    "en": "miss the boat",
+    "tr": "fırsatı kaçırmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir fırsatı kaçırmak.",
+    "example_en": "Don't miss the boat on this sale."
+  },
+  {
+    "id": "gen_0571",
+    "en": "once in a blue moon",
+    "tr": "çok nadiren",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çok seyrek olarak.",
+    "example_en": "We eat out once in a blue moon."
+  },
+  {
+    "id": "gen_0572",
+    "en": "pull someone's leg",
+    "tr": "şaka yapmak, kandırmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Birine şaka yollu takılmak.",
+    "example_en": "Are you pulling my leg?"
+  },
+  {
+    "id": "gen_0573",
+    "en": "rain on someone's parade",
+    "tr": "birinin keyfini kaçırmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Birinin planını veya neşesini bozmak.",
+    "example_en": "I don't want to rain on your parade."
+  },
+  {
+    "id": "gen_0574",
+    "en": "save for a rainy day",
+    "tr": "kötü gün için biriktirmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Zor zamanlar için saklamak.",
+    "example_en": "He saved money for a rainy day."
+  },
+  {
+    "id": "gen_0575",
+    "en": "see eye to eye",
+    "tr": "aynı fikirde olmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Uyumlu düşünmek.",
+    "example_en": "We don't see eye to eye on this."
+  },
+  {
+    "id": "gen_0576",
+    "en": "speak of the devil",
+    "tr": "tam sözünü ediyorduk",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Sözü edilen kişi tam o anda çıkageldiğinde.",
+    "example_en": "Speak of the devil, here he is!"
+  },
+  {
+    "id": "gen_0577",
+    "en": "spill the beans",
+    "tr": "sırrı açık etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir sırrı ele vermek.",
+    "example_en": "Who spilled the beans?"
+  },
+  {
+    "id": "gen_0578",
+    "en": "take it with a grain of salt",
+    "tr": "ihtiyatla karşılamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir bilgiye kuşkuyla yaklaşmak.",
+    "example_en": "Take his claims with a grain of salt."
+  },
+  {
+    "id": "gen_0579",
+    "en": "the ball is in your court",
+    "tr": "karar senin, sıra sende",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Karar veya aksiyon sırası karşı tarafta.",
+    "example_en": "The ball is in your court now."
+  },
+  {
+    "id": "gen_0580",
+    "en": "throw in the towel",
+    "tr": "pes etmek, havlu atmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Vazgeçmek, yenilgiyi kabul etmek.",
+    "example_en": "He threw in the towel after years."
+  },
+  {
+    "id": "gen_0581",
+    "en": "under the weather",
+    "tr": "hastalıklı, keyifsiz",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Kendini iyi hissetmemek.",
+    "example_en": "I'm feeling a bit under the weather."
+  },
+  {
+    "id": "gen_0582",
+    "en": "bite the bullet",
+    "tr": "dişini sıkıp zoru göze almak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Zor ama gerekli bir şeye katlanmak.",
+    "example_en": "We bit the bullet and paid."
+  },
+  {
+    "id": "gen_0583",
+    "en": "bread and butter",
+    "tr": "temel geçim kaynağı",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Asıl gelir veya uğraş.",
+    "example_en": "Teaching is my bread and butter."
+  },
+  {
+    "id": "gen_0584",
+    "en": "catch someone's eye",
+    "tr": "dikkatini çekmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "İlgi uyandırmak.",
+    "example_en": "The red dress caught his eye."
+  },
+  {
+    "id": "gen_0585",
+    "en": "cut corners",
+    "tr": "kestirme yoldan yapmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Kaliteden ödün vererek işi kısaltmak.",
+    "example_en": "Don't cut corners on safety."
+  },
+  {
+    "id": "gen_0586",
+    "en": "face the music",
+    "tr": "sonuçlarına katlanmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Hatalarının bedelini ödemek.",
+    "example_en": "He had to face the music."
+  },
+  {
+    "id": "gen_0587",
+    "en": "get out of hand",
+    "tr": "kontrolden çıkmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Durumun yönetilemez hale gelmesi.",
+    "example_en": "The argument got out of hand."
+  },
+  {
+    "id": "gen_0588",
+    "en": "go the extra mile",
+    "tr": "fazladan çaba göstermek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Beklenenden fazlasını yapmak.",
+    "example_en": "She went the extra mile for us."
+  },
+  {
+    "id": "gen_0589",
+    "en": "hit the road",
+    "tr": "yola çıkmak, gitmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Ayrılmak, yola koyulmak.",
+    "example_en": "It's late, let's hit the road."
+  },
+  {
+    "id": "gen_0590",
+    "en": "in the nick of time",
+    "tr": "tam zamanında",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Son anda, tam vaktinde.",
+    "example_en": "The ambulance arrived in the nick of time."
+  },
+  {
+    "id": "gen_0591",
+    "en": "keep an eye on",
+    "tr": "gözetmek, izlemek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Dikkat etmek, kontrol etmek.",
+    "example_en": "Keep an eye on the kids."
+  },
+  {
+    "id": "gen_0592",
+    "en": "lend a hand",
+    "tr": "yardım etmek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Yardımcı olmak.",
+    "example_en": "Can you lend a hand?"
+  },
+  {
+    "id": "gen_0593",
+    "en": "make a long story short",
+    "tr": "kısaca özetlemek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Konuyu kısaltmak.",
+    "example_en": "To make a long story short, we won."
+  },
+  {
+    "id": "gen_0594",
+    "en": "on the ball",
+    "tr": "işinin ehli, uyanık",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Dikkatli ve yetkin.",
+    "example_en": "Our new assistant is really on the ball."
+  },
+  {
+    "id": "gen_0595",
+    "en": "pay the price",
+    "tr": "bedelini ödemek",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir hatanın sonucuna katlanmak.",
+    "example_en": "He paid the price for his mistake."
+  },
+  {
+    "id": "gen_0596",
+    "en": "read between the lines",
+    "tr": "satır aralarını okumak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Gizli anlamı kavramak.",
+    "example_en": "Read between the lines of his letter."
+  },
+  {
+    "id": "gen_0597",
+    "en": "shed light on",
+    "tr": "aydınlatmak, açıklamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir konuyu netleştirmek.",
+    "example_en": "The report shed light on the issue."
+  },
+  {
+    "id": "gen_0598",
+    "en": "sit on the fence",
+    "tr": "kararsız kalmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Tarafsız veya kararsız olmak.",
+    "example_en": "Stop sitting on the fence."
+  },
+  {
+    "id": "gen_0599",
+    "en": "spread like wildfire",
+    "tr": "hızla yayılmak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Çok çabuk yayılmak.",
+    "example_en": "The news spread like wildfire."
+  },
+  {
+    "id": "gen_0600",
+    "en": "wrap one's head around",
+    "tr": "kavramak, anlamak",
+    "category": [
+      "general"
+    ],
+    "definition_tr": "Bir şeyi zihinsel olarak kavramak.",
+    "example_en": "I can't wrap my head around this."
+  }
+]

@@ -1,0 +1,965 @@
+[
+  {
+    "id": "cht_001",
+    "en": "charter party",
+    "tr": "çarter partisi, navlun sözleşmesi",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "C/P",
+    "definition_tr": "Gemi kiralama sözleşmesi."
+  },
+  {
+    "id": "cht_002",
+    "en": "voyage charter",
+    "tr": "sefer çarteri",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Belirli bir yükün, belirli limanlar arasında taşınması için yapılan kiralama."
+  },
+  {
+    "id": "cht_003",
+    "en": "time charter",
+    "tr": "zaman çarteri",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "T/C",
+    "definition_tr": "Geminin belirli bir süre için kiralanması."
+  },
+  {
+    "id": "cht_004",
+    "en": "bareboat charter",
+    "tr": "çıplak gemi çarteri",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "BBC",
+    "definition_tr": "Geminin personelsiz ve donatımsız kiralanması."
+  },
+  {
+    "id": "cht_005",
+    "en": "contract of affreightment",
+    "tr": "navlun taahhüt sözleşmesi",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "COA",
+    "definition_tr": "Belirli dönemde belirli miktarda yükün taşınması taahhüdü."
+  },
+  {
+    "id": "cht_006",
+    "en": "charterer",
+    "tr": "kiracı, çarterer",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_007",
+    "en": "shipowner",
+    "tr": "donatan, gemi sahibi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_008",
+    "en": "disponent owner",
+    "tr": "tasarruf sahibi donatan",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Gemiyi kiralayıp alt kiraya veren taraf."
+  },
+  {
+    "id": "cht_009",
+    "en": "broker",
+    "tr": "broker, komisyoncu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_010",
+    "en": "brokerage commission",
+    "tr": "brokerlik komisyonu",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "BROB"
+  },
+  {
+    "id": "cht_011",
+    "en": "fixture",
+    "tr": "fikstür, kiralama anlaşması",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Tarafların anlaşmaya vardığı kiralama işlemi."
+  },
+  {
+    "id": "cht_012",
+    "en": "recap",
+    "tr": "özet teyit",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Anlaşılan tüm şartların özetlendiği teyit mesajı."
+  },
+  {
+    "id": "cht_013",
+    "en": "firm offer",
+    "tr": "kesin teklif",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_014",
+    "en": "subjects",
+    "tr": "şerhler, subject'ler",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "SUBS",
+    "definition_tr": "Anlaşmanın bağlayıcı olması için kaldırılması gereken koşullar."
+  },
+  {
+    "id": "cht_015",
+    "en": "subject to details",
+    "tr": "detaylara bağlı",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "SUB DETS"
+  },
+  {
+    "id": "cht_016",
+    "en": "laycan",
+    "tr": "laycan, yükleme aralığı",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Geminin yükleme limanında hazır olması gereken tarih aralığı (layday-cancelling)."
+  },
+  {
+    "id": "cht_017",
+    "en": "cancelling date",
+    "tr": "iptal tarihi",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Gemi bu tarihe kadar hazır olmazsa kiracı sözleşmeyi iptal edebilir."
+  },
+  {
+    "id": "cht_018",
+    "en": "notice of readiness",
+    "tr": "hazırlık ihbarnamesi",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "NOR",
+    "definition_tr": "Geminin yükleme/boşaltmaya her yönden hazır olduğunu bildiren resmi ihbar."
+  },
+  {
+    "id": "cht_019",
+    "en": "laytime",
+    "tr": "astarya, yükleme/boşaltma süresi",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Kiracıya navlun içinde tanınan yükleme/boşaltma süresi."
+  },
+  {
+    "id": "cht_020",
+    "en": "demurrage",
+    "tr": "sürastarya ücreti",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Astarya süresi aşıldığında kiracının ödediği günlük ceza/tazminat."
+  },
+  {
+    "id": "cht_021",
+    "en": "despatch",
+    "tr": "dispeç primi",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Astarya süresinden erken bitirme halinde kiracıya ödenen prim; genelde demurrage'ın yarısı."
+  },
+  {
+    "id": "cht_022",
+    "en": "detention",
+    "tr": "gecikme tazminatı",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Astarya süresi bittikten sonraki makul olmayan gecikmeler için talep edilen zarar."
+  },
+  {
+    "id": "cht_023",
+    "en": "laytime statement",
+    "tr": "astarya hesabı",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_024",
+    "en": "time counting",
+    "tr": "zaman sayımı",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_025",
+    "en": "weather working day",
+    "tr": "hava müsait iş günü",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "WWD"
+  },
+  {
+    "id": "cht_026",
+    "en": "Saturdays, Sundays and holidays excepted",
+    "tr": "Cumartesi, Pazar ve tatiller hariç",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "SSHEX"
+  },
+  {
+    "id": "cht_027",
+    "en": "Sundays and holidays included",
+    "tr": "Pazar ve tatiller dahil",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "SHINC"
+  },
+  {
+    "id": "cht_028",
+    "en": "turn time",
+    "tr": "sıra bekleme süresi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_029",
+    "en": "reversible laytime",
+    "tr": "birleştirilebilir astarya",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Yükleme ve boşaltma sürelerinin toplu değerlendirilmesi."
+  },
+  {
+    "id": "cht_030",
+    "en": "once on demurrage, always on demurrage",
+    "tr": "sürastarya başlarsa kesintisiz işler",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Demurrage başladıktan sonra istisnalar zaman sayımını durdurmaz."
+  },
+  {
+    "id": "cht_031",
+    "en": "whether in berth or not",
+    "tr": "rıhtımda olsun olmasın",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "WIBON"
+  },
+  {
+    "id": "cht_032",
+    "en": "whether in port or not",
+    "tr": "limanda olsun olmasın",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "WIPON"
+  },
+  {
+    "id": "cht_033",
+    "en": "whether in free pratique or not",
+    "tr": "serbest pratika alınmış olsun olmasın",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "WIFPON"
+  },
+  {
+    "id": "cht_034",
+    "en": "whether customs cleared or not",
+    "tr": "gümrüklenmiş olsun olmasın",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "WCCON"
+  },
+  {
+    "id": "cht_035",
+    "en": "free pratique",
+    "tr": "serbest pratika",
+    "category": [
+      "chartering",
+      "medical"
+    ],
+    "definition_tr": "Sağlık otoritesinin gemiye liman ile temas izni vermesi."
+  },
+  {
+    "id": "cht_036",
+    "en": "arrived ship",
+    "tr": "varmış gemi",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "NOR verilebilmesi için hukuken varış sayılan gemi durumu."
+  },
+  {
+    "id": "cht_037",
+    "en": "berth charter",
+    "tr": "rıhtım çarteri",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_038",
+    "en": "port charter",
+    "tr": "liman çarteri",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_039",
+    "en": "freight",
+    "tr": "navlun",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Taşıma karşılığı ödenen ücret."
+  },
+  {
+    "id": "cht_040",
+    "en": "lumpsum freight",
+    "tr": "götürü navlun",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Yük miktarından bağımsız sabit navlun."
+  },
+  {
+    "id": "cht_041",
+    "en": "freight rate",
+    "tr": "navlun oranı",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_042",
+    "en": "worldscale",
+    "tr": "Worldscale",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ],
+    "abbreviation": "WS",
+    "definition_tr": "Tanker piyasasında navlunun yüzde olarak ifade edildiği referans sistem."
+  },
+  {
+    "id": "cht_043",
+    "en": "deadfreight",
+    "tr": "ölü navlun",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Taahhüt edilen ama yüklenmeyen yük için ödenen navlun."
+  },
+  {
+    "id": "cht_044",
+    "en": "freight prepaid",
+    "tr": "navlun peşin ödenmiş",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_045",
+    "en": "freight collect",
+    "tr": "navlun varışta ödemeli",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_046",
+    "en": "hire",
+    "tr": "kira (time charter)",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Zaman çarterinde günlük ödenen kira bedeli."
+  },
+  {
+    "id": "cht_047",
+    "en": "off-hire",
+    "tr": "kira dışı süre",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Geminin hizmet veremediği ve kiranın durduğu süre."
+  },
+  {
+    "id": "cht_048",
+    "en": "on-hire survey",
+    "tr": "teslim sörveyi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_049",
+    "en": "off-hire survey",
+    "tr": "iade sörveyi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_050",
+    "en": "redelivery",
+    "tr": "geri teslim",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_051",
+    "en": "delivery",
+    "tr": "teslim",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_052",
+    "en": "trading limits",
+    "tr": "sefer sınırları",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_053",
+    "en": "safe port",
+    "tr": "emniyetli liman",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_054",
+    "en": "safe berth",
+    "tr": "emniyetli rıhtım",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_055",
+    "en": "always afloat",
+    "tr": "daima yüzer halde",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "AA"
+  },
+  {
+    "id": "cht_056",
+    "en": "not always afloat but safely aground",
+    "tr": "karaya emniyetle oturabilir",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "NAABSA"
+  },
+  {
+    "id": "cht_057",
+    "en": "bill of lading",
+    "tr": "konşimento",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "B/L",
+    "definition_tr": "Yükün teslim alındığını gösteren, mülkiyeti temsil eden taşıma senedi."
+  },
+  {
+    "id": "cht_058",
+    "en": "clean bill of lading",
+    "tr": "temiz konşimento",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_059",
+    "en": "claused bill of lading",
+    "tr": "şerhli konşimento",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_060",
+    "en": "letter of indemnity",
+    "tr": "tazminat mektubu",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "LOI"
+  },
+  {
+    "id": "cht_061",
+    "en": "letter of protest",
+    "tr": "protesto mektubu",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ],
+    "abbreviation": "LOP"
+  },
+  {
+    "id": "cht_062",
+    "en": "mate's receipt",
+    "tr": "zabit makbuzu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_063",
+    "en": "cargo manifest",
+    "tr": "yük manifestosu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_064",
+    "en": "stowage plan",
+    "tr": "istif planı",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "cht_065",
+    "en": "shipper",
+    "tr": "yükleten, gönderici",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_066",
+    "en": "consignee",
+    "tr": "alıcı, gönderilen",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_067",
+    "en": "notify party",
+    "tr": "ihbar edilecek taraf",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_068",
+    "en": "agent",
+    "tr": "acente",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_069",
+    "en": "disbursement account",
+    "tr": "masraf hesabı",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "DA"
+  },
+  {
+    "id": "cht_070",
+    "en": "proforma disbursement account",
+    "tr": "proforma masraf hesabı",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "PDA"
+  },
+  {
+    "id": "cht_071",
+    "en": "port charges",
+    "tr": "liman masrafları",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_072",
+    "en": "free in and out",
+    "tr": "yükleme ve boşaltma armatöre ait değil",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "FIO"
+  },
+  {
+    "id": "cht_073",
+    "en": "free in and out stowed and trimmed",
+    "tr": "FIOST şartı",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "FIOST"
+  },
+  {
+    "id": "cht_074",
+    "en": "liner terms",
+    "tr": "liner şartları",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_075",
+    "en": "gross terms",
+    "tr": "brüt şartlar",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_076",
+    "en": "BIMCO",
+    "tr": "BIMCO (Baltık ve Uluslararası Denizcilik Konseyi)",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "BIMCO"
+  },
+  {
+    "id": "cht_077",
+    "en": "GENCON",
+    "tr": "GENCON (genel sefer çarteri formu)",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_078",
+    "en": "ASBATANKVOY",
+    "tr": "ASBATANKVOY (tanker sefer çarteri formu)",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "cht_079",
+    "en": "NYPE",
+    "tr": "NYPE (New York Produce Exchange time charter formu)",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_080",
+    "en": "SHELLTIME",
+    "tr": "SHELLTIME (tanker time charter formu)",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "cht_081",
+    "en": "ice clause",
+    "tr": "buz klozu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_082",
+    "en": "war risk clause",
+    "tr": "savaş riski klozu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_083",
+    "en": "bunker adjustment factor",
+    "tr": "yakıt ayarlama faktörü",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "BAF"
+  },
+  {
+    "id": "cht_084",
+    "en": "himalaya clause",
+    "tr": "Himalaya klozu",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Taşıyanın çalışanlarına ve alt yüklenicilerine koruma sağlayan kloz."
+  },
+  {
+    "id": "cht_085",
+    "en": "paramount clause",
+    "tr": "paramount klozu",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Hague-Visby gibi bir konvansiyonu sözleşmeye dahil eden kloz."
+  },
+  {
+    "id": "cht_086",
+    "en": "cesser clause",
+    "tr": "cesser klozu",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Kiracının sorumluluğunun yükleme sonrası sona ermesi."
+  },
+  {
+    "id": "cht_087",
+    "en": "lien clause",
+    "tr": "hapis hakkı klozu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_088",
+    "en": "arbitration clause",
+    "tr": "tahkim klozu",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_089",
+    "en": "force majeure",
+    "tr": "mücbir sebep",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_090",
+    "en": "performance claim",
+    "tr": "performans talebi",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Geminin taahhüt edilen hız/tüketimi sağlayamaması nedeniyle açılan talep."
+  },
+  {
+    "id": "cht_091",
+    "en": "speed and consumption warranty",
+    "tr": "hız ve tüketim taahhüdü",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_092",
+    "en": "good weather days",
+    "tr": "iyi hava günleri",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_093",
+    "en": "about",
+    "tr": "yaklaşık (tolerans ifadesi)",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "ABT"
+  },
+  {
+    "id": "cht_094",
+    "en": "more or less owner's option",
+    "tr": "artı eksi armatör opsiyonu",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "MOLOO"
+  },
+  {
+    "id": "cht_095",
+    "en": "more or less charterer's option",
+    "tr": "artı eksi kiracı opsiyonu",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "MOLCO"
+  },
+  {
+    "id": "cht_096",
+    "en": "in owner's option",
+    "tr": "armatör opsiyonunda",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "OO"
+  },
+  {
+    "id": "cht_097",
+    "en": "pro rata",
+    "tr": "orantılı olarak",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_098",
+    "en": "time bar",
+    "tr": "zamanaşımı",
+    "category": [
+      "chartering"
+    ],
+    "definition_tr": "Talebin belirli süre içinde bildirilmemesi halinde düşmesi."
+  },
+  {
+    "id": "cht_099",
+    "en": "protective and indemnity club",
+    "tr": "P&I kulübü",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "P&I",
+    "definition_tr": "Armatör sorumluluk sigortası sağlayan karşılıklı sigorta kuruluşu."
+  },
+  {
+    "id": "cht_100",
+    "en": "hull and machinery insurance",
+    "tr": "tekne ve makine sigortası",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "H&M"
+  },
+  {
+    "id": "cht_101",
+    "en": "vetting",
+    "tr": "vetting, gemi uygunluk denetimi",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "cht_102",
+    "en": "SIRE inspection",
+    "tr": "SIRE denetimi",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ],
+    "abbreviation": "SIRE",
+    "definition_tr": "OCIMF Ship Inspection Report Programme kapsamında tanker denetimi."
+  },
+  {
+    "id": "cht_103",
+    "en": "CDI inspection",
+    "tr": "CDI denetimi",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ],
+    "abbreviation": "CDI",
+    "definition_tr": "Chemical Distribution Institute kimyasal tanker denetimi."
+  },
+  {
+    "id": "cht_104",
+    "en": "terminal",
+    "tr": "terminal",
+    "category": [
+      "chartering",
+      "chemical_tanker"
+    ],
+    "definition_tr": "Terminal (yük/konteyner aktarma liman tesisi)"
+  },
+  {
+    "id": "cht_105",
+    "en": "nomination",
+    "tr": "nominasyon, gemi bildirimi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_106",
+    "en": "part cargo",
+    "tr": "kısmi yük",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_107",
+    "en": "full cargo",
+    "tr": "tam yük",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_108",
+    "en": "ballast leg",
+    "tr": "balast seferi",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_109",
+    "en": "laden leg",
+    "tr": "yüklü sefer",
+    "category": [
+      "chartering"
+    ]
+  },
+  {
+    "id": "cht_110",
+    "en": "time charter equivalent",
+    "tr": "zaman çarteri eşdeğeri",
+    "category": [
+      "chartering"
+    ],
+    "abbreviation": "TCE",
+    "definition_tr": "Sefer gelirinin günlük net kazanca çevrilmiş hali."
+  }
+]

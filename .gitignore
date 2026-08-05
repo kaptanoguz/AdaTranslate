@@ -1,0 +1,11 @@
+node_modules/
+src-tauri/target/
+*.app
+*.deb
+.env
+*.log
+.DS_Store
+
+# dist-web is committed (Tauri needs it at build time; it's just static web assets)
+!dist-web/
+!dist-web/**

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "med_001",
+    "en": "laceration",
+    "tr": "kesik, yırtık yara",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A deep cut or tear in the skin or flesh.",
+    "definition_tr": "Deri veya etteki derin kesik veya yırtık.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_002",
+    "en": "abrasion",
+    "tr": "sıyrık, bere",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A shallow wound where the skin is scraped off.",
+    "definition_tr": "Derinin sıyrıldığı yüzeysel yara.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_003",
+    "en": "contusion",
+    "tr": "ezik, çürük",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A bruise caused by blunt impact without breaking the skin.",
+    "definition_tr": "Deri kırılmadan künt darbe sonucu oluşan çürük.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_004",
+    "en": "puncture wound",
+    "tr": "delici yara",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A wound made by a pointed object piercing the skin.",
+    "definition_tr": "Sivri bir cisimle derinin delinmesiyle oluşan yara.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_005",
+    "en": "incision",
+    "tr": "kesi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A clean cut made by a sharp instrument.",
+    "definition_tr": "Keskin bir aletle yapılan temiz kesik.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_006",
+    "en": "avulsion",
+    "tr": "kopma yarası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A wound where tissue is forcibly torn away.",
+    "definition_tr": "Dokunun zorla koparıldığı yara.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_007",
+    "en": "haemorrhage",
+    "tr": "kanama",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Heavy or uncontrolled loss of blood.",
+    "definition_tr": "Ağır veya kontrolsüz kan kaybı.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_008",
+    "en": "bleeding",
+    "tr": "kanama",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The escape of blood from a blood vessel.",
+    "definition_tr": "Kan damarından kanın akması.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_009",
+    "en": "tourniquet",
+    "tr": "turnike",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A device to compress a limb and stop severe bleeding.",
+    "definition_tr": "Şiddetli kanamayı durdurmak için uzvu sıkıştıran araç.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_010",
+    "en": "bandage",
+    "tr": "sargı, bandaj",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A strip of material wound around a wound or injury.",
+    "definition_tr": "Yara veya yaralanma etrafına sarılan malzeme şeridi.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_011",
+    "en": "dressing",
+    "tr": "yara örtüsü, pansuman",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A sterile covering applied to a wound.",
+    "definition_tr": "Yaraya uygulanan steril örtü.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_012",
+    "en": "sterile gauze",
+    "tr": "steril gazlı bez",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sterile woven cloth used to cover wounds.",
+    "definition_tr": "Yaraları örtmek için kullanılan steril dokuma bez.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_013",
+    "en": "adhesive plaster",
+    "tr": "yapışkan bant, flaster",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sticky tape used to secure dressings or small cuts.",
+    "definition_tr": "Sargıları veya küçük kesikleri sabitlemek için yapışkan bant.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_014",
+    "en": "suture",
+    "tr": "dikiş, sütur",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Stitches used to close a wound.",
+    "definition_tr": "Yarayı kapatmak için kullanılan dikişler.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_015",
+    "en": "antiseptic",
+    "tr": "antisepsi, dezenfektan",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A substance that prevents infection in wounds.",
+    "definition_tr": "Yaralarda enfeksiyonu önleyen madde.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_016",
+    "en": "disinfectant",
+    "tr": "dezenfektan",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A chemical agent that destroys microorganisms.",
+    "definition_tr": "Mikroorganizmaları yok eden kimyasal ajan.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_017",
+    "en": "wound cleansing",
+    "tr": "yara temizleme",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Washing a wound to remove debris and bacteria.",
+    "definition_tr": "Yarayı döküntü ve bakterilerden arındırmak için yıkama.",
+    "abbreviation": "",
+    "subtags": [
+      "first aid"
+    ]
+  },
+  {
+    "id": "med_018",
+    "en": "burn",
+    "tr": "yanık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Injury to tissue caused by heat, chemicals or electricity.",
+    "definition_tr": "Isı, kimyasal veya elektrik nedeniyle dokuda oluşan hasar.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_019",
+    "en": "first-degree burn",
+    "tr": "birinci derece yanık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Superficial burn affecting only the outer skin.",
+    "definition_tr": "Yalnızca dış deriyi etkileyen yüzeysel yanık.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_020",
+    "en": "second-degree burn",
+    "tr": "ikinci derece yanık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Burn with blistering of the skin.",
+    "definition_tr": "Deride kabarcıklanma olan yanık.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_021",
+    "en": "third-degree burn",
+    "tr": "üçüncü derece yanık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Full-thickness burn destroying all skin layers.",
+    "definition_tr": "Tüm deri katmanlarını yok eden tam kalınlıkta yanık.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_022",
+    "en": "blister",
+    "tr": "su toplaması, kabarcık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A pocket of fluid under the skin.",
+    "definition_tr": "Deri altında sıvı dolu kesecik.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_023",
+    "en": "scald",
+    "tr": "haşlanma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A burn caused by hot liquid or steam.",
+    "definition_tr": "Sıcak sıvı veya buhar nedeniyle oluşan yanık.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_024",
+    "en": "cool running water",
+    "tr": "akan soğuk su",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Recommended immediate treatment for burns.",
+    "definition_tr": "Yanıklar için önerilen ilk yardım tedavisi.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_025",
+    "en": "sunburn",
+    "tr": "güneş yanığı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Skin inflammation from overexposure to sunlight.",
+    "definition_tr": "Güneşe aşırı maruz kalmadan deri iltihabı.",
+    "abbreviation": "",
+    "subtags": [
+      "burns"
+    ]
+  },
+  {
+    "id": "med_026",
+    "en": "fracture",
+    "tr": "kırık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A break or crack in a bone.",
+    "definition_tr": "Kemikte kırılma veya çatlak.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_027",
+    "en": "open fracture",
+    "tr": "açık kırık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A fracture where the bone pierces the skin.",
+    "definition_tr": "Kemiğin deriyi deldiği kırık.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_028",
+    "en": "closed fracture",
+    "tr": "kapalı kırık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A fracture where the skin remains intact.",
+    "definition_tr": "Derinin sağlam kaldığı kırık.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_029",
+    "en": "compound fracture",
+    "tr": "açık (bileşik) kırık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A fracture with a wound communicating with the break.",
+    "definition_tr": "Kırıkla bağlantılı yara içeren kırık.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_030",
+    "en": "splint",
+    "tr": "atel",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A rigid support to immobilise a broken limb.",
+    "definition_tr": "Kırık uzvu hareketsiz tutmak için sert destek.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_031",
+    "en": "immobilisation",
+    "tr": "hareketsizleştirme, sabitleme",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Preventing movement of an injured body part.",
+    "definition_tr": "Yaralı vücut bölümünün hareketini engelleme.",
+    "abbreviation": "",
+    "subtags": [
+      "fracture"
+    ]
+  },
+  {
+    "id": "med_032",
+    "en": "sprain",
+    "tr": "burkulma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Stretching or tearing of ligaments at a joint.",
+    "definition_tr": "Eklemlerdeki bağların gerilmesi veya yırtılması.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_033",
+    "en": "strain",
+    "tr": "gerilme, zorlanma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Injury to a muscle or tendon from overstretching.",
+    "definition_tr": "Aşırı gerilmeyle kas veya tendonun yaralanması.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_034",
+    "en": "dislocation",
+    "tr": "çıkık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Displacement of a bone from its joint.",
+    "definition_tr": "Kemiğin eklemden yer değiştirmesi.",
+    "abbreviation": "",
+    "subtags": [
+      "injury"
+    ]
+  },
+  {
+    "id": "med_035",
+    "en": "CPR",
+    "tr": "KPR (kardiyopulmoner resüsitasyon)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Emergency procedure to restore breathing and circulation.",
+    "definition_tr": "Solunum ve dolaşımı yeniden sağlayan acil işlem.",
+    "abbreviation": "CPR",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_036",
+    "en": "cardiopulmonary resuscitation",
+    "tr": "kardiyopulmoner resüsitasyon",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Chest compressions and rescue breaths to revive a patient.",
+    "definition_tr": "Hastayı canlandırmak için göğüs basısı ve suni solunum.",
+    "abbreviation": "CPR",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_037",
+    "en": "chest compression",
+    "tr": "göğüs basısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Rhythmic pressing on the chest to pump the heart.",
+    "definition_tr": "Kalbi pompalamak için göğse ritmik bası.",
+    "abbreviation": "",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_038",
+    "en": "rescue breathing",
+    "tr": "suni solunum, kurtarma solunumu",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Mouth-to-mouth breaths given during CPR.",
+    "definition_tr": "KPR sırasında verilen ağızdan ağıza solunum.",
+    "abbreviation": "",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_039",
+    "en": "AED",
+    "tr": "OED (otomatik eksternal defibrilatör)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Automated device that delivers a shock to restart the heart.",
+    "definition_tr": "Kalbi yeniden başlatmak için şok veren otomatik cihaz.",
+    "abbreviation": "AED",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_040",
+    "en": "defibrillator",
+    "tr": "defibrilatör",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Device that restores normal heart rhythm by electric shock.",
+    "definition_tr": "Elektrik şokuyla normal kalp ritmini sağlayan cihaz.",
+    "abbreviation": "",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_041",
+    "en": "airway",
+    "tr": "havayolu",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The passage through which air reaches the lungs.",
+    "definition_tr": "Havanın akciğerlere ulaştığı geçit.",
+    "abbreviation": "",
+    "subtags": [
+      "CPR"
+    ]
+  },
+  {
+    "id": "med_042",
+    "en": "unconscious",
+    "tr": "bilinci kapalı, baygın",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Not awake or aware of surroundings.",
+    "definition_tr": "Uyanık olmayan veya çevrenin farkında olmayan.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_043",
+    "en": "choking",
+    "tr": "boğulma, tıkanma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Blockage of the airway by a foreign object.",
+    "definition_tr": "Yabancı cisimle havayolunun tıkanması.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_044",
+    "en": "Heimlich manoeuvre",
+    "tr": "Heimlich manevrası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abdominal thrusts to expel a choking obstruction.",
+    "definition_tr": "Tıkanıklığı çıkarmak için karın itmeleri.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_045",
+    "en": "shock",
+    "tr": "şok",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Circulatory failure causing inadequate blood flow.",
+    "definition_tr": "Yetersiz kan akışına yol açan dolaşım yetmezliği.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_046",
+    "en": "seizure",
+    "tr": "nöbet, kriz",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sudden uncontrollable electrical disturbance in the brain.",
+    "definition_tr": "Beyinde ani kontrolsüz elektriksel bozukluk.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_047",
+    "en": "fainting",
+    "tr": "bayılma, senkop",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Temporary loss of consciousness from low blood flow.",
+    "definition_tr": "Düşük kan akışından geçici bilinç kaybı.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_048",
+    "en": "seasickness",
+    "tr": "deniz tutması",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Nausea and vomiting caused by ship motion.",
+    "definition_tr": "Gemi hareketi nedeniyle mide bulantısı ve kusma.",
+    "abbreviation": "",
+    "subtags": [
+      "seasickness"
+    ]
+  },
+  {
+    "id": "med_049",
+    "en": "motion sickness",
+    "tr": "hareket hastalığı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Nausea from repetitive motion such as on a ship.",
+    "definition_tr": "Gemideki gibi tekrarlayan hareketten mide bulantısı.",
+    "abbreviation": "",
+    "subtags": [
+      "seasickness"
+    ]
+  },
+  {
+    "id": "med_050",
+    "en": "nausea",
+    "tr": "bulantı, mide bulantısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Feeling of sickness with an urge to vomit.",
+    "definition_tr": "Kusma isteğiyle birlikte hastalık hissi.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_051",
+    "en": "vomiting",
+    "tr": "kusma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Forcible expulsion of stomach contents.",
+    "definition_tr": "Mide içeriğinin zorla dışarı atılması.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_052",
+    "en": "dizziness",
+    "tr": "baş dönmesi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sensation of spinning or lightheadedness.",
+    "definition_tr": "Dönme veya baş dönmesi hissi.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_053",
+    "en": "hypothermia",
+    "tr": "hipotermi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Dangerously low body temperature from cold exposure.",
+    "definition_tr": "Soğuğa maruz kalmadan tehlikeli düşük vücut ısısı.",
+    "abbreviation": "",
+    "subtags": [
+      "cold injury"
+    ]
+  },
+  {
+    "id": "med_054",
+    "en": "frostbite",
+    "tr": "donma, soğuk yanığı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Freezing injury of body tissue, usually extremities.",
+    "definition_tr": "Genellikle uçlarda doku donması yaralanması.",
+    "abbreviation": "",
+    "subtags": [
+      "cold injury"
+    ]
+  },
+  {
+    "id": "med_055",
+    "en": "hyperthermia",
+    "tr": "hipertermi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abnormally high body temperature.",
+    "definition_tr": "Anormal yüksek vücut ısısı.",
+    "abbreviation": "",
+    "subtags": [
+      "heat injury"
+    ]
+  },
+  {
+    "id": "med_056",
+    "en": "heat stroke",
+    "tr": "güneş çarpması, sıcak çarpması",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Life-threatening overheating of the body.",
+    "definition_tr": "Yaşamı tehdit eden vücut aşırı ısınması.",
+    "abbreviation": "",
+    "subtags": [
+      "heat injury"
+    ]
+  },
+  {
+    "id": "med_057",
+    "en": "dehydration",
+    "tr": "dehidratasyon, susuzluk",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Excessive loss of body water.",
+    "definition_tr": "Vücutta aşırı su kaybı.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_058",
+    "en": "sunstroke",
+    "tr": "güneş çarpması",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Illness from prolonged exposure to high temperature.",
+    "definition_tr": "Yüksek sıcaklığa uzun maruziyetten hastalık.",
+    "abbreviation": "",
+    "subtags": [
+      "heat injury"
+    ]
+  },
+  {
+    "id": "med_059",
+    "en": "fever",
+    "tr": "ateş, humma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Elevated body temperature indicating illness.",
+    "definition_tr": "Hastalığı gösteren yükselmiş vücut ısısı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_060",
+    "en": "headache",
+    "tr": "baş ağrısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Pain in the head or upper neck.",
+    "definition_tr": "Başta veya boyun üstünde ağrı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_061",
+    "en": "toothache",
+    "tr": "diş ağrısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Pain in or around a tooth.",
+    "definition_tr": "Dişte veya çevresinde ağrı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_062",
+    "en": "earache",
+    "tr": "kulak ağrısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Pain inside the ear.",
+    "definition_tr": "Kulak içinde ağrı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_063",
+    "en": "sore throat",
+    "tr": "boğaz ağrısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Pain or irritation of the throat.",
+    "definition_tr": "Boğazda ağrı veya tahriş.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_064",
+    "en": "cough",
+    "tr": "öksürük",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sudden expulsion of air from the lungs.",
+    "definition_tr": "Akciğerlerden ani hava atımı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_065",
+    "en": "cold",
+    "tr": "soğuk algınlığı, nezle",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Mild viral infection of the nose and throat.",
+    "definition_tr": "Burun ve boğazın hafif viral enfeksiyonu.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_066",
+    "en": "influenza",
+    "tr": "grip",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A contagious viral infection of the respiratory tract.",
+    "definition_tr": "Solunum yollarının bulaşıcı viral enfeksiyonu.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_067",
+    "en": "diarrhoea",
+    "tr": "ishal",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Frequent loose or watery bowel movements.",
+    "definition_tr": "Sık sulu dışkılama.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_068",
+    "en": "constipation",
+    "tr": "kabızlık",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Difficulty in passing stools.",
+    "definition_tr": "Dışkılamada zorluk.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_069",
+    "en": "food poisoning",
+    "tr": "gıda zehirlenmesi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Illness from contaminated food.",
+    "definition_tr": "Kirlenmiş gıdadan kaynaklanan hastalık.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_070",
+    "en": "abdominal pain",
+    "tr": "karın ağrısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Pain felt in the abdomen.",
+    "definition_tr": "Karında hissedilen ağrı.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_071",
+    "en": "appendicitis",
+    "tr": "apandisit",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Inflammation of the appendix.",
+    "definition_tr": "Apandiksin iltihabı.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_072",
+    "en": "allergy",
+    "tr": "alerji",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Overreaction of the immune system to a substance.",
+    "definition_tr": "Bağışıklık sisteminin bir maddeye aşırı tepkisi.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_073",
+    "en": "anaphylaxis",
+    "tr": "anafilaksi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Severe life-threatening allergic reaction.",
+    "definition_tr": "Ciddi, yaşamı tehdit eden alerjik reaksiyon.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_074",
+    "en": "asthma",
+    "tr": "astım",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Chronic condition causing breathing difficulty.",
+    "definition_tr": "Nefes almada zorluğa yol açan kronik durum.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_075",
+    "en": "asthma attack",
+    "tr": "astım krizi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sudden worsening of asthma symptoms.",
+    "definition_tr": "Astım belirtilerinin ani kötüleşmesi.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_076",
+    "en": "inhaler",
+    "tr": "inhaler, nefes açıcı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Device delivering medicine to the lungs by breathing.",
+    "definition_tr": "Solunumla akciğerlere ilaç veren cihaz.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_077",
+    "en": "diabetes",
+    "tr": "diyabet, şeker hastalığı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Condition of high blood sugar levels.",
+    "definition_tr": "Yüksek kan şekeri düzeyi durumu.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_078",
+    "en": "insulin",
+    "tr": "insülin",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Hormone regulating blood sugar, used to treat diabetes.",
+    "definition_tr": "Kan şekerini düzenleyen, diyabette kullanılan hormon.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_079",
+    "en": "hypertension",
+    "tr": "hipertansiyon, yüksek tansiyon",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abnormally high blood pressure.",
+    "definition_tr": "Anormal yüksek kan basıncı.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_080",
+    "en": "hypoglycaemia",
+    "tr": "hipoglisemi, düşük şeker",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Dangerously low blood sugar.",
+    "definition_tr": "Tehlikeli düşük kan şekeri.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_081",
+    "en": "infection",
+    "tr": "enfeksiyon",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Invasion of the body by harmful microorganisms.",
+    "definition_tr": "Vücudun zararlı mikroorganizmalarca istilası.",
+    "abbreviation": "",
+    "subtags": [
+      "illness"
+    ]
+  },
+  {
+    "id": "med_082",
+    "en": "inflammation",
+    "tr": "iltihap, yangı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Redness, swelling and heat as a tissue response.",
+    "definition_tr": "Dokunun tepkisi olarak kızarıklık, şişme, sıcaklık.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_083",
+    "en": "antibiotic",
+    "tr": "antibiyotik",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that fights bacterial infection.",
+    "definition_tr": "Bakteriyel enfeksiyonla savaşan ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_084",
+    "en": "paracetamol",
+    "tr": "parasetamol",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Painkiller and fever reducer.",
+    "definition_tr": "Ağrı kesici ve ateş düşürücü.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_085",
+    "en": "acetaminophen",
+    "tr": "asetaminofen",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Alternative name for paracetamol.",
+    "definition_tr": "Parasetamolün alternatif adı.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_086",
+    "en": "ibuprofen",
+    "tr": "ibuprofen",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Non-steroidal anti-inflammatory painkiller.",
+    "definition_tr": "İbuprofen (steroid olmayan antiinflamatuar ağrı kesici)",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_087",
+    "en": "aspirin",
+    "tr": "aspirin",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Painkiller that also thins the blood.",
+    "definition_tr": "Aspirin (ağrı kesici; ayrıca kanı sulandırır)",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_088",
+    "en": "amoxicillin",
+    "tr": "amoksisilin",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Common penicillin-type antibiotic.",
+    "definition_tr": "Yaygın penisilin tipi antibiyotik.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_089",
+    "en": "metronidazole",
+    "tr": "metronidazol",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Antibiotic for anaerobic infections and diarrhoea.",
+    "definition_tr": "Anaerobik enfeksiyon ve ishal için antibiyotik.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_090",
+    "en": "doxycycline",
+    "tr": "doksisiklin",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Broad-spectrum antibiotic.",
+    "definition_tr": "Geniş spektrumlu antibiyotik.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_091",
+    "en": "antihistamine",
+    "tr": "antihistaminik",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that relieves allergy symptoms.",
+    "definition_tr": "Alerji belirtilerini hafifleten ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_092",
+    "en": "antiemetic",
+    "tr": "antiemetik",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that prevents or stops vomiting.",
+    "definition_tr": "Kusmayı önleyen veya durduran ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_093",
+    "en": "antidiarrhoeal",
+    "tr": "ishal kesici",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that reduces diarrhoea.",
+    "definition_tr": "İshali azaltan ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_094",
+    "en": "laxative",
+    "tr": "müshil, laksatif",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that promotes bowel movement.",
+    "definition_tr": "Bağırsak hareketini artıran ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_095",
+    "en": "analgesic",
+    "tr": "analjezik, ağrı kesici",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medicine that relieves pain.",
+    "definition_tr": "Ağrıyı hafifleten ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_096",
+    "en": "antiseptic cream",
+    "tr": "antisepi krem",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Cream applied to prevent wound infection.",
+    "definition_tr": "Yara enfeksiyonunu önlemek için sürülen krem.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_097",
+    "en": "ointment",
+    "tr": "merhem",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A soft topical preparation for the skin.",
+    "definition_tr": "Deri için yumuşak topikal hazırlık.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_098",
+    "en": "saline solution",
+    "tr": "serum, fizyolojik tuzlu su",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Sterile salt solution for rinsing and hydration.",
+    "definition_tr": "Yıkama ve hidrasyon için steril tuz çözeltisi.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_099",
+    "en": "oral rehydration salts",
+    "tr": "ağızdan sıvı replasman tuzu",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Salts to replace fluids lost through diarrhoea.",
+    "definition_tr": "İshalle kaybedilen sıvıları yerine koyan tuzlar.",
+    "abbreviation": "ORS",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_100",
+    "en": "eyedrops",
+    "tr": "göz damlası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Liquid medicine applied to the eye.",
+    "definition_tr": "Gözeye uygulanan sıvı ilaç.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_101",
+    "en": "head",
+    "tr": "baş",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The upper part of the body containing the brain.",
+    "definition_tr": "Beyni içeren vücudun üst bölümü.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_102",
+    "en": "chest",
+    "tr": "göğüs",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The front of the body between neck and abdomen.",
+    "definition_tr": "Boyun ile karın arasındaki vücut önü.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_103",
+    "en": "abdomen",
+    "tr": "karın",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The belly, containing digestive organs.",
+    "definition_tr": "Sindirim organlarını içeren karın bölgesi.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_104",
+    "en": "limb",
+    "tr": "uzuv, kol bacak",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "An arm or leg.",
+    "definition_tr": "Kol veya bacak.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_105",
+    "en": "arm",
+    "tr": "kol",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The upper limb from shoulder to hand.",
+    "definition_tr": "Omuzdan ele kadar olan üst uzuv.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_106",
+    "en": "leg",
+    "tr": "bacak",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The lower limb from hip to foot.",
+    "definition_tr": "Kalçadan ayağa kadar olan alt uzuv.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_107",
+    "en": "joint",
+    "tr": "eklem",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The connection between two bones.",
+    "definition_tr": "İki kemik arasındaki bağlantı.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_108",
+    "en": "spine",
+    "tr": "omurga",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The column of vertebrae enclosing the spinal cord.",
+    "definition_tr": "Omurilik kanalını saran omurga sütunu.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_109",
+    "en": "skull",
+    "tr": "kafatası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The bony framework of the head.",
+    "definition_tr": "Başın kemik iskeleti.",
+    "abbreviation": "",
+    "subtags": [
+      "body part"
+    ]
+  },
+  {
+    "id": "med_110",
+    "en": "pulse",
+    "tr": "nabız",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The rhythmic beating of the arteries with the heart.",
+    "definition_tr": "Kalple birlikte arterlerin ritmik atışı.",
+    "abbreviation": "",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_111",
+    "en": "blood pressure",
+    "tr": "kan basıncı, tansiyon",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The pressure of circulating blood on vessel walls.",
+    "definition_tr": "Dolaşımdaki kanın damar duvarına basıncı.",
+    "abbreviation": "BP",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_112",
+    "en": "BP",
+    "tr": "tansiyon, KB",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abbreviation for blood pressure.",
+    "definition_tr": "Kan basıncının kısaltması.",
+    "abbreviation": "BP",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_113",
+    "en": "heart rate",
+    "tr": "kalp hızı, nabız sayısı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Number of heartbeats per minute.",
+    "definition_tr": "Dakikadaki kalp atışı sayısı.",
+    "abbreviation": "",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_114",
+    "en": "respiration",
+    "tr": "solunum",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The act of breathing in and out.",
+    "definition_tr": "İçeri ve dışarı nefes alma eylemi.",
+    "abbreviation": "",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_115",
+    "en": "respiratory rate",
+    "tr": "solunum hızı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Number of breaths per minute.",
+    "definition_tr": "Dakikadaki nefes sayısı.",
+    "abbreviation": "",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_116",
+    "en": "temperature",
+    "tr": "vücut ısısı, ateş",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Body heat measured in degrees.",
+    "definition_tr": "Dereceyle ölçülen vücut ısısı.",
+    "abbreviation": "",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_117",
+    "en": "oxygen saturation",
+    "tr": "oksijen satürasyonu, SpO2",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Percentage of oxygen in the blood.",
+    "definition_tr": "Kandaki oksijen yüzdesi.",
+    "abbreviation": "SpO2",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_118",
+    "en": "level of consciousness",
+    "tr": "bilinç düzeyi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A measure of a patient's awareness.",
+    "definition_tr": "Hastanın farkındalığının ölçüsü.",
+    "abbreviation": "LOC",
+    "subtags": [
+      "vital signs"
+    ]
+  },
+  {
+    "id": "med_119",
+    "en": "MEDEVAC",
+    "tr": "TAHLV (tıbbi tahliye)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medical evacuation of a patient by air or sea.",
+    "definition_tr": "Hastanın hava veya deniz yoluyla tıbbi tahliyesi.",
+    "abbreviation": "MEDEVAC",
+    "subtags": [
+      "evacuation"
+    ]
+  },
+  {
+    "id": "med_120",
+    "en": "medical evacuation",
+    "tr": "tıbbi tahliye",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Moving a patient to a place of better care.",
+    "definition_tr": "Hastanın daha iyi bakıma götürülmesi.",
+    "abbreviation": "MEDEVAC",
+    "subtags": [
+      "evacuation"
+    ]
+  },
+  {
+    "id": "med_121",
+    "en": "TMAS",
+    "tr": "TMAS (denizcilik tıbbi danışma sistemi)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Tele-Medical Assistance Service for ships at sea.",
+    "definition_tr": "Denizdeki gemiler için tele-tıbbi yardım hizmeti.",
+    "abbreviation": "TMAS",
+    "subtags": [
+      "radio medical"
+    ]
+  },
+  {
+    "id": "med_122",
+    "en": "radio medical advice",
+    "tr": "telsiz tıbbi danışma",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Medical guidance obtained by radio from shore.",
+    "definition_tr": "Kıyıdan telsizle alınan tıbbi rehberlik.",
+    "abbreviation": "",
+    "subtags": [
+      "radio medical"
+    ]
+  },
+  {
+    "id": "med_123",
+    "en": "Ship Captain's Medical Guide",
+    "tr": "Gemi Kaptanının Tıbbi Elkitabı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Reference book for treating illness aboard ship.",
+    "definition_tr": "Gemide hastalık tedavisi için referans kitabı.",
+    "abbreviation": "",
+    "subtags": [
+      "guide"
+    ]
+  },
+  {
+    "id": "med_124",
+    "en": "medical chest",
+    "tr": "tıbbi dolap, ecza dolabı",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The ship's stored supply of medicines and equipment.",
+    "definition_tr": "Geminin ilaç ve ekipman deposu.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_125",
+    "en": "ship's doctor",
+    "tr": "gemi doktoru",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Physician carried on some passenger or large ships.",
+    "definition_tr": "Bazı yolcu veya büyük gemilerde bulunan hekim.",
+    "abbreviation": "",
+    "subtags": [
+      "personnel"
+    ]
+  },
+  {
+    "id": "med_126",
+    "en": "ship's hospital",
+    "tr": "gemi revirı, gemi hastanesi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The medical facility aboard a ship.",
+    "definition_tr": "Gemideki tıbbi tesis.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_127",
+    "en": "quarantine",
+    "tr": "karantina",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Restriction of movement to prevent disease spread.",
+    "definition_tr": "Hastalık yayılımını önlemek için hareket kısıtlaması.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_128",
+    "en": "pratique",
+    "tr": "pratik, sağlık izni",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Permission for a ship to enter port free of quarantine.",
+    "definition_tr": "Geminin karantinasız limana girme izni.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_129",
+    "en": "free pratique",
+    "tr": "serbest pratik",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Clearance granted when no infectious disease is present.",
+    "definition_tr": "Bulaşıcı hastalık yokken verilen izin.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_130",
+    "en": "Maritime Declaration of Health",
+    "tr": "Deniz Sağlık Bildirimi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Document declaring the health status of a ship.",
+    "definition_tr": "Geminin sağlık durumunu bildiren belge.",
+    "abbreviation": "MDH",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_131",
+    "en": "MDH",
+    "tr": "DSB (Deniz Sağlık Bildirimi)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abbreviation for Maritime Declaration of Health.",
+    "definition_tr": "Deniz Sağlık Bildiriminin kısaltması.",
+    "abbreviation": "MDH",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_132",
+    "en": "International Maritime Medical Guide",
+    "tr": "Uluslararası Denizcilik Tıbbi Rehberi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "WHO/IMO guide for shipboard medical care.",
+    "definition_tr": "Gemide tıbbi bakım için WHO/IMO rehberi.",
+    "abbreviation": "IMGS",
+    "subtags": [
+      "guide"
+    ]
+  },
+  {
+    "id": "med_133",
+    "en": "IMGS",
+    "tr": "UDTR (Uluslararası Denizcilik Tıbbi Rehberi)",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Abbreviation for International Maritime Medical Guide.",
+    "definition_tr": "Uluslararası Denizcilik Tıbbi Rehberi kısaltması.",
+    "abbreviation": "IMGS",
+    "subtags": [
+      "guide"
+    ]
+  },
+  {
+    "id": "med_134",
+    "en": "port health authority",
+    "tr": "liman sağlık otoritesi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Official body controlling health at a port.",
+    "definition_tr": "Limandaki sağlığı denetleyen resmi kuruluş.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_135",
+    "en": "vaccination certificate",
+    "tr": "aşı sertifikası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Proof of immunisation against disease.",
+    "definition_tr": "Hastalığa karşı bağışıklık kanıtı.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_136",
+    "en": "yellow fever certificate",
+    "tr": "sarı humma aşı sertifikası",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Proof of yellow fever vaccination required at some ports.",
+    "definition_tr": "Bazı limanlarda gereken sarı humma aşı kanıtı.",
+    "abbreviation": "",
+    "subtags": [
+      "quarantine"
+    ]
+  },
+  {
+    "id": "med_137",
+    "en": "stretcher",
+    "tr": "sedye",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A device for carrying a sick or injured person.",
+    "definition_tr": "Hasta veya yaralı taşımak için araç.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_138",
+    "en": "nebuliser",
+    "tr": "nebulizatör",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Device converting liquid medicine into a mist to inhale.",
+    "definition_tr": "Sıvı ilacı solunum için sise çeviren cihaz.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_139",
+    "en": "stethoscope",
+    "tr": "stetoskop",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Instrument for listening to body sounds.",
+    "definition_tr": "Vücut seslerini dinleme aleti.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_140",
+    "en": "sphygmomanometer",
+    "tr": "tansiyon aleti, sfigmomanometre",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Instrument for measuring blood pressure.",
+    "definition_tr": "Kan basıncını ölçen alet.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_141",
+    "en": "thermometer",
+    "tr": "termometre",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Instrument for measuring body temperature.",
+    "definition_tr": "Vücut ısısını ölçen alet.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_142",
+    "en": "pulse oximeter",
+    "tr": "nabız oksimetresi",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Device measuring oxygen saturation and pulse.",
+    "definition_tr": "Oksijen satürasyonu ve nabzı ölçen cihaz.",
+    "abbreviation": "",
+    "subtags": [
+      "equipment"
+    ]
+  },
+  {
+    "id": "med_143",
+    "en": "triage",
+    "tr": "triyaj, öncelik sınıflandırması",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Prioritising patients by urgency of need.",
+    "definition_tr": "Hastaları aciliyetine göre önceliklendirme.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_144",
+    "en": "casualty",
+    "tr": "yaralı, kaza geçiren",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A person injured or killed in an accident.",
+    "definition_tr": "Kazada yaralanan veya ölen kişi.",
+    "abbreviation": "",
+    "subtags": [
+      "emergency"
+    ]
+  },
+  {
+    "id": "med_145",
+    "en": "patient",
+    "tr": "hasta, hastaneye yatan",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A person receiving medical treatment.",
+    "definition_tr": "Tıbbi tedavi gören kişi.",
+    "abbreviation": "",
+    "subtags": [
+      "personnel"
+    ]
+  },
+  {
+    "id": "med_146",
+    "en": "symptom",
+    "tr": "belirti, semptom",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "A sign of illness noticed by the patient.",
+    "definition_tr": "Hastaca fark edilen hastalık işareti.",
+    "abbreviation": "",
+    "subtags": [
+      "symptom"
+    ]
+  },
+  {
+    "id": "med_147",
+    "en": "diagnosis",
+    "tr": "tanı, teşhis",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Identification of a disease from symptoms.",
+    "definition_tr": "Belirtilerden hastalığın belirlenmesi.",
+    "abbreviation": "",
+    "subtags": [
+      "guide"
+    ]
+  },
+  {
+    "id": "med_148",
+    "en": "prescription",
+    "tr": "reçete",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "Written instruction for a medicine.",
+    "definition_tr": "İlaç için yazılı talimat.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_149",
+    "en": "dosage",
+    "tr": "doz, dozaj",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "The amount of medicine to be taken.",
+    "definition_tr": "Alınacak ilaç miktarı.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  },
+  {
+    "id": "med_150",
+    "en": "side effect",
+    "tr": "yan etki",
+    "category": [
+      "medical"
+    ],
+    "definition_en": "An unwanted secondary effect of a drug.",
+    "definition_tr": "İlacın istenmeyen ikincil etkisi.",
+    "abbreviation": "",
+    "subtags": [
+      "drug"
+    ]
+  }
+]

@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "chm_001",
+    "en": "chemical tanker",
+    "tr": "kimyasal tanker",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "IBC Code kapsamında dökme sıvı kimyasal taşıyan tanker."
+  },
+  {
+    "id": "chm_002",
+    "en": "IBC Code",
+    "tr": "Uluslararası Dökme Kimyasal Kodu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "IBC",
+    "definition_tr": "Tehlikeli kimyasalların dökme taşınmasına ilişkin uluslararası kod."
+  },
+  {
+    "id": "chm_003",
+    "en": "BCH Code",
+    "tr": "Dökme Kimyasal Taşıma Kodu (eski)",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "BCH"
+  },
+  {
+    "id": "chm_004",
+    "en": "Certificate of Fitness",
+    "tr": "Uygunluk Belgesi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "CoF",
+    "definition_tr": "Geminin hangi kimyasalları taşıyabileceğini gösteren belge."
+  },
+  {
+    "id": "chm_005",
+    "en": "ship type 1",
+    "tr": "tip 1 gemi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "En yüksek riskli kargolar için en güçlü koruma gerektiren gemi tipi."
+  },
+  {
+    "id": "chm_006",
+    "en": "ship type 2",
+    "tr": "tip 2 gemi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_007",
+    "en": "ship type 3",
+    "tr": "tip 3 gemi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_008",
+    "en": "noxious liquid substance",
+    "tr": "zararlı sıvı madde",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "NLS",
+    "definition_tr": "MARPOL Ek II kapsamındaki sıvı maddeler."
+  },
+  {
+    "id": "chm_009",
+    "en": "pollution category X",
+    "tr": "kirlilik kategorisi X",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Deniz kaynaklarına büyük zarar veren, boşaltımı yasak madde grubu."
+  },
+  {
+    "id": "chm_010",
+    "en": "pollution category Y",
+    "tr": "kirlilik kategorisi Y",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_011",
+    "en": "pollution category Z",
+    "tr": "kirlilik kategorisi Z",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_012",
+    "en": "other substances",
+    "tr": "diğer maddeler (OS)",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "OS"
+  },
+  {
+    "id": "chm_013",
+    "en": "P&A Manual",
+    "tr": "Prosedürler ve Düzenlemeler El Kitabı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "P&A",
+    "definition_tr": "MARPOL Ek II uyarınca tank yıkama ve boşaltım prosedürlerini içeren onaylı kitapçık."
+  },
+  {
+    "id": "chm_014",
+    "en": "Cargo Record Book",
+    "tr": "Yük Kayıt Defteri",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "CRB"
+  },
+  {
+    "id": "chm_015",
+    "en": "prewash",
+    "tr": "ön yıkama",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Kategori X/Y bazı yükler sonrası limanda zorunlu yapılan tank yıkaması."
+  },
+  {
+    "id": "chm_016",
+    "en": "tank cleaning",
+    "tr": "tank temizliği",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_017",
+    "en": "butterworth machine",
+    "tr": "butterworth (tank yıkama) makinesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_018",
+    "en": "tank cleaning machine",
+    "tr": "tank yıkama makinesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_019",
+    "en": "fresh water rinse",
+    "tr": "tatlı su durulaması",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_020",
+    "en": "steam out",
+    "tr": "buharla temizleme",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_021",
+    "en": "ventilation",
+    "tr": "havalandırma",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_022",
+    "en": "gas freeing",
+    "tr": "gazdan arındırma",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Tank atmosferindeki zararlı gazların güvenli seviyeye indirilmesi."
+  },
+  {
+    "id": "chm_023",
+    "en": "gas free certificate",
+    "tr": "gazdan ari belgesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_024",
+    "en": "inerting",
+    "tr": "inertleme",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Tank atmosferindeki oksijenin inert gazla düşürülmesi."
+  },
+  {
+    "id": "chm_025",
+    "en": "inert gas system",
+    "tr": "inert gaz sistemi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "IGS"
+  },
+  {
+    "id": "chm_026",
+    "en": "padding",
+    "tr": "padding, gaz yastıklaması",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Yük üzerinde inert gaz veya azot yastığı oluşturma."
+  },
+  {
+    "id": "chm_027",
+    "en": "blanketing",
+    "tr": "blanketleme",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Yük yüzeyinin sürekli inert gazla örtülmesi."
+  },
+  {
+    "id": "chm_028",
+    "en": "nitrogen purging",
+    "tr": "azotla süpürme",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_029",
+    "en": "oxygen content",
+    "tr": "oksijen içeriği",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_030",
+    "en": "dew point",
+    "tr": "çiy noktası",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Nem yoğuşma sıcaklığı; higroskopik yükler için kritik."
+  },
+  {
+    "id": "chm_031",
+    "en": "crude oil washing",
+    "tr": "ham petrolle yıkama",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "COW"
+  },
+  {
+    "id": "chm_032",
+    "en": "cargo compatibility",
+    "tr": "yük uyumluluğu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Komşu tanklardaki ve hatlardaki yüklerin birbiriyle ve malzemeyle uyumu."
+  },
+  {
+    "id": "chm_033",
+    "en": "compatibility chart",
+    "tr": "uyumluluk tablosu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "USCG uyumluluk grupları esas alınan yük çakışma tablosu."
+  },
+  {
+    "id": "chm_034",
+    "en": "reactive cargo",
+    "tr": "reaktif yük",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_035",
+    "en": "self-reactive substance",
+    "tr": "kendiliğinden reaksiyona giren madde",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_036",
+    "en": "polymerization",
+    "tr": "polimerizasyon",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Monomer yükün zincir reaksiyonla katılaşması; ısı üretir."
+  },
+  {
+    "id": "chm_037",
+    "en": "inhibitor",
+    "tr": "inhibitör",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Polimerizasyonu önlemek için yüke eklenen madde."
+  },
+  {
+    "id": "chm_038",
+    "en": "inhibitor certificate",
+    "tr": "inhibitör sertifikası",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_039",
+    "en": "stabilized cargo",
+    "tr": "stabilize yük",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_040",
+    "en": "cargo segregation",
+    "tr": "yük ayrımı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_041",
+    "en": "segregated ballast tank",
+    "tr": "ayrık balast tankı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SBT"
+  },
+  {
+    "id": "chm_042",
+    "en": "deepwell pump",
+    "tr": "deepwell pompa",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Kimyasal tankerlerde tank dibine kadar inen dikey yük pompası."
+  },
+  {
+    "id": "chm_043",
+    "en": "framo system",
+    "tr": "hidrolik yük pompa sistemi (framo tipi)",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_044",
+    "en": "stripping",
+    "tr": "sıyırma, striplemek",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Tank dibinde kalan yükün son kalıntısının basılması."
+  },
+  {
+    "id": "chm_045",
+    "en": "stripping line",
+    "tr": "stripping hattı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_046",
+    "en": "drop line",
+    "tr": "drop line, iniş hattı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_047",
+    "en": "cargo line",
+    "tr": "yük hattı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_048",
+    "en": "line displacement",
+    "tr": "hat süpürme",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_049",
+    "en": "loading rate",
+    "tr": "yükleme hızı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_050",
+    "en": "topping off",
+    "tr": "tepeleme, son dolum",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_051",
+    "en": "ullage",
+    "tr": "ullage, boşluk ölçümü",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Tank tavanı ile sıvı yüzeyi arasındaki mesafe."
+  },
+  {
+    "id": "chm_052",
+    "en": "sounding",
+    "tr": "iskandil",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Tank dibinden sıvı yüzeyine kadar ölçüm."
+  },
+  {
+    "id": "chm_053",
+    "en": "innage",
+    "tr": "dolum yüksekliği",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Dolum yüksekliği (tanktaki sıvının yukarıdan ölçülen seviyesi)"
+  },
+  {
+    "id": "chm_054",
+    "en": "trim correction",
+    "tr": "trim düzeltmesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_055",
+    "en": "list correction",
+    "tr": "meyil düzeltmesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_056",
+    "en": "volume correction factor",
+    "tr": "hacim düzeltme faktörü",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "VCF"
+  },
+  {
+    "id": "chm_057",
+    "en": "ASTM table 54B",
+    "tr": "ASTM 54B tablosu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Hacmin 15°C'ye indirgenmesinde kullanılan tablo."
+  },
+  {
+    "id": "chm_058",
+    "en": "density at 15 degrees",
+    "tr": "15°C'de yoğunluk",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_059",
+    "en": "specific gravity",
+    "tr": "özgül ağırlık",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SG"
+  },
+  {
+    "id": "chm_060",
+    "en": "gross observed volume",
+    "tr": "brüt gözlenen hacim",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "GOV"
+  },
+  {
+    "id": "chm_061",
+    "en": "gross standard volume",
+    "tr": "brüt standart hacim",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "GSV"
+  },
+  {
+    "id": "chm_062",
+    "en": "total calculated volume",
+    "tr": "toplam hesaplanan hacim",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "TCV"
+  },
+  {
+    "id": "chm_063",
+    "en": "weight in vacuum",
+    "tr": "vakumda ağırlık",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_064",
+    "en": "weight in air",
+    "tr": "havada ağırlık",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_065",
+    "en": "onboard quantity",
+    "tr": "gemide mevcut miktar",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "OBQ"
+  },
+  {
+    "id": "chm_066",
+    "en": "remaining on board",
+    "tr": "gemide kalan miktar",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "ROB"
+  },
+  {
+    "id": "chm_067",
+    "en": "vessel experience factor",
+    "tr": "gemi deneyim faktörü",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "VEF"
+  },
+  {
+    "id": "chm_068",
+    "en": "cargo tank coating",
+    "tr": "yük tankı kaplaması",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_069",
+    "en": "epoxy coating",
+    "tr": "epoksi kaplama",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_070",
+    "en": "zinc silicate coating",
+    "tr": "çinko silikat kaplama",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_071",
+    "en": "stainless steel tank",
+    "tr": "paslanmaz çelik tank",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_072",
+    "en": "resistance list",
+    "tr": "direnç (kaplama uyum) listesi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Kaplama üreticisinin hangi yüke ne kadar dayandığını gösteren liste."
+  },
+  {
+    "id": "chm_073",
+    "en": "wall wash test",
+    "tr": "duvar yıkama testi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Metanol yükleri öncesi tank temizliğinin doğrulandığı test."
+  },
+  {
+    "id": "chm_074",
+    "en": "permanganate time test",
+    "tr": "permanganat zaman testi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "PTT"
+  },
+  {
+    "id": "chm_075",
+    "en": "hydrocarbon test",
+    "tr": "hidrokarbon testi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_076",
+    "en": "chloride test",
+    "tr": "klorür testi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_077",
+    "en": "colour APHA",
+    "tr": "APHA renk değeri",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_078",
+    "en": "first foot sample",
+    "tr": "ilk ayak numunesi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Yüklemenin başında alınan doğrulama numunesi."
+  },
+  {
+    "id": "chm_079",
+    "en": "composite sample",
+    "tr": "kompozit numune",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_080",
+    "en": "retained sample",
+    "tr": "saklanan numune",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_081",
+    "en": "cargo surveyor",
+    "tr": "yük sörveyörü",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_082",
+    "en": "certificate of analysis",
+    "tr": "analiz sertifikası",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "COA"
+  },
+  {
+    "id": "chm_083",
+    "en": "material safety data sheet",
+    "tr": "malzeme güvenlik bilgi formu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "MSDS"
+  },
+  {
+    "id": "chm_084",
+    "en": "safety data sheet",
+    "tr": "güvenlik bilgi formu",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SDS"
+  },
+  {
+    "id": "chm_085",
+    "en": "flash point",
+    "tr": "parlama noktası",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_086",
+    "en": "boiling point",
+    "tr": "kaynama noktası",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_087",
+    "en": "melting point",
+    "tr": "erime noktası",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_088",
+    "en": "vapour pressure",
+    "tr": "buhar basıncı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_089",
+    "en": "vapour density",
+    "tr": "buhar yoğunluğu",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_090",
+    "en": "lower explosive limit",
+    "tr": "alt patlama sınırı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "LEL"
+  },
+  {
+    "id": "chm_091",
+    "en": "upper explosive limit",
+    "tr": "üst patlama sınırı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "UEL"
+  },
+  {
+    "id": "chm_092",
+    "en": "threshold limit value",
+    "tr": "eşik sınır değeri",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "TLV"
+  },
+  {
+    "id": "chm_093",
+    "en": "permissible exposure limit",
+    "tr": "izin verilen maruziyet sınırı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "PEL"
+  },
+  {
+    "id": "chm_094",
+    "en": "parts per million",
+    "tr": "milyonda bir kısım",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "ppm"
+  },
+  {
+    "id": "chm_095",
+    "en": "toxic vapour",
+    "tr": "toksik buhar",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_096",
+    "en": "personal protective equipment",
+    "tr": "kişisel koruyucu donanım",
+    "category": [
+      "chemical_tanker",
+      "supply"
+    ],
+    "abbreviation": "PPE"
+  },
+  {
+    "id": "chm_097",
+    "en": "chemical suit",
+    "tr": "kimyasal koruyucu tulum",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_098",
+    "en": "self-contained breathing apparatus",
+    "tr": "kapalı devre solunum cihazı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SCBA"
+  },
+  {
+    "id": "chm_099",
+    "en": "emergency escape breathing device",
+    "tr": "acil kaçış solunum cihazı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "EEBD"
+  },
+  {
+    "id": "chm_100",
+    "en": "gas detector",
+    "tr": "gaz dedektörü",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_101",
+    "en": "explosimeter",
+    "tr": "patlayıcılık ölçer",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_102",
+    "en": "oxygen analyser",
+    "tr": "oksijen analizörü",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_103",
+    "en": "drager tube",
+    "tr": "dräger tüpü",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_104",
+    "en": "vapour return line",
+    "tr": "buhar dönüş hattı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "VRL"
+  },
+  {
+    "id": "chm_105",
+    "en": "pressure vacuum valve",
+    "tr": "basınç-vakum valfi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "P/V valve"
+  },
+  {
+    "id": "chm_106",
+    "en": "high level alarm",
+    "tr": "yüksek seviye alarmı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_107",
+    "en": "overfill alarm",
+    "tr": "taşma alarmı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_108",
+    "en": "ship shore safety checklist",
+    "tr": "gemi-sahil güvenlik kontrol listesi",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SSSCL"
+  },
+  {
+    "id": "chm_109",
+    "en": "declaration of inspection",
+    "tr": "denetim beyanı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "DOI"
+  },
+  {
+    "id": "chm_110",
+    "en": "cargo operation plan",
+    "tr": "yük operasyon planı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_111",
+    "en": "pre-transfer conference",
+    "tr": "transfer öncesi toplantı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_112",
+    "en": "emergency shutdown test",
+    "tr": "acil durdurma testi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_113",
+    "en": "drip tray",
+    "tr": "damlama tavası",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_114",
+    "en": "spill containment",
+    "tr": "döküntü toplama havuzu",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_115",
+    "en": "SOPEP",
+    "tr": "Gemi Petrol Kirliliği Acil Durum Planı",
+    "category": [
+      "chemical_tanker",
+      "maritime"
+    ],
+    "abbreviation": "SOPEP"
+  },
+  {
+    "id": "chm_116",
+    "en": "SMPEP",
+    "tr": "Deniz Kirliliği Acil Durum Planı",
+    "category": [
+      "chemical_tanker"
+    ],
+    "abbreviation": "SMPEP"
+  },
+  {
+    "id": "chm_117",
+    "en": "cargo heating",
+    "tr": "yük ısıtma",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_118",
+    "en": "heating coil",
+    "tr": "ısıtma serpantini",
+    "category": [
+      "chemical_tanker",
+      "supply"
+    ]
+  },
+  {
+    "id": "chm_119",
+    "en": "cargo temperature log",
+    "tr": "yük sıcaklık kaydı",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_120",
+    "en": "solidifying cargo",
+    "tr": "donan/katılaşan yük",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_121",
+    "en": "high viscosity cargo",
+    "tr": "yüksek viskoziteli yük",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_122",
+    "en": "vegetable oil",
+    "tr": "bitkisel yağ",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_123",
+    "en": "FOSFA",
+    "tr": "FOSFA (yenilebilir yağ ticaret birliği)",
+    "category": [
+      "chemical_tanker",
+      "chartering"
+    ],
+    "abbreviation": "FOSFA"
+  },
+  {
+    "id": "chm_124",
+    "en": "three previous cargoes",
+    "tr": "son üç yük",
+    "category": [
+      "chemical_tanker"
+    ],
+    "definition_tr": "Yenilebilir yağ yüklemelerinde sorgulanan önceki yük geçmişi."
+  },
+  {
+    "id": "chm_125",
+    "en": "tank entry permit",
+    "tr": "tank giriş izni",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_126",
+    "en": "mucking",
+    "tr": "tank dibi elle temizlik",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_127",
+    "en": "slop disposal",
+    "tr": "slop tahliyesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_128",
+    "en": "shore reception facility",
+    "tr": "sahil atık kabul tesisi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_129",
+    "en": "cargo pump room",
+    "tr": "yük pompa dairesi",
+    "category": [
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "chm_130",
+    "en": "deck seal",
+    "tr": "güverte su kilidi",
+    "category": [
+      "chemical_tanker"
+    ]
+  }
+]

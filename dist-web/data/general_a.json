@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "gen_0001",
+    "en": "be",
+    "tr": "olmak, var",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0002",
+    "en": "have",
+    "tr": "sahip olmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0003",
+    "en": "do",
+    "tr": "yapmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0004",
+    "en": "say",
+    "tr": "söylemek, demek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0005",
+    "en": "go",
+    "tr": "gitmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0006",
+    "en": "get",
+    "tr": "almak, elde etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0007",
+    "en": "make",
+    "tr": "yapmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0008",
+    "en": "know",
+    "tr": "bilmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0009",
+    "en": "think",
+    "tr": "düşünmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0010",
+    "en": "take",
+    "tr": "almak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0011",
+    "en": "see",
+    "tr": "görmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0012",
+    "en": "come",
+    "tr": "gelmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0013",
+    "en": "want",
+    "tr": "istemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0014",
+    "en": "use",
+    "tr": "kullanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0015",
+    "en": "find",
+    "tr": "bulmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0016",
+    "en": "give",
+    "tr": "vermek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0017",
+    "en": "tell",
+    "tr": "söylemek, anlatmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0018",
+    "en": "work",
+    "tr": "çalışmak, iş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0019",
+    "en": "call",
+    "tr": "aramak, çağırmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0020",
+    "en": "try",
+    "tr": "dene/mek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0021",
+    "en": "ask",
+    "tr": "sormak, istemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0022",
+    "en": "need",
+    "tr": "ihtiyaç duymak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0023",
+    "en": "feel",
+    "tr": "hissetmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0024",
+    "en": "become",
+    "tr": "olmak, dönüşmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0025",
+    "en": "leave",
+    "tr": "bırakmak, ayrılmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0026",
+    "en": "put",
+    "tr": "koymak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0027",
+    "en": "mean",
+    "tr": "anlamına gelmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0028",
+    "en": "keep",
+    "tr": "tutmak, saklamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0029",
+    "en": "let",
+    "tr": "izin vermek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0030",
+    "en": "begin",
+    "tr": "başlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0031",
+    "en": "help",
+    "tr": "yardım etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0032",
+    "en": "talk",
+    "tr": "konuşmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0033",
+    "en": "turn",
+    "tr": "dönmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0034",
+    "en": "start",
+    "tr": "başlamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0035",
+    "en": "show",
+    "tr": "göstermek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0036",
+    "en": "hear",
+    "tr": "duymak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0037",
+    "en": "play",
+    "tr": "oynamak, çalmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0038",
+    "en": "run",
+    "tr": "koşmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0039",
+    "en": "move",
+    "tr": "hareket etmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0040",
+    "en": "live",
+    "tr": "yaşamak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0041",
+    "en": "believe",
+    "tr": "inanmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0042",
+    "en": "hold",
+    "tr": "tutmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0043",
+    "en": "bring",
+    "tr": "getirmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0044",
+    "en": "happen",
+    "tr": "olmak, gerçekleşmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0045",
+    "en": "write",
+    "tr": "yazmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0046",
+    "en": "read",
+    "tr": "okumak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0047",
+    "en": "eat",
+    "tr": "yemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0048",
+    "en": "drink",
+    "tr": "içmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0049",
+    "en": "sleep",
+    "tr": "uyumak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0050",
+    "en": "walk",
+    "tr": "yürümek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0051",
+    "en": "open",
+    "tr": "açmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0052",
+    "en": "close",
+    "tr": "kapatmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0053",
+    "en": "sit",
+    "tr": "oturmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0054",
+    "en": "stand",
+    "tr": "durmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0055",
+    "en": "speak",
+    "tr": "konuşmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0056",
+    "en": "listen",
+    "tr": "dinlemek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0057",
+    "en": "time",
+    "tr": "zaman, vakit",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0058",
+    "en": "year",
+    "tr": "yıl",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0059",
+    "en": "people",
+    "tr": "insanlar, halk",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0060",
+    "en": "way",
+    "tr": "yol, yöntem",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0061",
+    "en": "day",
+    "tr": "gün",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0062",
+    "en": "thing",
+    "tr": "şey",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0063",
+    "en": "man",
+    "tr": "adam, erkek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0064",
+    "en": "woman",
+    "tr": "kadın",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0065",
+    "en": "child",
+    "tr": "çocuk",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0066",
+    "en": "world",
+    "tr": "dünya",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0067",
+    "en": "life",
+    "tr": "yaşam, hayat",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0068",
+    "en": "hand",
+    "tr": "el",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0069",
+    "en": "part",
+    "tr": "bölüm, parça",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0070",
+    "en": "eye",
+    "tr": "göz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0071",
+    "en": "place",
+    "tr": "yer",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0072",
+    "en": "case",
+    "tr": "durum, kutu",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0073",
+    "en": "week",
+    "tr": "hafta",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0074",
+    "en": "government",
+    "tr": "hükümet",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0075",
+    "en": "company",
+    "tr": "şirket",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0076",
+    "en": "number",
+    "tr": "sayı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0077",
+    "en": "group",
+    "tr": "grup",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0078",
+    "en": "problem",
+    "tr": "sorun, problem",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0079",
+    "en": "fact",
+    "tr": "gerçek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0080",
+    "en": "house",
+    "tr": "ev",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0081",
+    "en": "water",
+    "tr": "su",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0082",
+    "en": "food",
+    "tr": "yemek, gıda",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0083",
+    "en": "money",
+    "tr": "para",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0084",
+    "en": "school",
+    "tr": "okul",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0085",
+    "en": "family",
+    "tr": "aile",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0086",
+    "en": "friend",
+    "tr": "arkadaş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0087",
+    "en": "home",
+    "tr": "ev, yuva",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0088",
+    "en": "night",
+    "tr": "gece",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0089",
+    "en": "morning",
+    "tr": "sabah",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0090",
+    "en": "evening",
+    "tr": "akşam",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0091",
+    "en": "father",
+    "tr": "baba",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0092",
+    "en": "mother",
+    "tr": "anne",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0093",
+    "en": "brother",
+    "tr": "erkek kardeş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0094",
+    "en": "sister",
+    "tr": "kız kardeş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0095",
+    "en": "son",
+    "tr": "oğul",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0096",
+    "en": "daughter",
+    "tr": "kız evlat",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0097",
+    "en": "husband",
+    "tr": "koca",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0098",
+    "en": "wife",
+    "tr": "karı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0099",
+    "en": "head",
+    "tr": "baş, kafa",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0100",
+    "en": "face",
+    "tr": "yüz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0101",
+    "en": "mouth",
+    "tr": "ağız",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0102",
+    "en": "nose",
+    "tr": "burun",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0103",
+    "en": "ear",
+    "tr": "kulak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0104",
+    "en": "tooth",
+    "tr": "diş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0105",
+    "en": "tongue",
+    "tr": "dil",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0106",
+    "en": "hair",
+    "tr": "saç",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0107",
+    "en": "heart",
+    "tr": "kalp",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0108",
+    "en": "arm",
+    "tr": "kol",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0109",
+    "en": "leg",
+    "tr": "bacak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0110",
+    "en": "foot",
+    "tr": "ayak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0111",
+    "en": "body",
+    "tr": "vücut",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0112",
+    "en": "blood",
+    "tr": "kan",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0113",
+    "en": "city",
+    "tr": "şehir",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0114",
+    "en": "country",
+    "tr": "ülke",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0115",
+    "en": "street",
+    "tr": "sokak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0116",
+    "en": "door",
+    "tr": "kapı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0117",
+    "en": "window",
+    "tr": "pencere",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0118",
+    "en": "room",
+    "tr": "oda",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0119",
+    "en": "table",
+    "tr": "masa",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0120",
+    "en": "chair",
+    "tr": "sandalye",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0121",
+    "en": "bed",
+    "tr": "yatak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0122",
+    "en": "book",
+    "tr": "kitap",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0123",
+    "en": "paper",
+    "tr": "kağıt",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0124",
+    "en": "pen",
+    "tr": "kalem",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0125",
+    "en": "car",
+    "tr": "araba",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0126",
+    "en": "bus",
+    "tr": "otobüs",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0127",
+    "en": "train",
+    "tr": "tren",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0128",
+    "en": "boat",
+    "tr": "gemi, kayık",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0129",
+    "en": "tree",
+    "tr": "ağaç",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0130",
+    "en": "flower",
+    "tr": "çiçek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0131",
+    "en": "grass",
+    "tr": "çimen",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0132",
+    "en": "sun",
+    "tr": "güneş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0133",
+    "en": "moon",
+    "tr": "ay",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0134",
+    "en": "star",
+    "tr": "yıldız",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0135",
+    "en": "rain",
+    "tr": "yağmur",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0136",
+    "en": "snow",
+    "tr": "kar",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0137",
+    "en": "wind",
+    "tr": "rüzgar",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0138",
+    "en": "fire",
+    "tr": "ateş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0139",
+    "en": "stone",
+    "tr": "taş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0140",
+    "en": "mountain",
+    "tr": "dağ",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0141",
+    "en": "river",
+    "tr": "nehir, ırmak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0142",
+    "en": "sea",
+    "tr": "deniz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0143",
+    "en": "animal",
+    "tr": "hayvan",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0144",
+    "en": "bird",
+    "tr": "kuş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0145",
+    "en": "fish",
+    "tr": "balık",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0146",
+    "en": "dog",
+    "tr": "köpek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0147",
+    "en": "cat",
+    "tr": "kedi",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0148",
+    "en": "horse",
+    "tr": "at",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0149",
+    "en": "cow",
+    "tr": "inek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0150",
+    "en": "sheep",
+    "tr": "koyun",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0151",
+    "en": "bread",
+    "tr": "ekmek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0152",
+    "en": "meat",
+    "tr": "et",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0153",
+    "en": "egg",
+    "tr": "yumurta",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0154",
+    "en": "milk",
+    "tr": "süt",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0155",
+    "en": "salt",
+    "tr": "tuz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0156",
+    "en": "sugar",
+    "tr": "şeker",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0157",
+    "en": "rice",
+    "tr": "pirinç, pilav",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0158",
+    "en": "fruit",
+    "tr": "meyve",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0159",
+    "en": "vegetable",
+    "tr": "sebze",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0160",
+    "en": "apple",
+    "tr": "elma",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0161",
+    "en": "red",
+    "tr": "kırmızı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0162",
+    "en": "blue",
+    "tr": "mavi",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0163",
+    "en": "green",
+    "tr": "yeşil",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0164",
+    "en": "yellow",
+    "tr": "sarı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0165",
+    "en": "black",
+    "tr": "siyah",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0166",
+    "en": "white",
+    "tr": "beyaz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0167",
+    "en": "orange",
+    "tr": "turuncu",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0168",
+    "en": "brown",
+    "tr": "kahverengi",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0169",
+    "en": "good",
+    "tr": "iyi",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0170",
+    "en": "bad",
+    "tr": "kötü",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0171",
+    "en": "big",
+    "tr": "büyük",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0172",
+    "en": "small",
+    "tr": "küçük",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0173",
+    "en": "long",
+    "tr": "uzun",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0174",
+    "en": "short",
+    "tr": "kısa",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0175",
+    "en": "new",
+    "tr": "yeni",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0176",
+    "en": "old",
+    "tr": "eski, yaşlı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0177",
+    "en": "high",
+    "tr": "yüksek",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0178",
+    "en": "low",
+    "tr": "alçak, düşük",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0179",
+    "en": "young",
+    "tr": "genç",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0180",
+    "en": "hot",
+    "tr": "sıcak",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0181",
+    "en": "cold",
+    "tr": "soğuk",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0182",
+    "en": "warm",
+    "tr": "ılık",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0183",
+    "en": "clean",
+    "tr": "temiz",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0184",
+    "en": "dirty",
+    "tr": "kirli",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0185",
+    "en": "happy",
+    "tr": "mutlu",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0186",
+    "en": "sad",
+    "tr": "üzgün",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0187",
+    "en": "fast",
+    "tr": "hızlı",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0188",
+    "en": "slow",
+    "tr": "yavaş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0189",
+    "en": "strong",
+    "tr": "güçlü, kuvvetli",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0190",
+    "en": "weak",
+    "tr": "zayıf",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0191",
+    "en": "beautiful",
+    "tr": "güzel",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0192",
+    "en": "ugly",
+    "tr": "çirkin",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0193",
+    "en": "rich",
+    "tr": "zengin",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0194",
+    "en": "poor",
+    "tr": "fakir",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0195",
+    "en": "free",
+    "tr": "ücretsiz, özgür",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0196",
+    "en": "full",
+    "tr": "dolu",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0197",
+    "en": "empty",
+    "tr": "boş",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0198",
+    "en": "right",
+    "tr": "doğru, sağ",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0199",
+    "en": "wrong",
+    "tr": "yanlış",
+    "category": [
+      "general"
+    ]
+  },
+  {
+    "id": "gen_0200",
+    "en": "easy",
+    "tr": "kolay",
+    "category": [
+      "general"
+    ]
+  }
+]

@@ -1,0 +1,1316 @@
+[
+  {
+    "id": "mar_001",
+    "en": "bow",
+    "tr": "baş, pruva",
+    "category": [
+      "maritime"
+    ],
+    "definition_en": "The forward part of a ship's hull.",
+    "definition_tr": "Geminin ön (ileri) kısmı."
+  },
+  {
+    "id": "mar_002",
+    "en": "stern",
+    "tr": "kıç, pupa",
+    "category": [
+      "maritime"
+    ],
+    "definition_en": "The rear part of a ship.",
+    "definition_tr": "Geminin arka kısmı."
+  },
+  {
+    "id": "mar_003",
+    "en": "port side",
+    "tr": "iskele tarafı",
+    "category": [
+      "maritime"
+    ],
+    "definition_en": "Left-hand side of a vessel looking forward.",
+    "definition_tr": "Baş yöne bakıldığında geminin sol tarafı."
+  },
+  {
+    "id": "mar_004",
+    "en": "starboard side",
+    "tr": "sancak tarafı",
+    "category": [
+      "maritime"
+    ],
+    "definition_en": "Right-hand side of a vessel looking forward.",
+    "definition_tr": "Baş yöne bakıldığında geminin sağ tarafı."
+  },
+  {
+    "id": "mar_005",
+    "en": "amidships",
+    "tr": "vasat, geminin ortası",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Baş ile kıç arasındaki orta bölge; dümen için 'ortala' komutu."
+  },
+  {
+    "id": "mar_006",
+    "en": "keel",
+    "tr": "omurga",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Gemi gövdesinin boyuna ana taşıyıcı elemanı."
+  },
+  {
+    "id": "mar_007",
+    "en": "hull",
+    "tr": "tekne, gövde",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Geminin su geçirmez ana gövdesi."
+  },
+  {
+    "id": "mar_008",
+    "en": "draft",
+    "tr": "su çekimi, draft",
+    "category": [
+      "maritime"
+    ],
+    "definition_en": "Vertical distance between waterline and keel.",
+    "definition_tr": "Su hattı ile omurga arasındaki dikey mesafe."
+  },
+  {
+    "id": "mar_009",
+    "en": "air draft",
+    "tr": "hava draftı",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Su hattından geminin en yüksek noktasına kadar olan mesafe."
+  },
+  {
+    "id": "mar_010",
+    "en": "freeboard",
+    "tr": "fribord",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Su hattı ile güverte hattı arasındaki dikey mesafe."
+  },
+  {
+    "id": "mar_011",
+    "en": "deadweight tonnage",
+    "tr": "yaz deplasman taşıma kapasitesi, DWT",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "DWT",
+    "definition_tr": "Geminin taşıyabileceği toplam yük, yakıt, kumanya ve su ağırlığı."
+  },
+  {
+    "id": "mar_012",
+    "en": "gross tonnage",
+    "tr": "gros tonaj",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "GT",
+    "definition_tr": "Geminin kapalı hacminin ölçüsü."
+  },
+  {
+    "id": "mar_013",
+    "en": "net tonnage",
+    "tr": "net tonaj",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "NT",
+    "definition_tr": "Yük taşımaya ayrılmış hacmin ölçüsü."
+  },
+  {
+    "id": "mar_014",
+    "en": "displacement",
+    "tr": "deplasman",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Geminin yer değiştirdiği suyun ağırlığı."
+  },
+  {
+    "id": "mar_015",
+    "en": "ballast",
+    "tr": "balast",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Stabilite ve trim için alınan deniz suyu."
+  },
+  {
+    "id": "mar_016",
+    "en": "ballast water exchange",
+    "tr": "balast suyu değişimi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "BWE",
+    "definition_tr": "Balast suyunun açık denizde değiştirilmesi işlemi."
+  },
+  {
+    "id": "mar_017",
+    "en": "trim",
+    "tr": "trim, baş-kıç farkı",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Baş ve kıç draftları arasındaki fark."
+  },
+  {
+    "id": "mar_018",
+    "en": "list",
+    "tr": "meyil, yan yatma",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Geminin bir bordaya kalıcı olarak yatması."
+  },
+  {
+    "id": "mar_019",
+    "en": "heel",
+    "tr": "anlık yatma",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Rüzgâr veya dönüş nedeniyle geçici yan yatma."
+  },
+  {
+    "id": "mar_020",
+    "en": "stability",
+    "tr": "stabilite, denge",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Geminin yattıktan sonra doğrulma yeteneği."
+  },
+  {
+    "id": "mar_021",
+    "en": "metacentric height",
+    "tr": "metasantr yüksekliği",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "GM",
+    "definition_tr": "Ağırlık merkezi ile metasantr arası mesafe; stabilite ölçütü."
+  },
+  {
+    "id": "mar_022",
+    "en": "free surface effect",
+    "tr": "serbest sıvı yüzey etkisi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "FSE",
+    "definition_tr": "Kısmi dolu tanklardaki sıvının stabiliteyi azaltması."
+  },
+  {
+    "id": "mar_023",
+    "en": "bulkhead",
+    "tr": "perde, bölme",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Gemi içindeki dikey ayırıcı duvar."
+  },
+  {
+    "id": "mar_024",
+    "en": "cofferdam",
+    "tr": "koferdam",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ],
+    "definition_tr": "İki bölme arasındaki boş güvenlik boşluğu."
+  },
+  {
+    "id": "mar_025",
+    "en": "double bottom",
+    "tr": "çift dip",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Dip kaplaması ile tank üstü arasındaki çift cidarlı yapı."
+  },
+  {
+    "id": "mar_026",
+    "en": "forecastle",
+    "tr": "baş kasara",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Baş taraftaki yükseltilmiş güverte."
+  },
+  {
+    "id": "mar_027",
+    "en": "poop deck",
+    "tr": "kıç kasara güvertesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_028",
+    "en": "bridge",
+    "tr": "köprüüstü",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Geminin seyir ve komuta merkezi."
+  },
+  {
+    "id": "mar_029",
+    "en": "wheelhouse",
+    "tr": "dümen dairesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_030",
+    "en": "engine room",
+    "tr": "makine dairesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_031",
+    "en": "deck department",
+    "tr": "güverte bölümü",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_032",
+    "en": "master",
+    "tr": "kaptan, süvari",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Gemiden sorumlu en yetkili kişi."
+  },
+  {
+    "id": "mar_033",
+    "en": "chief officer",
+    "tr": "birinci zabit, başmühendis değil",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "C/O",
+    "definition_tr": "Güverte bölümünün başı, yük sorumlusu."
+  },
+  {
+    "id": "mar_034",
+    "en": "chief engineer",
+    "tr": "başmühendis",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "C/E"
+  },
+  {
+    "id": "mar_035",
+    "en": "able seaman",
+    "tr": "usta gemici",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "AB"
+  },
+  {
+    "id": "mar_036",
+    "en": "bosun",
+    "tr": "lostromo",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Güverte tayfasının amiri."
+  },
+  {
+    "id": "mar_037",
+    "en": "watchkeeping",
+    "tr": "vardiya tutma",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_038",
+    "en": "lookout",
+    "tr": "gözcü",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_039",
+    "en": "helmsman",
+    "tr": "dümenci",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_040",
+    "en": "course over ground",
+    "tr": "yer üstü rotası",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "COG"
+  },
+  {
+    "id": "mar_041",
+    "en": "speed over ground",
+    "tr": "yer üstü hızı",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "SOG"
+  },
+  {
+    "id": "mar_042",
+    "en": "heading",
+    "tr": "pruva yönü, baş yönü",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_043",
+    "en": "bearing",
+    "tr": "kerteriz",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Bir cismin gemiye göre açısal yönü."
+  },
+  {
+    "id": "mar_044",
+    "en": "dead reckoning",
+    "tr": "parakete hesabı",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "DR",
+    "definition_tr": "Rota, hız ve zamandan mevki hesaplama."
+  },
+  {
+    "id": "mar_045",
+    "en": "estimated time of arrival",
+    "tr": "tahmini varış zamanı",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "ETA"
+  },
+  {
+    "id": "mar_046",
+    "en": "estimated time of departure",
+    "tr": "tahmini kalkış zamanı",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "ETD"
+  },
+  {
+    "id": "mar_047",
+    "en": "estimated time of berthing",
+    "tr": "tahmini rıhtıma yanaşma zamanı",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "ETB"
+  },
+  {
+    "id": "mar_048",
+    "en": "estimated time of completion",
+    "tr": "tahmini bitiş zamanı",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "ETC"
+  },
+  {
+    "id": "mar_049",
+    "en": "great circle route",
+    "tr": "büyük daire rotası",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_050",
+    "en": "rhumb line",
+    "tr": "kerte hattı, loksodrom",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_051",
+    "en": "passage plan",
+    "tr": "seyir planı",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Rıhtımdan rıhtıma hazırlanan detaylı seyir planı."
+  },
+  {
+    "id": "mar_052",
+    "en": "under keel clearance",
+    "tr": "omurga altı boşluğu",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "UKC"
+  },
+  {
+    "id": "mar_053",
+    "en": "squat",
+    "tr": "squat, çökme etkisi",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Sığ suda hız nedeniyle geminin su çekiminin artması."
+  },
+  {
+    "id": "mar_054",
+    "en": "anchorage",
+    "tr": "demirleme sahası",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_055",
+    "en": "anchor windlass",
+    "tr": "ırgat",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_056",
+    "en": "shackle (of chain)",
+    "tr": "kilit (zincir)",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "27,5 metrelik zincir uzunluğu birimi."
+  },
+  {
+    "id": "mar_057",
+    "en": "dragging anchor",
+    "tr": "demir tarama",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_058",
+    "en": "mooring line",
+    "tr": "palamar halatı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_059",
+    "en": "spring line",
+    "tr": "spring halatı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_060",
+    "en": "breast line",
+    "tr": "koltuk halatı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_061",
+    "en": "headline",
+    "tr": "baş halatı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_062",
+    "en": "fender",
+    "tr": "usturmaça",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_063",
+    "en": "tug",
+    "tr": "römorkör",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_064",
+    "en": "pilot",
+    "tr": "kılavuz kaptan",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_065",
+    "en": "pilot ladder",
+    "tr": "pilot çarmıhı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_066",
+    "en": "berth",
+    "tr": "rıhtım, yanaşma yeri",
+    "category": [
+      "maritime",
+      "chartering"
+    ]
+  },
+  {
+    "id": "mar_067",
+    "en": "quay",
+    "tr": "iskele, rıhtım",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_068",
+    "en": "jetty",
+    "tr": "iskele, dolfen iskelesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_069",
+    "en": "single point mooring",
+    "tr": "tek nokta şamandırası",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "SPM"
+  },
+  {
+    "id": "mar_070",
+    "en": "ship to ship transfer",
+    "tr": "gemiden gemiye transfer",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ],
+    "abbreviation": "STS"
+  },
+  {
+    "id": "mar_071",
+    "en": "port state control",
+    "tr": "liman devleti kontrolü",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "PSC",
+    "definition_tr": "Liman devletinin yabancı bayraklı gemileri denetlemesi."
+  },
+  {
+    "id": "mar_072",
+    "en": "flag state",
+    "tr": "bayrak devleti",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_073",
+    "en": "classification society",
+    "tr": "klas kuruluşu",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_074",
+    "en": "detention",
+    "tr": "tutuklama, alıkoyma",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "PSC denetiminde ciddi eksiklik nedeniyle geminin limandan çıkışının engellenmesi."
+  },
+  {
+    "id": "mar_075",
+    "en": "deficiency",
+    "tr": "eksiklik, noksanlık",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_076",
+    "en": "International Maritime Organization",
+    "tr": "Uluslararası Denizcilik Örgütü",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "IMO"
+  },
+  {
+    "id": "mar_077",
+    "en": "SOLAS",
+    "tr": "Denizde Can Emniyeti Sözleşmesi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "SOLAS",
+    "definition_tr": "Safety of Life at Sea — denizde can emniyeti uluslararası sözleşmesi."
+  },
+  {
+    "id": "mar_078",
+    "en": "MARPOL",
+    "tr": "Denizlerin Gemilerden Kirlenmesini Önleme Sözleşmesi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "MARPOL"
+  },
+  {
+    "id": "mar_079",
+    "en": "STCW",
+    "tr": "Gemiadamları Eğitim, Belgelendirme ve Vardiya Standartları Sözleşmesi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "STCW"
+  },
+  {
+    "id": "mar_080",
+    "en": "ISM Code",
+    "tr": "Uluslararası Emniyetli Yönetim Kodu",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "ISM"
+  },
+  {
+    "id": "mar_081",
+    "en": "ISPS Code",
+    "tr": "Uluslararası Gemi ve Liman Tesisi Güvenlik Kodu",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "ISPS"
+  },
+  {
+    "id": "mar_082",
+    "en": "security level",
+    "tr": "güvenlik seviyesi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "SL",
+    "definition_tr": "ISPS kapsamında SL1, SL2, SL3 olarak tanımlanan tehdit seviyeleri."
+  },
+  {
+    "id": "mar_083",
+    "en": "safety management system",
+    "tr": "emniyetli yönetim sistemi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "SMS"
+  },
+  {
+    "id": "mar_084",
+    "en": "designated person ashore",
+    "tr": "kara irtibat görevlisi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "DPA"
+  },
+  {
+    "id": "mar_085",
+    "en": "near miss",
+    "tr": "ramak kala",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_086",
+    "en": "risk assessment",
+    "tr": "risk değerlendirmesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_087",
+    "en": "permit to work",
+    "tr": "çalışma izni",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "PTW"
+  },
+  {
+    "id": "mar_088",
+    "en": "enclosed space entry",
+    "tr": "kapalı mahal girişi",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "mar_089",
+    "en": "hot work",
+    "tr": "sıcak çalışma",
+    "category": [
+      "maritime"
+    ],
+    "definition_tr": "Kıvılcım veya alev üreten kaynak/taşlama gibi işler."
+  },
+  {
+    "id": "mar_090",
+    "en": "toolbox meeting",
+    "tr": "iş öncesi toplantı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_091",
+    "en": "life raft",
+    "tr": "can salı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_092",
+    "en": "lifeboat",
+    "tr": "filika, cankurtaran botu",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_093",
+    "en": "immersion suit",
+    "tr": "dalma elbisesi, tulum",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_094",
+    "en": "muster station",
+    "tr": "toplanma yeri",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_095",
+    "en": "abandon ship",
+    "tr": "gemiyi terk",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_096",
+    "en": "man overboard",
+    "tr": "denize adam düştü",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "MOB"
+  },
+  {
+    "id": "mar_097",
+    "en": "emergency muster list",
+    "tr": "acil durum yol cetveli",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_098",
+    "en": "fire main",
+    "tr": "yangın ana devresi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_099",
+    "en": "foam monitor",
+    "tr": "köpük monitörü",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "mar_100",
+    "en": "emergency shutdown",
+    "tr": "acil durdurma",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ],
+    "abbreviation": "ESD"
+  },
+  {
+    "id": "mar_101",
+    "en": "global maritime distress and safety system",
+    "tr": "küresel deniz tehlike ve emniyet sistemi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "GMDSS"
+  },
+  {
+    "id": "mar_102",
+    "en": "automatic identification system",
+    "tr": "otomatik tanımlama sistemi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "AIS"
+  },
+  {
+    "id": "mar_103",
+    "en": "electronic chart display and information system",
+    "tr": "elektronik harita gösterim ve bilgi sistemi",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "ECDIS"
+  },
+  {
+    "id": "mar_104",
+    "en": "voyage data recorder",
+    "tr": "seyir veri kaydedici",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "VDR"
+  },
+  {
+    "id": "mar_105",
+    "en": "vessel traffic service",
+    "tr": "gemi trafik hizmeti",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "VTS"
+  },
+  {
+    "id": "mar_106",
+    "en": "notice to mariners",
+    "tr": "denizcilere ilanlar",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "NtM"
+  },
+  {
+    "id": "mar_107",
+    "en": "COLREG",
+    "tr": "Denizde Çatışmayı Önleme Kuralları",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "COLREG"
+  },
+  {
+    "id": "mar_108",
+    "en": "give-way vessel",
+    "tr": "yol veren gemi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_109",
+    "en": "stand-on vessel",
+    "tr": "rotasını koruyan gemi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_110",
+    "en": "closest point of approach",
+    "tr": "en yakın yaklaşma noktası",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "CPA"
+  },
+  {
+    "id": "mar_111",
+    "en": "restricted visibility",
+    "tr": "kısıtlı görüş",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_112",
+    "en": "swell",
+    "tr": "ölü dalga",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_113",
+    "en": "beaufort scale",
+    "tr": "Beaufort rüzgâr ölçeği",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_114",
+    "en": "gale warning",
+    "tr": "fırtına uyarısı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_115",
+    "en": "squall",
+    "tr": "bora, ani şiddetli rüzgâr",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_116",
+    "en": "heavy weather",
+    "tr": "ağır hava",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_117",
+    "en": "tidal stream",
+    "tr": "gelgit akıntısı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_118",
+    "en": "slack water",
+    "tr": "durgun su, kararma",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_119",
+    "en": "set and drift",
+    "tr": "akıntı yönü ve hızı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_120",
+    "en": "bunkering",
+    "tr": "yakıt ikmali",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_121",
+    "en": "bunker delivery note",
+    "tr": "yakıt teslim notu",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "BDN"
+  },
+  {
+    "id": "mar_122",
+    "en": "heavy fuel oil",
+    "tr": "ağır yakıt",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "HFO"
+  },
+  {
+    "id": "mar_123",
+    "en": "marine gas oil",
+    "tr": "deniz gaz yağı",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "MGO"
+  },
+  {
+    "id": "mar_124",
+    "en": "very low sulphur fuel oil",
+    "tr": "çok düşük kükürtlü yakıt",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "VLSFO"
+  },
+  {
+    "id": "mar_125",
+    "en": "emission control area",
+    "tr": "emisyon kontrol alanı",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "ECA"
+  },
+  {
+    "id": "mar_126",
+    "en": "oil record book",
+    "tr": "petrol kayıt defteri",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "ORB"
+  },
+  {
+    "id": "mar_127",
+    "en": "garbage record book",
+    "tr": "çöp kayıt defteri",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "GRB"
+  },
+  {
+    "id": "mar_128",
+    "en": "oily water separator",
+    "tr": "sintine separatörü",
+    "category": [
+      "maritime"
+    ],
+    "abbreviation": "OWS"
+  },
+  {
+    "id": "mar_129",
+    "en": "slop tank",
+    "tr": "slop tankı",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "mar_130",
+    "en": "sludge",
+    "tr": "çamur, atık yağ",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_131",
+    "en": "dry docking",
+    "tr": "havuzlama",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_132",
+    "en": "survey",
+    "tr": "sörvey, denetim",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_133",
+    "en": "seaworthiness",
+    "tr": "denize elverişlilik",
+    "category": [
+      "maritime",
+      "chartering"
+    ]
+  },
+  {
+    "id": "mar_134",
+    "en": "crew change",
+    "tr": "personel değişimi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_135",
+    "en": "shore leave",
+    "tr": "kıyı izni",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_136",
+    "en": "logbook",
+    "tr": "jurnal, seyir defteri",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_137",
+    "en": "statement of facts",
+    "tr": "olgular beyanı",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "SOF"
+  },
+  {
+    "id": "mar_138",
+    "en": "stowaway",
+    "tr": "kaçak yolcu",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_139",
+    "en": "piracy",
+    "tr": "korsanlık",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_140",
+    "en": "citadel",
+    "tr": "sığınak (korsanlığa karşı)",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_141",
+    "en": "general average",
+    "tr": "müşterek avarya",
+    "category": [
+      "maritime",
+      "chartering"
+    ],
+    "abbreviation": "GA",
+    "definition_tr": "Ortak tehlikeden kurtulmak için yapılan fedakârlığın taraflarca paylaşılması."
+  },
+  {
+    "id": "mar_142",
+    "en": "salvage",
+    "tr": "kurtarma",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_143",
+    "en": "grounding",
+    "tr": "karaya oturma",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_144",
+    "en": "collision",
+    "tr": "çatışma, çarpışma",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_145",
+    "en": "heaving line",
+    "tr": "koç boynuzu halatı, fırlatma halatı",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_146",
+    "en": "gangway",
+    "tr": "borda iskelesi",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_147",
+    "en": "manifold",
+    "tr": "manifold",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ],
+    "definition_tr": "Manifolt (tankları dolum/boşaltım hatlarına bağlayan boru toplama bloğu)"
+  },
+  {
+    "id": "mar_148",
+    "en": "scupper plug",
+    "tr": "frengi tapası",
+    "category": [
+      "maritime",
+      "chemical_tanker"
+    ]
+  },
+  {
+    "id": "mar_149",
+    "en": "deck watch",
+    "tr": "güverte vardiyası",
+    "category": [
+      "maritime"
+    ]
+  },
+  {
+    "id": "mar_150",
+    "en": "port of refuge",
+    "tr": "sığınma limanı",
+    "category": [
+      "maritime"
+    ]
+  }
+]
