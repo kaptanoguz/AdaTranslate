@@ -1,34 +1,34 @@
 # Ada Translate
 
-Çevrimdışı çalışan **İngilizce ↔ Türkçe denizcilik sözlüğü**. Tüm veriler cihazınızda, internet bağlantısı gerekmez.
+Offline **English ↔ Turkish maritime dictionary**. All data stays on your device — no internet required.
 
-Kaptan Oğuz Yağbasan tarafından M/T ADA için hazırlanmıştır — chartering, chemical tanker, genel denizcilik terimleri ve kısaltmalar.
+Built for M/T ADA by Captain Oğuz Yağbasan — covering chartering, chemical tanker, general seamanship terms, and abbreviations.
 
-## Özellikler
+## Features
 
-- **Tamamen çevrimdışı** — tüm veriler cihazda, sunucuya yüklenmez
-- **EN ↔ TR** çift yönlü arama
-- Kategori filtreleri (chartering, chemical tanker, genel vb.)
-- Kısaltmalar, A–Z dizini, favoriler
-- Flashcard (quiz) modu
-- JSON dışa aktarma
+- **Fully offline** — data on device, nothing uploaded
+- **EN ↔ TR** two-way lookup
+- Category filters (chartering, chemical tanker, general, etc.)
+- Abbreviations, A–Z index, favorites
+- Flashcard (quiz) mode
+- JSON export
 
-## Teknoloji
+## Tech
 
-- Saf web (HTML/CSS/JS) arayüz
-- **Tauri** (Rust) masaüstü kabuğu — Electron yerine, ~2 MB
-- Veri: `data/*.json` denizcilik terim bankası
+- Pure web UI (HTML/CSS/JS)
+- **Tauri** (Rust) desktop shell — ~2 MB
+- Data: `data/*.json` maritime term bank
 
-## Kurulum
+## Download
 
-- **Windows:** `PhotoTimestamp_1.0.0_x64-setup.exe` (veya `.msi`) çift tıklayıp kurun
-- **Linux:** `.deb` paketini kurun
-- **Tarayıcı:** `dist-web/index.html` dosyasına çift tıklayın
+- **Windows:** `AdaTranslate_x64-setup.exe` (or `.msi`) from Releases
+- **Linux:** `.deb` package
+- **Browser:** open `dist-web/index.html`
 
-## Ekran Görüntüsü
+## Screenshot
 
 ![Ada Translate](dist-web/icons/icon-512.png)
 
-## Lisans
+## License
 
-MIT — Kaptan Oğuz Yağbasan
+MIT — Recep Oğuz Yağbasan
