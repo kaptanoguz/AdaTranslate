@@ -64,7 +64,8 @@
     },
     "linux": {
       "icon": "icons/icon-512.png",
-      "category": "Education"
+      "category": "Education",
+      "artifactName": "AdaTranslate-${version}-${arch}.${ext}"
     }
   }
 }
