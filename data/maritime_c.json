@@ -1,0 +1,1590 @@
+[
+ {
+  "id": "mar_c001",
+  "en": "bridge team",
+  "tr": "köprüüstü ekibi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c002",
+  "en": "bridge team management",
+  "tr": "köprüüstü ekip yönetimi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "BTM"
+ },
+ {
+  "id": "mar_c003",
+  "en": "safety contour",
+  "tr": "emniyet konturu (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c004",
+  "en": "safety depth",
+  "tr": "emniyet derinliği (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c005",
+  "en": "shallow contour",
+  "tr": "sığ su konturu (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c006",
+  "en": "deep contour",
+  "tr": "derin su konturu (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c007",
+  "en": "safety settings",
+  "tr": "emniyet ayarları (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c008",
+  "en": "safety frame",
+  "tr": "emniyet çerçevesi (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c009",
+  "en": "look-ahead zone",
+  "tr": "ileri bakış alanı (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c010",
+  "en": "safety parameters",
+  "tr": "emniyet parametreleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c011",
+  "en": "voyage plan",
+  "tr": "sefer planı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c012",
+  "en": "passage planning",
+  "tr": "seyir planlaması",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c013",
+  "en": "appraisal and planning",
+  "tr": "değerlendirme ve planlama (seyir planı aşamaları)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c014",
+  "en": "route check",
+  "tr": "rota kontrolü (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c015",
+  "en": "route validation",
+  "tr": "rota doğrulama",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c016",
+  "en": "route monitoring",
+  "tr": "rota izleme",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c017",
+  "en": "planned track",
+  "tr": "planlanan rota hattı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c018",
+  "en": "intended route",
+  "tr": "amaçlanan rota",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c019",
+  "en": "berth to berth",
+  "tr": "rıhtımdan rıhtıma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c020",
+  "en": "paper chart",
+  "tr": "kâğıt harita",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c021",
+  "en": "electronic chart",
+  "tr": "elektronik harita",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c022",
+  "en": "electronic navigational chart",
+  "tr": "elektronik seyir haritası",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ENC"
+ },
+ {
+  "id": "mar_c023",
+  "en": "raster navigational chart",
+  "tr": "raster seyir haritası",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "RNC"
+ },
+ {
+  "id": "mar_c024",
+  "en": "ENC cell",
+  "tr": "ENC hücresi (harita paftası)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c025",
+  "en": "compilation scale",
+  "tr": "derleme ölçeği (ENC)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c026",
+  "en": "display scale",
+  "tr": "gösterim ölçeği",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c027",
+  "en": "largest scale",
+  "tr": "en büyük ölçek",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c028",
+  "en": "standard display",
+  "tr": "standart gösterim (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c029",
+  "en": "display base",
+  "tr": "temel gösterim (ECDIS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c030",
+  "en": "chart datum",
+  "tr": "harita datumu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c031",
+  "en": "geodetic datum",
+  "tr": "jeodezik datum",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c032",
+  "en": "zone of confidence",
+  "tr": "güvenilirlik bölgesi (ENC verisi)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ZOC"
+ },
+ {
+  "id": "mar_c033",
+  "en": "category of zone of confidence",
+  "tr": "güvenilirlik bölgesi kategorisi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "CATZOC"
+ },
+ {
+  "id": "mar_c034",
+  "en": "admiralty information overlay",
+  "tr": "Admiralty bilgi katmanı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "AIO"
+ },
+ {
+  "id": "mar_c035",
+  "en": "notices to mariners",
+  "tr": "denizcilere ilanlar",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "NtM"
+ },
+ {
+  "id": "mar_c036",
+  "en": "temporary and preliminary notices",
+  "tr": "geçici ve ön ilanlar (T&P)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "T&P"
+ },
+ {
+  "id": "mar_c037",
+  "en": "navigational warning",
+  "tr": "seyir uyarısı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c038",
+  "en": "maritime safety information",
+  "tr": "deniz emniyet bilgisi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "MSI"
+ },
+ {
+  "id": "mar_c039",
+  "en": "sailing directions",
+  "tr": "seyir kılavuzu (pilot kitabı)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c040",
+  "en": "nautical publications",
+  "tr": "denizcilik yayınları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c041",
+  "en": "list of lights",
+  "tr": "fenerler listesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c042",
+  "en": "list of radio signals",
+  "tr": "radyo sinyalleri listesi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ALRS"
+ },
+ {
+  "id": "mar_c043",
+  "en": "tide tables",
+  "tr": "gel-git cetvelleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c044",
+  "en": "height of tide",
+  "tr": "gel-git yüksekliği",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c045",
+  "en": "hydrographic office",
+  "tr": "hidrografi dairesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c046",
+  "en": "position fixing",
+  "tr": "mevki koyma, mevki tayini",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c047",
+  "en": "position monitoring",
+  "tr": "mevki izleme",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c048",
+  "en": "position verification",
+  "tr": "mevki doğrulama",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c049",
+  "en": "estimated position",
+  "tr": "tahmini mevki",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "EP"
+ },
+ {
+  "id": "mar_c050",
+  "en": "parallel indexing",
+  "tr": "paralel indeksleme (radar)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c051",
+  "en": "parallel index",
+  "tr": "paralel indeks hattı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c052",
+  "en": "clearing bearing",
+  "tr": "emniyet kerterizi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c053",
+  "en": "cross track distance",
+  "tr": "rota dışı mesafe",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "XTD"
+ },
+ {
+  "id": "mar_c054",
+  "en": "cross track error",
+  "tr": "rota sapma hatası",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "XTE"
+ },
+ {
+  "id": "mar_c055",
+  "en": "keel clearance",
+  "tr": "omurga altı açıklığı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c056",
+  "en": "static draft",
+  "tr": "statik su çekimi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c057",
+  "en": "depth of water",
+  "tr": "su derinliği",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c058",
+  "en": "charted depth",
+  "tr": "haritadaki derinlik",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c059",
+  "en": "echo sounder",
+  "tr": "iskandil cihazı (eko sounder)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c060",
+  "en": "magnetic compass",
+  "tr": "manyetik pusula",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c061",
+  "en": "gyro compass",
+  "tr": "cayro pusula",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c062",
+  "en": "compass error",
+  "tr": "pusula hatası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c063",
+  "en": "magnetic variation",
+  "tr": "manyetik sapma (varyasyon)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c064",
+  "en": "manual steering",
+  "tr": "el dümeni",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c065",
+  "en": "automatic steering",
+  "tr": "otomatik dümen",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c066",
+  "en": "emergency steering",
+  "tr": "acil dümen",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c067",
+  "en": "rate of turn",
+  "tr": "dönüş hızı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ROT"
+ },
+ {
+  "id": "mar_c068",
+  "en": "rudder angle",
+  "tr": "dümen açısı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c069",
+  "en": "course recorder",
+  "tr": "rota kaydedici",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c070",
+  "en": "bridge navigational watch alarm system",
+  "tr": "köprüüstü vardiya alarm sistemi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "BNWAS"
+ },
+ {
+  "id": "mar_c071",
+  "en": "automatic radar plotting aid",
+  "tr": "otomatik radar plot aracı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ARPA"
+ },
+ {
+  "id": "mar_c072",
+  "en": "time to closest point of approach",
+  "tr": "en yakın yaklaşmaya kalan süre",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "TCPA"
+ },
+ {
+  "id": "mar_c073",
+  "en": "guard zone",
+  "tr": "koruma bölgesi (radar)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c074",
+  "en": "sea clutter",
+  "tr": "deniz yansıması (radar)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c075",
+  "en": "radar overlay",
+  "tr": "radar katmanı (ECDIS üzerinde)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c076",
+  "en": "variable range marker",
+  "tr": "değişken mesafe halkası",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "VRM"
+ },
+ {
+  "id": "mar_c077",
+  "en": "electronic bearing line",
+  "tr": "elektronik kerteriz hattı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "EBL"
+ },
+ {
+  "id": "mar_c078",
+  "en": "global navigation satellite system",
+  "tr": "küresel uydu seyir sistemi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "GNSS"
+ },
+ {
+  "id": "mar_c079",
+  "en": "differential GPS",
+  "tr": "diferansiyel GPS",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "DGPS"
+ },
+ {
+  "id": "mar_c080",
+  "en": "jamming and spoofing",
+  "tr": "karıştırma ve sahte sinyal (GNSS)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c081",
+  "en": "risk of collision",
+  "tr": "çatışma riski",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c082",
+  "en": "collision avoidance",
+  "tr": "çatışmadan kaçınma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c083",
+  "en": "safe speed",
+  "tr": "emniyetli hız",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c084",
+  "en": "proper look-out",
+  "tr": "uygun gözcülük",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c085",
+  "en": "sole look-out",
+  "tr": "tek başına gözcülük",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c086",
+  "en": "traffic separation scheme",
+  "tr": "trafik ayırım düzeni",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "TSS"
+ },
+ {
+  "id": "mar_c087",
+  "en": "restricted waters",
+  "tr": "kısıtlı sular",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c088",
+  "en": "confined waters",
+  "tr": "dar sular",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c089",
+  "en": "coastal waters",
+  "tr": "kıyı suları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c090",
+  "en": "pilotage waters",
+  "tr": "kılavuzluk suları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c091",
+  "en": "open sea",
+  "tr": "açık deniz",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c092",
+  "en": "narrow channel",
+  "tr": "dar kanal",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c093",
+  "en": "no-go area",
+  "tr": "girilmez alan",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c094",
+  "en": "isolated danger",
+  "tr": "tecrit edilmiş tehlike",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c095",
+  "en": "aids to navigation",
+  "tr": "seyir yardımcıları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c096",
+  "en": "navigation lights",
+  "tr": "seyir fenerleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c097",
+  "en": "sound signals",
+  "tr": "ses işaretleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c098",
+  "en": "particularly sensitive sea area",
+  "tr": "özellikle hassas deniz alanı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "PSSA"
+ },
+ {
+  "id": "mar_c099",
+  "en": "officer in charge of a navigational watch",
+  "tr": "seyir vardiyası sorumlu zabiti",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c100",
+  "en": "watch handover",
+  "tr": "vardiya teslimi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c101",
+  "en": "relieving officer",
+  "tr": "vardiyayı devralan zabit",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c102",
+  "en": "standing orders",
+  "tr": "kaptanın daimi talimatları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c103",
+  "en": "night orders",
+  "tr": "kaptanın gece talimatları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c104",
+  "en": "calling the master",
+  "tr": "kaptanı çağırma (köprüye)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c105",
+  "en": "master's standing orders",
+  "tr": "kaptanın daimi emirleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c106",
+  "en": "situational awareness",
+  "tr": "durumsal farkındalık",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c107",
+  "en": "master pilot information exchange",
+  "tr": "kaptan-kılavuz bilgi alışverişi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "MPX"
+ },
+ {
+  "id": "mar_c108",
+  "en": "pilot card",
+  "tr": "kılavuz kartı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c109",
+  "en": "pilotage plan",
+  "tr": "kılavuzluk planı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c110",
+  "en": "bridge wing",
+  "tr": "köprüüstü kanadı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c111",
+  "en": "getting underway",
+  "tr": "seyre hazırlık, seyre çıkış",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c112",
+  "en": "manoeuvring characteristics",
+  "tr": "manevra özellikleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c113",
+  "en": "wheelhouse poster",
+  "tr": "köprüüstü manevra posteri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c114",
+  "en": "anchor party",
+  "tr": "demirleme ekibi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c115",
+  "en": "anchoring operation",
+  "tr": "demirleme operasyonu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c116",
+  "en": "anchor position",
+  "tr": "demir mevkii",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c117",
+  "en": "anchor cable",
+  "tr": "demir zinciri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c118",
+  "en": "swinging circle",
+  "tr": "salınım çemberi (demirde)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c119",
+  "en": "holding ground",
+  "tr": "demir tutma zemini",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c120",
+  "en": "holding power",
+  "tr": "tutma gücü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c121",
+  "en": "hawse pipe",
+  "tr": "loça (demir borusu)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c122",
+  "en": "chain stopper",
+  "tr": "zincir stoperi (kestane)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c123",
+  "en": "cable lifter",
+  "tr": "zincir dişlisi (ırgat)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c124",
+  "en": "windlass brake",
+  "tr": "ırgat freni",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c125",
+  "en": "let go",
+  "tr": "funda (demiri bırak); halatı bırak",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c126",
+  "en": "heave up",
+  "tr": "vira etmek (demiri)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c127",
+  "en": "mooring system",
+  "tr": "palamar sistemi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c128",
+  "en": "line management plan",
+  "tr": "halat yönetim planı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "LMP"
+ },
+ {
+  "id": "mar_c129",
+  "en": "mooring rope",
+  "tr": "palamar halatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c130",
+  "en": "mooring equipment",
+  "tr": "palamar donanımı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c131",
+  "en": "mooring operation",
+  "tr": "palamar (bağlama) operasyonu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c132",
+  "en": "mooring winch brake",
+  "tr": "palamar vinci freni",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c133",
+  "en": "winch brake test",
+  "tr": "vinç freni testi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c134",
+  "en": "brake holding capacity",
+  "tr": "fren tutma kapasitesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c135",
+  "en": "minimum breaking load",
+  "tr": "asgari kopma yükü",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "MBL"
+ },
+ {
+  "id": "mar_c136",
+  "en": "ship design minimum breaking load",
+  "tr": "gemi tasarım asgari kopma yükü",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SDMBL"
+ },
+ {
+  "id": "mar_c137",
+  "en": "snap-back zone",
+  "tr": "geri tepme bölgesi (halat kopması)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c138",
+  "en": "snap back",
+  "tr": "halat geri tepmesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c139",
+  "en": "winch drum",
+  "tr": "vinç tamburu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c140",
+  "en": "storage reel",
+  "tr": "halat makarası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c141",
+  "en": "line throwing apparatus",
+  "tr": "halat atma tertibatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c142",
+  "en": "tail rope",
+  "tr": "kuyruk halat (palamar ucu)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c143",
+  "en": "chafing chain",
+  "tr": "sürtünme zinciri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c144",
+  "en": "head line",
+  "tr": "baş halatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c145",
+  "en": "stern line",
+  "tr": "kıç halatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c146",
+  "en": "mooring master",
+  "tr": "bağlama kaptanı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c147",
+  "en": "single buoy mooring",
+  "tr": "tek şamandıraya bağlama",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SBM"
+ },
+ {
+  "id": "mar_c148",
+  "en": "mooring and line management",
+  "tr": "palamar ve halat yönetimi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c149",
+  "en": "emergency towing",
+  "tr": "acil yedekleme",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c150",
+  "en": "towing arrangement",
+  "tr": "yedekleme düzeni",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c151",
+  "en": "management of change",
+  "tr": "değişiklik yönetimi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "MOC"
+ },
+ {
+  "id": "mar_c152",
+  "en": "safety culture",
+  "tr": "emniyet kültürü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c153",
+  "en": "human factors",
+  "tr": "insan faktörü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c154",
+  "en": "alarm fatigue",
+  "tr": "alarm yorgunluğu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c155",
+  "en": "contingency plan",
+  "tr": "acil durum planı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c156",
+  "en": "search and rescue",
+  "tr": "arama ve kurtarma",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SAR"
+ },
+ {
+  "id": "mar_c157",
+  "en": "rescue coordination centre",
+  "tr": "kurtarma koordinasyon merkezi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "RCC"
+ },
+ {
+  "id": "mar_c158",
+  "en": "distress alert",
+  "tr": "tehlike çağrısı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c159",
+  "en": "digital selective calling",
+  "tr": "sayısal seçmeli çağrı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "DSC"
+ },
+ {
+  "id": "mar_c160",
+  "en": "enhanced group call",
+  "tr": "geliştirilmiş grup çağrısı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "EGC"
+ },
+ {
+  "id": "mar_c161",
+  "en": "ship security alert system",
+  "tr": "gemi güvenlik alarm sistemi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SSAS"
+ },
+ {
+  "id": "mar_c162",
+  "en": "long range identification and tracking",
+  "tr": "uzak mesafeden tanımlama ve izleme",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "LRIT"
+ },
+ {
+  "id": "mar_c163",
+  "en": "standard marine communication phrases",
+  "tr": "standart denizcilik haberleşme ifadeleri",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SMCP"
+ },
+ {
+  "id": "mar_c164",
+  "en": "helicopter operations",
+  "tr": "helikopter operasyonları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c165",
+  "en": "weather routeing",
+  "tr": "hava durumuna göre rota belirleme",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c166",
+  "en": "adverse weather",
+  "tr": "olumsuz hava koşulları",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c167",
+  "en": "sea state",
+  "tr": "deniz durumu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c168",
+  "en": "ice navigation",
+  "tr": "buzda seyir",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c169",
+  "en": "ice class",
+  "tr": "buz sınıfı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c170",
+  "en": "pack ice",
+  "tr": "paket buz",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c171",
+  "en": "fast ice",
+  "tr": "sabit buz (kıyıya yapışık)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c172",
+  "en": "sea ice",
+  "tr": "deniz buzu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c173",
+  "en": "ice floe",
+  "tr": "buz kütlesi (yüzen buz)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c174",
+  "en": "ice accretion",
+  "tr": "buzlanma (üst yapıda buz birikmesi)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c175",
+  "en": "icing",
+  "tr": "buzlanma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c176",
+  "en": "freezing spray",
+  "tr": "donan serpinti",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c177",
+  "en": "wind chill",
+  "tr": "rüzgâr soğutma etkisi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c178",
+  "en": "cold weather precautions",
+  "tr": "soğuk hava önlemleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c179",
+  "en": "winterization",
+  "tr": "kışa hazırlık",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c180",
+  "en": "space heater",
+  "tr": "ortam ısıtıcısı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c181",
+  "en": "ballast water",
+  "tr": "balast suyu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c182",
+  "en": "ballast water management",
+  "tr": "balast suyu yönetimi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c183",
+  "en": "ballast tank",
+  "tr": "balast tankı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c184",
+  "en": "sea chest",
+  "tr": "deniz suyu alış sandığı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c185",
+  "en": "cooling water",
+  "tr": "soğutma suyu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c186",
+  "en": "deck log book",
+  "tr": "güverte jurnali",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c187",
+  "en": "check list",
+  "tr": "kontrol listesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c188",
+  "en": "crew members",
+  "tr": "mürettebat",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c189",
+  "en": "manning level",
+  "tr": "personel düzeyi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c190",
+  "en": "hours of rest",
+  "tr": "dinlenme saatleri",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c191",
+  "en": "hours of darkness",
+  "tr": "karanlık saatler",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c192",
+  "en": "night vision",
+  "tr": "gece görüşü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c193",
+  "en": "damage control",
+  "tr": "hasar kontrolü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_c194",
+  "en": "spill response",
+  "tr": "sızıntıya müdahale",
+  "category": [
+   "maritime"
+  ]
+ }
+]

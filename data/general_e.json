@@ -1,0 +1,1707 @@
+[
+ {
+  "id": "gen_1721",
+  "en": "call back",
+  "tr": "geri aramak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1722",
+  "en": "calm down",
+  "tr": "sakinleşmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1723",
+  "en": "carry on",
+  "tr": "devam etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1724",
+  "en": "catch up",
+  "tr": "yetişmek, arayı kapatmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1725",
+  "en": "check in",
+  "tr": "giriş yapmak, kayıt yaptırmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1726",
+  "en": "check out",
+  "tr": "çıkış yapmak; incelemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1727",
+  "en": "cheer up",
+  "tr": "neşelendirmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1728",
+  "en": "come back",
+  "tr": "geri dönmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1729",
+  "en": "come in",
+  "tr": "içeri girmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1730",
+  "en": "come on",
+  "tr": "haydi; açılmak (cihaz)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1731",
+  "en": "count on",
+  "tr": "güvenmek, bel bağlamak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1732",
+  "en": "cut down",
+  "tr": "azaltmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1733",
+  "en": "drop off",
+  "tr": "bırakmak (birini/bir şeyi)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1734",
+  "en": "end up",
+  "tr": "sonunda bir yere/duruma varmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1735",
+  "en": "fall behind",
+  "tr": "geride kalmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1736",
+  "en": "fill in",
+  "tr": "doldurmak (form)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1737",
+  "en": "fill out",
+  "tr": "doldurmak (form)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1738",
+  "en": "fill up",
+  "tr": "ağzına kadar doldurmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1739",
+  "en": "get back",
+  "tr": "geri dönmek; geri almak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1740",
+  "en": "get in",
+  "tr": "(araca) binmek; girmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1741",
+  "en": "get off",
+  "tr": "inmek (araçtan)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1742",
+  "en": "get on",
+  "tr": "binmek (otobüs, gemi); ilerlemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1743",
+  "en": "get out",
+  "tr": "dışarı çıkmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1744",
+  "en": "get up",
+  "tr": "kalkmak (yataktan)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1745",
+  "en": "give back",
+  "tr": "geri vermek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1746",
+  "en": "give in",
+  "tr": "pes etmek, boyun eğmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1747",
+  "en": "go ahead",
+  "tr": "devam etmek; buyurun",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1748",
+  "en": "go back",
+  "tr": "geri gitmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1749",
+  "en": "go off",
+  "tr": "çalmak (alarm); patlamak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1750",
+  "en": "go out",
+  "tr": "dışarı çıkmak; sönmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1751",
+  "en": "go over",
+  "tr": "gözden geçirmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1752",
+  "en": "go through",
+  "tr": "yaşamak (zorluk); incelemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1753",
+  "en": "hand in",
+  "tr": "teslim etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1754",
+  "en": "hand over",
+  "tr": "devretmek, teslim etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1755",
+  "en": "hang on",
+  "tr": "beklemek; sıkı tutunmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1756",
+  "en": "hang up",
+  "tr": "telefonu kapatmak; asmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1757",
+  "en": "hurry up",
+  "tr": "acele etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1758",
+  "en": "keep on",
+  "tr": "devam etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1759",
+  "en": "knock out",
+  "tr": "bayıltmak; elemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1760",
+  "en": "leave out",
+  "tr": "dışarıda bırakmak, atlamak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1761",
+  "en": "let down",
+  "tr": "hayal kırıklığına uğratmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1762",
+  "en": "log in",
+  "tr": "oturum açmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1763",
+  "en": "look out",
+  "tr": "dikkat etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1764",
+  "en": "move on",
+  "tr": "devam etmek, geçmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1765",
+  "en": "pass out",
+  "tr": "bayılmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1766",
+  "en": "pay back",
+  "tr": "geri ödemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1767",
+  "en": "put away",
+  "tr": "kaldırmak, yerine koymak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1768",
+  "en": "put on",
+  "tr": "giymek; takmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1769",
+  "en": "put out",
+  "tr": "söndürmek (yangın)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1770",
+  "en": "run into",
+  "tr": "rastlamak; çarpmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1771",
+  "en": "run out of",
+  "tr": "tükenmek, bitmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1772",
+  "en": "set off",
+  "tr": "yola çıkmak; tetiklemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1773",
+  "en": "settle down",
+  "tr": "yerleşmek, durulmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1774",
+  "en": "shut down",
+  "tr": "kapatmak (sistem, makine)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1775",
+  "en": "sign up",
+  "tr": "kaydolmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1776",
+  "en": "slow down",
+  "tr": "yavaşlamak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1777",
+  "en": "sort out",
+  "tr": "halletmek, düzenlemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1778",
+  "en": "speak up",
+  "tr": "daha yüksek sesle konuşmak; fikrini söylemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1779",
+  "en": "stand by",
+  "tr": "hazır beklemek; desteklemek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1780",
+  "en": "stand up",
+  "tr": "ayağa kalkmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1781",
+  "en": "start up",
+  "tr": "çalıştırmak (motor); başlatmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1782",
+  "en": "switch off",
+  "tr": "kapatmak (cihaz)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1783",
+  "en": "switch on",
+  "tr": "açmak (cihaz)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1784",
+  "en": "take up",
+  "tr": "başlamak (hobi); yer kaplamak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1785",
+  "en": "tear down",
+  "tr": "yıkmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1786",
+  "en": "throw away",
+  "tr": "atmak (çöpe)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1787",
+  "en": "try on",
+  "tr": "denemek (giysi)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1788",
+  "en": "turn off",
+  "tr": "kapatmak (cihaz, musluk)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1789",
+  "en": "turn on",
+  "tr": "açmak (cihaz, musluk)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1790",
+  "en": "warm up",
+  "tr": "ısınmak, ısıtmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1791",
+  "en": "watch out",
+  "tr": "dikkat etmek",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1792",
+  "en": "wear out",
+  "tr": "eskitmek; yıpranmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1793",
+  "en": "write down",
+  "tr": "not almak, yazmak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrasal verb"
+  ]
+ },
+ {
+  "id": "gen_1794",
+  "en": "good morning",
+  "tr": "günaydın",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1795",
+  "en": "good afternoon",
+  "tr": "tünaydın, iyi günler",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1796",
+  "en": "good evening",
+  "tr": "iyi akşamlar",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1797",
+  "en": "good night",
+  "tr": "iyi geceler",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1798",
+  "en": "how are you?",
+  "tr": "nasılsın?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1799",
+  "en": "I'm fine, thank you",
+  "tr": "iyiyim, teşekkür ederim",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1800",
+  "en": "nice to meet you",
+  "tr": "tanıştığıma memnun oldum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1801",
+  "en": "see you later",
+  "tr": "sonra görüşürüz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1802",
+  "en": "see you soon",
+  "tr": "yakında görüşürüz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1803",
+  "en": "take care",
+  "tr": "kendine iyi bak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1804",
+  "en": "thank you very much",
+  "tr": "çok teşekkür ederim",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1805",
+  "en": "you're welcome",
+  "tr": "rica ederim",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1806",
+  "en": "no problem",
+  "tr": "sorun değil",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1807",
+  "en": "excuse me",
+  "tr": "affedersiniz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1808",
+  "en": "I'm sorry",
+  "tr": "özür dilerim, üzgünüm",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1809",
+  "en": "never mind",
+  "tr": "boş ver, önemli değil",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1810",
+  "en": "of course",
+  "tr": "elbette, tabii ki",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1811",
+  "en": "I don't know",
+  "tr": "bilmiyorum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1812",
+  "en": "I don't understand",
+  "tr": "anlamıyorum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1813",
+  "en": "could you repeat that, please?",
+  "tr": "tekrar eder misiniz, lütfen?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1814",
+  "en": "please speak slowly",
+  "tr": "lütfen yavaş konuşun",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1815",
+  "en": "what does this mean?",
+  "tr": "bu ne anlama geliyor?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1816",
+  "en": "how do you say ... in English?",
+  "tr": "... İngilizcede nasıl denir?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1817",
+  "en": "what is your name?",
+  "tr": "adınız ne?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1818",
+  "en": "my name is ...",
+  "tr": "benim adım ...",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1819",
+  "en": "where are you from?",
+  "tr": "nerelisiniz?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1820",
+  "en": "how much is it?",
+  "tr": "ne kadar?, kaça?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1821",
+  "en": "what time is it?",
+  "tr": "saat kaç?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1822",
+  "en": "where is the toilet?",
+  "tr": "tuvalet nerede?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1823",
+  "en": "can you help me?",
+  "tr": "bana yardım edebilir misiniz?",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1824",
+  "en": "I need help",
+  "tr": "yardıma ihtiyacım var",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1825",
+  "en": "call a doctor",
+  "tr": "doktor çağırın",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1826",
+  "en": "it doesn't matter",
+  "tr": "fark etmez, önemli değil",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1827",
+  "en": "I agree",
+  "tr": "katılıyorum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1828",
+  "en": "I disagree",
+  "tr": "katılmıyorum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1829",
+  "en": "in my opinion",
+  "tr": "bence, benim fikrimce",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1830",
+  "en": "as soon as possible",
+  "tr": "en kısa sürede",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1831",
+  "en": "at the moment",
+  "tr": "şu anda",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1832",
+  "en": "by the way",
+  "tr": "bu arada",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1833",
+  "en": "in advance",
+  "tr": "önceden, peşin",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1834",
+  "en": "in case",
+  "tr": "olur ya, -e karşı",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1835",
+  "en": "in charge of",
+  "tr": "-den sorumlu",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1836",
+  "en": "in fact",
+  "tr": "aslında",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1837",
+  "en": "in order to",
+  "tr": "-mek için",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1838",
+  "en": "as well as",
+  "tr": "-in yanı sıra",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1839",
+  "en": "on behalf of",
+  "tr": "adına",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1840",
+  "en": "on time",
+  "tr": "zamanında",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1841",
+  "en": "in time",
+  "tr": "vaktinde, zamanla",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1842",
+  "en": "on duty",
+  "tr": "görevde, nöbette",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1843",
+  "en": "off duty",
+  "tr": "izinli, nöbet dışı",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1844",
+  "en": "as usual",
+  "tr": "her zamanki gibi",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1845",
+  "en": "at least",
+  "tr": "en azından",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1846",
+  "en": "at last",
+  "tr": "sonunda",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1847",
+  "en": "at once",
+  "tr": "derhal, hemen",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1848",
+  "en": "for example",
+  "tr": "örneğin",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1849",
+  "en": "for sure",
+  "tr": "kesinlikle",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1850",
+  "en": "so far",
+  "tr": "şimdiye kadar",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1851",
+  "en": "up to date",
+  "tr": "güncel",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1852",
+  "en": "out of order",
+  "tr": "arızalı, çalışmıyor",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1853",
+  "en": "out of date",
+  "tr": "eskimiş, tarihi geçmiş",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1854",
+  "en": "from time to time",
+  "tr": "zaman zaman",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1855",
+  "en": "once in a while",
+  "tr": "arada bir",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1856",
+  "en": "little by little",
+  "tr": "azar azar",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1857",
+  "en": "sooner or later",
+  "tr": "er ya da geç",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1858",
+  "en": "no longer",
+  "tr": "artık değil",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1859",
+  "en": "as long as",
+  "tr": "-dığı sürece",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1860",
+  "en": "even though",
+  "tr": "-e rağmen, -dığı halde",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1861",
+  "en": "due to",
+  "tr": "-den dolayı, nedeniyle",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1862",
+  "en": "instead of",
+  "tr": "yerine",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1863",
+  "en": "because of",
+  "tr": "yüzünden, -den dolayı",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1864",
+  "en": "regardless of",
+  "tr": "-e bakmaksızın",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1865",
+  "en": "with regard to",
+  "tr": "ile ilgili olarak",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1866",
+  "en": "please find attached",
+  "tr": "ekte bulabilirsiniz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1867",
+  "en": "I look forward to hearing from you",
+  "tr": "yanıtınızı bekliyorum",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1868",
+  "en": "best regards",
+  "tr": "saygılarımla, en iyi dileklerimle",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1869",
+  "en": "kind regards",
+  "tr": "saygılarımla",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1870",
+  "en": "for your information",
+  "tr": "bilginize (FYI)",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1871",
+  "en": "please confirm",
+  "tr": "lütfen teyit ediniz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1872",
+  "en": "please advise",
+  "tr": "lütfen bilgi veriniz",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1873",
+  "en": "noted with thanks",
+  "tr": "teşekkürler, not edildi",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1874",
+  "en": "at your earliest convenience",
+  "tr": "en kısa zamanda, uygun olduğunuz ilk anda",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ },
+ {
+  "id": "gen_1875",
+  "en": "thank you for your cooperation",
+  "tr": "işbirliğiniz için teşekkürler",
+  "category": [
+   "general"
+  ],
+  "subtags": [
+   "phrase"
+  ]
+ }
+]

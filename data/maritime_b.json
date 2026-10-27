@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "mar_b001",
+  "en": "main engine",
+  "tr": "ana makine",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "M/E"
+ },
+ {
+  "id": "mar_b002",
+  "en": "generator",
+  "tr": "jeneratör",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b003",
+  "en": "emergency generator",
+  "tr": "acil durum jeneratörü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b004",
+  "en": "boiler",
+  "tr": "kazan",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b005",
+  "en": "purifier",
+  "tr": "seperatör, arıtıcı (yakıt/yağ)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b006",
+  "en": "separator",
+  "tr": "seperatör, ayırıcı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b007",
+  "en": "incinerator",
+  "tr": "yakma fırını, insinaretör",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b008",
+  "en": "sewage treatment plant",
+  "tr": "pis su arıtma ünitesi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "STP"
+ },
+ {
+  "id": "mar_b009",
+  "en": "fresh water generator",
+  "tr": "tatlı su jeneratörü (evaporatör)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "FWG"
+ },
+ {
+  "id": "mar_b010",
+  "en": "steering gear",
+  "tr": "dümen makinesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b011",
+  "en": "rudder",
+  "tr": "dümen (yelpaze)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b012",
+  "en": "propeller",
+  "tr": "pervane",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b013",
+  "en": "stern tube",
+  "tr": "kıç bodoslama borusu, şaft tüneli borusu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b014",
+  "en": "bow thruster",
+  "tr": "baş itici, baş pervanesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b015",
+  "en": "mooring winch",
+  "tr": "halat vinci (palamar vinci)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b016",
+  "en": "capstan",
+  "tr": "ırgat (dikey)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b017",
+  "en": "crane",
+  "tr": "vinç, kreyn",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b018",
+  "en": "derrick",
+  "tr": "bumba",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b019",
+  "en": "hatch cover",
+  "tr": "ambar kapağı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b020",
+  "en": "cargo hold",
+  "tr": "ambar, yük ambarı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b021",
+  "en": "bilge pump",
+  "tr": "sintine pompası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b022",
+  "en": "ballast pump",
+  "tr": "balast pompası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b023",
+  "en": "fire pump",
+  "tr": "yangın pompası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b024",
+  "en": "emergency fire pump",
+  "tr": "acil yangın pompası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b025",
+  "en": "fire hydrant",
+  "tr": "yangın musluğu, hidrant",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b026",
+  "en": "fire hose",
+  "tr": "yangın hortumu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b027",
+  "en": "fire extinguisher",
+  "tr": "yangın söndürücü, yangın tüpü",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b028",
+  "en": "sprinkler",
+  "tr": "yağmurlama (sprinkler) sistemi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b029",
+  "en": "CO2 system",
+  "tr": "CO2 (karbondioksit) söndürme sistemi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b030",
+  "en": "fixed fire fighting system",
+  "tr": "sabit yangın söndürme sistemi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b031",
+  "en": "rescue boat",
+  "tr": "kurtarma botu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b032",
+  "en": "lifejacket",
+  "tr": "can yeleği",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b033",
+  "en": "lifebuoy",
+  "tr": "can simidi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b034",
+  "en": "muster list",
+  "tr": "toplanma listesi (görev çizelgesi)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b035",
+  "en": "fire drill",
+  "tr": "yangın tatbikatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b036",
+  "en": "boat drill",
+  "tr": "filika tatbikatı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b037",
+  "en": "enclosed space",
+  "tr": "kapalı mahal",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b038",
+  "en": "lock out tag out",
+  "tr": "kilitle-etiketle (enerji izolasyonu)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "LOTO"
+ },
+ {
+  "id": "mar_b039",
+  "en": "safety helmet",
+  "tr": "baret, emniyet kaskı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b040",
+  "en": "safety shoes",
+  "tr": "iş güvenliği ayakkabısı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b041",
+  "en": "goggles",
+  "tr": "koruyucu gözlük",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b042",
+  "en": "ear protection",
+  "tr": "kulak koruyucu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b043",
+  "en": "harness",
+  "tr": "emniyet kemeri (paraşüt tipi)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b044",
+  "en": "breathing apparatus",
+  "tr": "solunum cihazı",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "BA"
+ },
+ {
+  "id": "mar_b045",
+  "en": "engine control room",
+  "tr": "makine kontrol odası",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "ECR"
+ },
+ {
+  "id": "mar_b046",
+  "en": "galley",
+  "tr": "kumanya mutfağı, gemi mutfağı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b047",
+  "en": "mess room",
+  "tr": "yemekhane (mes salonu)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b048",
+  "en": "deck",
+  "tr": "güverte",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b049",
+  "en": "main deck",
+  "tr": "ana güverte",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b050",
+  "en": "draught",
+  "tr": "su çekimi (draft)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b051",
+  "en": "fairlead",
+  "tr": "kurtağzı, halat yönlendirici",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b052",
+  "en": "chock",
+  "tr": "kurtağzı (kapalı), takoz",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b053",
+  "en": "discharging",
+  "tr": "tahliye, yük boşaltma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b054",
+  "en": "loading plan",
+  "tr": "yükleme planı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b055",
+  "en": "fuel oil",
+  "tr": "fuel oil, ağır yakıt",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "F.O."
+ },
+ {
+  "id": "mar_b056",
+  "en": "diesel oil",
+  "tr": "dizel yakıt, mazot",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "D.O."
+ },
+ {
+  "id": "mar_b057",
+  "en": "sounding pipe",
+  "tr": "iskandil borusu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b058",
+  "en": "cargo tank",
+  "tr": "yük tankı",
+  "category": [
+   "chemical_tanker"
+  ]
+ },
+ {
+  "id": "mar_b059",
+  "en": "cargo pump",
+  "tr": "yük pompası",
+  "category": [
+   "chemical_tanker"
+  ]
+ },
+ {
+  "id": "mar_b060",
+  "en": "inert gas",
+  "tr": "inert gaz, asal gaz",
+  "category": [
+   "chemical_tanker"
+  ],
+  "abbreviation": "IG"
+ },
+ {
+  "id": "mar_b061",
+  "en": "nitrogen",
+  "tr": "azot, nitrojen",
+  "category": [
+   "chemical_tanker"
+  ],
+  "abbreviation": "N2"
+ },
+ {
+  "id": "mar_b062",
+  "en": "purging",
+  "tr": "pürjleme, gaz süpürme",
+  "category": [
+   "chemical_tanker"
+  ]
+ },
+ {
+  "id": "mar_b063",
+  "en": "spare part",
+  "tr": "yedek parça",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b064",
+  "en": "stores",
+  "tr": "kumanya ve malzeme, gemi stokları",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b065",
+  "en": "provisions",
+  "tr": "kumanya, erzak",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b066",
+  "en": "chandler",
+  "tr": "gemi kumanyacısı, şipşandler",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b067",
+  "en": "sign on",
+  "tr": "gemiye katılmak (işe başlama kaydı)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b068",
+  "en": "sign off",
+  "tr": "gemiden ayrılmak (işten çıkış kaydı)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b069",
+  "en": "bridge watch",
+  "tr": "köprüüstü vardiyası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b070",
+  "en": "engine watch",
+  "tr": "makine vardiyası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b071",
+  "en": "officer of the watch",
+  "tr": "vardiya zabiti",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "OOW"
+ },
+ {
+  "id": "mar_b072",
+  "en": "second officer",
+  "tr": "ikinci kaptan",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "2/O"
+ },
+ {
+  "id": "mar_b073",
+  "en": "third officer",
+  "tr": "üçüncü kaptan",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "3/O"
+ },
+ {
+  "id": "mar_b074",
+  "en": "second engineer",
+  "tr": "ikinci mühendis",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "2/E"
+ },
+ {
+  "id": "mar_b075",
+  "en": "third engineer",
+  "tr": "üçüncü mühendis",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "3/E"
+ },
+ {
+  "id": "mar_b076",
+  "en": "ordinary seaman",
+  "tr": "usta gemici olmayan gemici, miço üstü (OS)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "OS"
+ },
+ {
+  "id": "mar_b077",
+  "en": "oiler",
+  "tr": "yağcı",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b078",
+  "en": "wiper",
+  "tr": "silici (makine dairesi yardımcısı)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b079",
+  "en": "fitter",
+  "tr": "tesviyeci, fitter",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b080",
+  "en": "steward",
+  "tr": "kamarot",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b081",
+  "en": "cadet",
+  "tr": "stajyer (öğrenci zabit)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b082",
+  "en": "radio officer",
+  "tr": "telsiz zabiti",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b083",
+  "en": "electrician",
+  "tr": "elektrikçi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b084",
+  "en": "surveyor",
+  "tr": "sörveyör, eksper",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b085",
+  "en": "inspection",
+  "tr": "denetim, muayene",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b086",
+  "en": "audit",
+  "tr": "denetim, tetkik",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b087",
+  "en": "deck log",
+  "tr": "güverte jurnali",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b088",
+  "en": "engine log",
+  "tr": "makine jurnali",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b089",
+  "en": "noon report",
+  "tr": "öğle raporu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b090",
+  "en": "arrival report",
+  "tr": "varış raporu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b091",
+  "en": "departure report",
+  "tr": "kalkış raporu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b092",
+  "en": "knot",
+  "tr": "knot (deniz mili/saat); düğüm",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "kn"
+ },
+ {
+  "id": "mar_b093",
+  "en": "nautical mile",
+  "tr": "deniz mili",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "NM"
+ },
+ {
+  "id": "mar_b094",
+  "en": "radar",
+  "tr": "radar",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b095",
+  "en": "GPS",
+  "tr": "küresel konum belirleme sistemi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "GPS"
+ },
+ {
+  "id": "mar_b096",
+  "en": "VHF",
+  "tr": "VHF telsiz (çok yüksek frekans)",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "VHF"
+ },
+ {
+  "id": "mar_b097",
+  "en": "EPIRB",
+  "tr": "acil durum konum belirten radyo vericisi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "EPIRB"
+ },
+ {
+  "id": "mar_b098",
+  "en": "SART",
+  "tr": "arama-kurtarma radar transponderi",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "SART"
+ },
+ {
+  "id": "mar_b099",
+  "en": "NAVTEX",
+  "tr": "NAVTEX seyir uyarı yayını",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "NAVTEX"
+ },
+ {
+  "id": "mar_b100",
+  "en": "weather routing",
+  "tr": "hava durumuna göre rota planlama",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b101",
+  "en": "leak",
+  "tr": "sızıntı, kaçak",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b102",
+  "en": "flooding",
+  "tr": "su basması, yaralanma (su alma)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b103",
+  "en": "oil spill",
+  "tr": "petrol sızıntısı, yağ dökülmesi",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b104",
+  "en": "blackout",
+  "tr": "elektrik kesintisi (blackout)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b105",
+  "en": "engine failure",
+  "tr": "makine arızası",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b106",
+  "en": "breakdown",
+  "tr": "arıza, bozulma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b107",
+  "en": "maintenance",
+  "tr": "bakım",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b108",
+  "en": "planned maintenance",
+  "tr": "planlı bakım",
+  "category": [
+   "maritime"
+  ],
+  "abbreviation": "PMS"
+ },
+ {
+  "id": "mar_b109",
+  "en": "overhaul",
+  "tr": "revizyon, genel bakım",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b110",
+  "en": "shipyard",
+  "tr": "tersane",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b111",
+  "en": "welding",
+  "tr": "kaynak (kaynakçılık)",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b112",
+  "en": "chipping",
+  "tr": "pas raspası, kazıma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b113",
+  "en": "rust",
+  "tr": "pas",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b114",
+  "en": "corrosion",
+  "tr": "korozyon, aşınma",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b115",
+  "en": "valve",
+  "tr": "valf",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b116",
+  "en": "bolt",
+  "tr": "cıvata",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b117",
+  "en": "pump",
+  "tr": "pompa",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b118",
+  "en": "compressor",
+  "tr": "kompresör",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b119",
+  "en": "cooler",
+  "tr": "soğutucu",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b120",
+  "en": "heat exchanger",
+  "tr": "ısı eşanjörü",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b121",
+  "en": "filter",
+  "tr": "filtre, süzgeç",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b122",
+  "en": "seal",
+  "tr": "conta, keçe, sızdırmazlık elemanı",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b123",
+  "en": "cylinder",
+  "tr": "silindir",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b124",
+  "en": "governor",
+  "tr": "regülatör (devir ayar)",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b125",
+  "en": "sensor",
+  "tr": "sensör, algılayıcı",
+  "category": [
+   "supply"
+  ]
+ },
+ {
+  "id": "mar_b126",
+  "en": "switchboard",
+  "tr": "ana pano, elektrik panosu",
+  "category": [
+   "maritime"
+  ]
+ },
+ {
+  "id": "mar_b127",
+  "en": "transformer",
+  "tr": "transformatör, trafo",
+  "category": [
+   "supply"
+  ]
+ }
+]

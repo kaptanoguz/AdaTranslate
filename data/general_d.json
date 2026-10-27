@@ -1,0 +1,5762 @@
+[
+ {
+  "id": "gen_1001",
+  "en": "absolute",
+  "tr": "mutlak, tam, kesin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1002",
+  "en": "academic",
+  "tr": "akademik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1003",
+  "en": "acceptable",
+  "tr": "kabul edilebilir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1004",
+  "en": "accuse",
+  "tr": "suçlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1005",
+  "en": "achievement",
+  "tr": "başarı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1006",
+  "en": "acknowledge",
+  "tr": "kabul etmek, onaylamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1007",
+  "en": "acquire",
+  "tr": "edinmek, kazanmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1008",
+  "en": "actual",
+  "tr": "gerçek, asıl",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1009",
+  "en": "adapt",
+  "tr": "uyarlamak, uyum sağlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1010",
+  "en": "additional",
+  "tr": "ek, ilave",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1011",
+  "en": "administration",
+  "tr": "yönetim, idare",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1012",
+  "en": "adopt",
+  "tr": "benimsemek; evlat edinmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1013",
+  "en": "advertisement",
+  "tr": "reklam, ilan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1014",
+  "en": "advertising",
+  "tr": "reklamcılık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1015",
+  "en": "affair",
+  "tr": "mesele, iş; ilişki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1016",
+  "en": "affect",
+  "tr": "etkilemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1017",
+  "en": "aged",
+  "tr": "yaşında; yaşlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1018",
+  "en": "agenda",
+  "tr": "gündem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1019",
+  "en": "aggressive",
+  "tr": "saldırgan, agresif",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1020",
+  "en": "agreement",
+  "tr": "anlaşma, sözleşme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1021",
+  "en": "ah",
+  "tr": "ah",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1022",
+  "en": "aid",
+  "tr": "yardım; yardım etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1023",
+  "en": "aircraft",
+  "tr": "uçak, hava aracı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1024",
+  "en": "alcohol",
+  "tr": "alkol",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1025",
+  "en": "alcoholic",
+  "tr": "alkollü; alkolik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1026",
+  "en": "all right",
+  "tr": "tamam, peki; iyi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1027",
+  "en": "alter",
+  "tr": "değiştirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1028",
+  "en": "alternative",
+  "tr": "alternatif, seçenek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1029",
+  "en": "ambitious",
+  "tr": "hırslı, iddialı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1030",
+  "en": "analyse",
+  "tr": "analiz etmek, çözümlemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1031",
+  "en": "analysis",
+  "tr": "analiz, çözümleme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1032",
+  "en": "anger",
+  "tr": "öfke",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1033",
+  "en": "angrily",
+  "tr": "öfkeyle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1034",
+  "en": "annoyed",
+  "tr": "sinirli, canı sıkılmış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1035",
+  "en": "annoying",
+  "tr": "sinir bozucu, can sıkıcı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1036",
+  "en": "any more",
+  "tr": "artık (olumsuz cümlede)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1037",
+  "en": "apologize",
+  "tr": "özür dilemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1038",
+  "en": "app",
+  "tr": "uygulama (mobil)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1039",
+  "en": "apparent",
+  "tr": "belirgin, görünürdeki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1040",
+  "en": "apparently",
+  "tr": "görünüşe göre, anlaşılan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1041",
+  "en": "appeal",
+  "tr": "başvuru, itiraz; çekicilik; rica etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1042",
+  "en": "appreciate",
+  "tr": "takdir etmek, minnettar olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1043",
+  "en": "appropriate",
+  "tr": "uygun",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1044",
+  "en": "approval",
+  "tr": "onay",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1045",
+  "en": "approximately",
+  "tr": "yaklaşık olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1046",
+  "en": "april",
+  "tr": "nisan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1047",
+  "en": "arise",
+  "tr": "ortaya çıkmak, doğmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1048",
+  "en": "armed",
+  "tr": "silahlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1049",
+  "en": "arms",
+  "tr": "silahlar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1050",
+  "en": "artificial",
+  "tr": "yapay",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1051",
+  "en": "artistic",
+  "tr": "sanatsal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1052",
+  "en": "assessment",
+  "tr": "değerlendirme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1053",
+  "en": "assist",
+  "tr": "yardım etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1054",
+  "en": "associate",
+  "tr": "ilişkilendirmek; ortak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1055",
+  "en": "associated",
+  "tr": "ilişkili, bağlantılı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1056",
+  "en": "association",
+  "tr": "dernek, birlik; ilişki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1057",
+  "en": "august",
+  "tr": "ağustos",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1058",
+  "en": "authority",
+  "tr": "yetki; otorite, yetkili makam",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1059",
+  "en": "award",
+  "tr": "ödül; ödüllendirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1060",
+  "en": "aware",
+  "tr": "farkında, haberdar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1061",
+  "en": "bacteria",
+  "tr": "bakteri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1062",
+  "en": "balance",
+  "tr": "denge; bakiye",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1063",
+  "en": "ban",
+  "tr": "yasak; yasaklamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1064",
+  "en": "barrier",
+  "tr": "engel, bariyer",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1065",
+  "en": "base",
+  "tr": "temel, taban; üs",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1066",
+  "en": "based",
+  "tr": "dayalı, merkezli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1067",
+  "en": "basically",
+  "tr": "temelde, aslında",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1068",
+  "en": "basis",
+  "tr": "temel, esas",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1069",
+  "en": "beer",
+  "tr": "bira",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1070",
+  "en": "beg",
+  "tr": "yalvarmak, dilenmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1071",
+  "en": "being",
+  "tr": "varlık, varoluş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1072",
+  "en": "belief",
+  "tr": "inanç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1073",
+  "en": "bet",
+  "tr": "bahis; bahse girmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1074",
+  "en": "billion",
+  "tr": "milyar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1075",
+  "en": "blonde",
+  "tr": "sarışın",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1076",
+  "en": "bond",
+  "tr": "bağ; tahvil",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1077",
+  "en": "brand",
+  "tr": "marka",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1078",
+  "en": "breast",
+  "tr": "göğüs",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1079",
+  "en": "breathing",
+  "tr": "nefes alma, solunum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1080",
+  "en": "broadcast",
+  "tr": "yayın; yayınlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1081",
+  "en": "bubble",
+  "tr": "kabarcık, baloncuk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1082",
+  "en": "budget",
+  "tr": "bütçe",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1083",
+  "en": "bullet",
+  "tr": "kurşun, mermi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1084",
+  "en": "calculate",
+  "tr": "hesaplamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1085",
+  "en": "campaign",
+  "tr": "kampanya",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1086",
+  "en": "campus",
+  "tr": "kampüs",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1087",
+  "en": "cancer",
+  "tr": "kanser",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1088",
+  "en": "cannot",
+  "tr": "-amaz, -emez (yapamaz)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1089",
+  "en": "capable",
+  "tr": "yetenekli, muktedir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1090",
+  "en": "capacity",
+  "tr": "kapasite",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1091",
+  "en": "capture",
+  "tr": "yakalamak, ele geçirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1092",
+  "en": "cast",
+  "tr": "oyuncu kadrosu; atmak, dökmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1093",
+  "en": "category",
+  "tr": "kategori",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1094",
+  "en": "cause",
+  "tr": "neden, sebep; neden olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1095",
+  "en": "chairman",
+  "tr": "başkan (yönetim kurulu)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1096",
+  "en": "characteristic",
+  "tr": "özellik; karakteristik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1097",
+  "en": "chart",
+  "tr": "çizelge, grafik; harita",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1098",
+  "en": "chemical",
+  "tr": "kimyasal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1099",
+  "en": "chief",
+  "tr": "şef, baş; başlıca",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1100",
+  "en": "church",
+  "tr": "kilise",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1101",
+  "en": "cigarette",
+  "tr": "sigara",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1102",
+  "en": "circumstance",
+  "tr": "durum, koşul",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1103",
+  "en": "cite",
+  "tr": "alıntı yapmak, atıfta bulunmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1104",
+  "en": "citizen",
+  "tr": "vatandaş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1105",
+  "en": "civil",
+  "tr": "sivil; medeni",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1106",
+  "en": "claim",
+  "tr": "iddia; talep; iddia etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1107",
+  "en": "classic",
+  "tr": "klasik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1108",
+  "en": "clause",
+  "tr": "madde, hüküm; yan cümle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1109",
+  "en": "client",
+  "tr": "müşteri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1110",
+  "en": "closely",
+  "tr": "yakından",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1111",
+  "en": "cloth",
+  "tr": "kumaş, bez",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1112",
+  "en": "clothing",
+  "tr": "giyim, kıyafet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1113",
+  "en": "clue",
+  "tr": "ipucu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1114",
+  "en": "coal",
+  "tr": "kömür",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1115",
+  "en": "code",
+  "tr": "kod; kural",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1116",
+  "en": "collapse",
+  "tr": "çökmek; çöküş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1117",
+  "en": "combination",
+  "tr": "kombinasyon, birleşim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1118",
+  "en": "combine",
+  "tr": "birleştirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1119",
+  "en": "coloured",
+  "tr": "renkli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1120",
+  "en": "column",
+  "tr": "sütun; köşe yazısı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1121",
+  "en": "command",
+  "tr": "emir, komut; komuta etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1122",
+  "en": "comment",
+  "tr": "yorum; yorum yapmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1123",
+  "en": "commercial",
+  "tr": "ticari; reklam",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1124",
+  "en": "commission",
+  "tr": "komisyon; görevlendirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1125",
+  "en": "commit",
+  "tr": "işlemek (suç); taahhüt etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1126",
+  "en": "commitment",
+  "tr": "bağlılık, taahhüt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1127",
+  "en": "committee",
+  "tr": "komite, kurul",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1128",
+  "en": "commonly",
+  "tr": "genellikle, yaygın olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1129",
+  "en": "community",
+  "tr": "toplum, topluluk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1130",
+  "en": "comparison",
+  "tr": "karşılaştırma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1131",
+  "en": "competitive",
+  "tr": "rekabetçi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1132",
+  "en": "completely",
+  "tr": "tamamen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1133",
+  "en": "complex",
+  "tr": "karmaşık; kompleks",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1134",
+  "en": "component",
+  "tr": "bileşen, parça",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1135",
+  "en": "concentration",
+  "tr": "konsantrasyon, yoğunlaşma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1136",
+  "en": "concept",
+  "tr": "kavram",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1137",
+  "en": "concern",
+  "tr": "endişe; ilgilendirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1138",
+  "en": "concerned",
+  "tr": "endişeli; ilgili",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1139",
+  "en": "confidence",
+  "tr": "güven, özgüven",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1140",
+  "en": "conflict",
+  "tr": "çatışma, anlaşmazlık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1141",
+  "en": "confuse",
+  "tr": "kafasını karıştırmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1142",
+  "en": "connected",
+  "tr": "bağlı, bağlantılı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1143",
+  "en": "conscious",
+  "tr": "bilinçli, farkında",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1144",
+  "en": "consequence",
+  "tr": "sonuç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1145",
+  "en": "conservative",
+  "tr": "tutucu, muhafazakâr",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1146",
+  "en": "consideration",
+  "tr": "dikkate alma, değerlendirme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1147",
+  "en": "consistent",
+  "tr": "tutarlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1148",
+  "en": "constant",
+  "tr": "sabit, sürekli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1149",
+  "en": "constantly",
+  "tr": "sürekli olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1150",
+  "en": "construct",
+  "tr": "inşa etmek, kurmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1151",
+  "en": "construction",
+  "tr": "inşaat, yapı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1152",
+  "en": "consumer",
+  "tr": "tüketici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1153",
+  "en": "contemporary",
+  "tr": "çağdaş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1154",
+  "en": "content",
+  "tr": "içerik; memnun",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1155",
+  "en": "context",
+  "tr": "bağlam",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1156",
+  "en": "continuous",
+  "tr": "sürekli, kesintisiz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1157",
+  "en": "contrast",
+  "tr": "karşıtlık, zıtlık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1158",
+  "en": "contribution",
+  "tr": "katkı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1159",
+  "en": "convert",
+  "tr": "dönüştürmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1160",
+  "en": "convinced",
+  "tr": "ikna olmuş, emin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1161",
+  "en": "core",
+  "tr": "çekirdek, öz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1162",
+  "en": "corporate",
+  "tr": "kurumsal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1163",
+  "en": "correctly",
+  "tr": "doğru şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1164",
+  "en": "council",
+  "tr": "konsey, meclis",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1165",
+  "en": "county",
+  "tr": "ilçe, kontluk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1166",
+  "en": "covered",
+  "tr": "kaplı, örtülü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1167",
+  "en": "creation",
+  "tr": "yaratma, oluşturma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1168",
+  "en": "crisis",
+  "tr": "kriz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1169",
+  "en": "criterion",
+  "tr": "ölçüt, kriter",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1170",
+  "en": "critic",
+  "tr": "eleştirmen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1171",
+  "en": "critical",
+  "tr": "kritik; eleştirel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1172",
+  "en": "criticism",
+  "tr": "eleştiri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1173",
+  "en": "criticize",
+  "tr": "eleştirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1174",
+  "en": "current",
+  "tr": "güncel, mevcut; akıntı, akım",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1175",
+  "en": "currently",
+  "tr": "şu anda",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1176",
+  "en": "curve",
+  "tr": "eğri, viraj",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1177",
+  "en": "curved",
+  "tr": "kavisli, eğri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1178",
+  "en": "debate",
+  "tr": "tartışma, münazara",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1179",
+  "en": "debt",
+  "tr": "borç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1180",
+  "en": "decade",
+  "tr": "on yıl",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1181",
+  "en": "december",
+  "tr": "aralık (ay)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1182",
+  "en": "decent",
+  "tr": "düzgün, makul",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1183",
+  "en": "decline",
+  "tr": "düşüş; reddetmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1184",
+  "en": "decoration",
+  "tr": "süsleme, dekorasyon",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1185",
+  "en": "deeply",
+  "tr": "derinden",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1186",
+  "en": "define",
+  "tr": "tanımlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1187",
+  "en": "definite",
+  "tr": "kesin, belirli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1188",
+  "en": "definition",
+  "tr": "tanım",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1189",
+  "en": "deliberate",
+  "tr": "kasıtlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1190",
+  "en": "deliberately",
+  "tr": "kasten, bilerek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1191",
+  "en": "delight",
+  "tr": "sevinç, haz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1192",
+  "en": "deny",
+  "tr": "inkâr etmek, reddetmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1193",
+  "en": "depressing",
+  "tr": "iç karartıcı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1194",
+  "en": "desire",
+  "tr": "arzu; arzulamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1195",
+  "en": "desperate",
+  "tr": "çaresiz, umutsuz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1196",
+  "en": "detailed",
+  "tr": "ayrıntılı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1197",
+  "en": "detect",
+  "tr": "tespit etmek, algılamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1198",
+  "en": "determine",
+  "tr": "belirlemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1199",
+  "en": "determined",
+  "tr": "kararlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1200",
+  "en": "device",
+  "tr": "cihaz, aygıt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1201",
+  "en": "dialogue",
+  "tr": "diyalog",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1202",
+  "en": "diamond",
+  "tr": "elmas",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1203",
+  "en": "differently",
+  "tr": "farklı şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1204",
+  "en": "disaster",
+  "tr": "felaket",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1205",
+  "en": "discipline",
+  "tr": "disiplin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1206",
+  "en": "discovery",
+  "tr": "keşif",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1207",
+  "en": "dishonest",
+  "tr": "sahtekâr, dürüst olmayan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1208",
+  "en": "dismiss",
+  "tr": "görevden almak; reddetmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1209",
+  "en": "division",
+  "tr": "bölüm; bölme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1210",
+  "en": "divorced",
+  "tr": "boşanmış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1211",
+  "en": "domestic",
+  "tr": "evsel; yurt içi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1212",
+  "en": "donate",
+  "tr": "bağışlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1213",
+  "en": "downwards",
+  "tr": "aşağıya doğru",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1214",
+  "en": "dramatic",
+  "tr": "çarpıcı, dramatik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1215",
+  "en": "driving",
+  "tr": "sürüş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1216",
+  "en": "drug",
+  "tr": "ilaç; uyuşturucu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1217",
+  "en": "drunk",
+  "tr": "sarhoş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1218",
+  "en": "earthquake",
+  "tr": "deprem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1219",
+  "en": "economic",
+  "tr": "ekonomik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1220",
+  "en": "economy",
+  "tr": "ekonomi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1221",
+  "en": "edit",
+  "tr": "düzenlemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1222",
+  "en": "edition",
+  "tr": "baskı, sayı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1223",
+  "en": "editor",
+  "tr": "editör",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1224",
+  "en": "educate",
+  "tr": "eğitmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1225",
+  "en": "educated",
+  "tr": "eğitimli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1226",
+  "en": "educational",
+  "tr": "eğitimsel, eğitici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1227",
+  "en": "effective",
+  "tr": "etkili",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1228",
+  "en": "effectively",
+  "tr": "etkili bir şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1229",
+  "en": "eight",
+  "tr": "sekiz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1230",
+  "en": "eighteen",
+  "tr": "on sekiz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1231",
+  "en": "eighty",
+  "tr": "seksen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1232",
+  "en": "elect",
+  "tr": "seçmek (oyla)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1233",
+  "en": "element",
+  "tr": "öğe, unsur; element",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1234",
+  "en": "eleven",
+  "tr": "on bir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1235",
+  "en": "elsewhere",
+  "tr": "başka yerde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1236",
+  "en": "emerge",
+  "tr": "ortaya çıkmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1237",
+  "en": "emotion",
+  "tr": "duygu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1238",
+  "en": "emotional",
+  "tr": "duygusal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1239",
+  "en": "emphasis",
+  "tr": "vurgu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1240",
+  "en": "encounter",
+  "tr": "karşılaşmak; karşılaşma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1241",
+  "en": "engage",
+  "tr": "meşgul etmek; ilgisini çekmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1242",
+  "en": "ensure",
+  "tr": "sağlamak, garantilemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1243",
+  "en": "enthusiasm",
+  "tr": "coşku, heves",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1244",
+  "en": "enthusiastic",
+  "tr": "hevesli, istekli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1245",
+  "en": "entire",
+  "tr": "bütün, tüm",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1246",
+  "en": "entirely",
+  "tr": "tamamen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1247",
+  "en": "episode",
+  "tr": "bölüm (dizi)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1248",
+  "en": "equally",
+  "tr": "eşit olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1249",
+  "en": "error",
+  "tr": "hata",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1250",
+  "en": "estate",
+  "tr": "mülk, arazi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1251",
+  "en": "ethical",
+  "tr": "etik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1252",
+  "en": "eventually",
+  "tr": "sonunda, eninde sonunda",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1253",
+  "en": "everyday",
+  "tr": "günlük, gündelik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1254",
+  "en": "evidence",
+  "tr": "kanıt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1255",
+  "en": "evil",
+  "tr": "kötü; kötülük",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1256",
+  "en": "executive",
+  "tr": "yönetici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1257",
+  "en": "existence",
+  "tr": "varlık, varoluş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1258",
+  "en": "expectation",
+  "tr": "beklenti",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1259",
+  "en": "expected",
+  "tr": "beklenen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1260",
+  "en": "expense",
+  "tr": "masraf, gider",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1261",
+  "en": "exploration",
+  "tr": "keşif, araştırma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1262",
+  "en": "explosion",
+  "tr": "patlama",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1263",
+  "en": "expose",
+  "tr": "maruz bırakmak; açığa çıkarmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1264",
+  "en": "express",
+  "tr": "ifade etmek; ekspres",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1265",
+  "en": "expression",
+  "tr": "ifade, deyim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1266",
+  "en": "extend",
+  "tr": "uzatmak, genişletmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1267",
+  "en": "extent",
+  "tr": "ölçü, kapsam",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1268",
+  "en": "external",
+  "tr": "dış, harici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1269",
+  "en": "extreme",
+  "tr": "aşırı, uç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1270",
+  "en": "facility",
+  "tr": "tesis; imkân",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1271",
+  "en": "factor",
+  "tr": "etken, faktör",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1272",
+  "en": "failure",
+  "tr": "başarısızlık; arıza",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1273",
+  "en": "faith",
+  "tr": "inanç, güven",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1274",
+  "en": "fascinating",
+  "tr": "büyüleyici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1275",
+  "en": "feather",
+  "tr": "tüy",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1276",
+  "en": "february",
+  "tr": "şubat",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1277",
+  "en": "feedback",
+  "tr": "geri bildirim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1278",
+  "en": "fellow",
+  "tr": "arkadaş, adam; meslektaş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1279",
+  "en": "fence",
+  "tr": "çit",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1280",
+  "en": "fifteen",
+  "tr": "on beş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1281",
+  "en": "fifth",
+  "tr": "beşinci",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1282",
+  "en": "fifty",
+  "tr": "elli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1283",
+  "en": "fighting",
+  "tr": "kavga, çatışma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1284",
+  "en": "finding",
+  "tr": "bulgu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1285",
+  "en": "firstly",
+  "tr": "ilk olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1286",
+  "en": "five",
+  "tr": "beş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1287",
+  "en": "fixed",
+  "tr": "sabit; tamir edilmiş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1288",
+  "en": "flame",
+  "tr": "alev",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1289",
+  "en": "flash",
+  "tr": "parlama, flaş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1290",
+  "en": "flexible",
+  "tr": "esnek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1291",
+  "en": "flying",
+  "tr": "uçma, uçuş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1292",
+  "en": "folding",
+  "tr": "katlanır",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1293",
+  "en": "force",
+  "tr": "kuvvet, güç; zorlamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1294",
+  "en": "formal",
+  "tr": "resmî",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1295",
+  "en": "fortune",
+  "tr": "servet; şans",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1296",
+  "en": "forty",
+  "tr": "kırk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1297",
+  "en": "found",
+  "tr": "kurmak (kuruluş); buldu (find)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1298",
+  "en": "four",
+  "tr": "dört",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1299",
+  "en": "fourteen",
+  "tr": "on dört",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1300",
+  "en": "fourth",
+  "tr": "dördüncü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1301",
+  "en": "freedom",
+  "tr": "özgürlük",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1302",
+  "en": "frequency",
+  "tr": "sıklık, frekans",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1303",
+  "en": "frequently",
+  "tr": "sık sık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1304",
+  "en": "friday",
+  "tr": "cuma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1305",
+  "en": "function",
+  "tr": "işlev; çalışmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1306",
+  "en": "fund",
+  "tr": "fon; finanse etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1307",
+  "en": "fundamental",
+  "tr": "temel, esaslı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1308",
+  "en": "funding",
+  "tr": "finansman",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1309",
+  "en": "furthermore",
+  "tr": "ayrıca, üstelik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1310",
+  "en": "gang",
+  "tr": "çete",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1311",
+  "en": "gather",
+  "tr": "toplamak, toplanmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1312",
+  "en": "genre",
+  "tr": "tür (sanat)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1313",
+  "en": "gentleman",
+  "tr": "beyefendi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1314",
+  "en": "ghost",
+  "tr": "hayalet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1315",
+  "en": "global",
+  "tr": "küresel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1316",
+  "en": "god",
+  "tr": "tanrı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1317",
+  "en": "goodbye",
+  "tr": "hoşça kal, güle güle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1318",
+  "en": "goods",
+  "tr": "mal, eşya",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1319",
+  "en": "gradually",
+  "tr": "yavaş yavaş, giderek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1320",
+  "en": "graduate",
+  "tr": "mezun; mezun olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1321",
+  "en": "grain",
+  "tr": "tahıl; tane",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1322",
+  "en": "grand",
+  "tr": "büyük, görkemli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1323",
+  "en": "growth",
+  "tr": "büyüme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1324",
+  "en": "guarantee",
+  "tr": "garanti; garanti etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1325",
+  "en": "harm",
+  "tr": "zarar; zarar vermek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1326",
+  "en": "harmful",
+  "tr": "zararlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1327",
+  "en": "hearing",
+  "tr": "işitme; duruşma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1328",
+  "en": "heaven",
+  "tr": "cennet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1329",
+  "en": "heavily",
+  "tr": "yoğun bir şekilde, ağır biçimde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1330",
+  "en": "hell",
+  "tr": "cehennem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1331",
+  "en": "helpful",
+  "tr": "yardımcı, faydalı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1332",
+  "en": "hesitate",
+  "tr": "tereddüt etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1333",
+  "en": "highlight",
+  "tr": "öne çıkarmak, vurgulamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1334",
+  "en": "highly",
+  "tr": "son derece, çok",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1335",
+  "en": "hollow",
+  "tr": "içi boş, oyuk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1336",
+  "en": "holy",
+  "tr": "kutsal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1337",
+  "en": "honour",
+  "tr": "onur, şeref",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1338",
+  "en": "host",
+  "tr": "ev sahibi; ev sahipliği yapmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1339",
+  "en": "household",
+  "tr": "hane, ev halkı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1340",
+  "en": "housing",
+  "tr": "konut",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1341",
+  "en": "humorous",
+  "tr": "esprili, komik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1342",
+  "en": "humour",
+  "tr": "mizah",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1343",
+  "en": "hundred",
+  "tr": "yüz (sayı)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1344",
+  "en": "hunting",
+  "tr": "avcılık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1345",
+  "en": "hurricane",
+  "tr": "kasırga",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1346",
+  "en": "ideal",
+  "tr": "ideal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1347",
+  "en": "identify",
+  "tr": "tanımlamak, teşhis etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1348",
+  "en": "identity",
+  "tr": "kimlik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1349",
+  "en": "ignore",
+  "tr": "görmezden gelmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1350",
+  "en": "illegal",
+  "tr": "yasa dışı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1351",
+  "en": "illustrate",
+  "tr": "resimlemek; örneklerle açıklamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1352",
+  "en": "illustration",
+  "tr": "resim, çizim; örnek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1353",
+  "en": "image",
+  "tr": "görüntü, imaj",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1354",
+  "en": "imaginary",
+  "tr": "hayalî",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1355",
+  "en": "immediate",
+  "tr": "acil, hemen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1356",
+  "en": "immigrant",
+  "tr": "göçmen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1357",
+  "en": "impact",
+  "tr": "etki; çarpma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1358",
+  "en": "impatient",
+  "tr": "sabırsız",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1359",
+  "en": "import",
+  "tr": "ithalat; ithal etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1360",
+  "en": "impose",
+  "tr": "dayatmak, uygulamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1361",
+  "en": "impress",
+  "tr": "etkilemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1362",
+  "en": "impressed",
+  "tr": "etkilenmiş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1363",
+  "en": "impression",
+  "tr": "izlenim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1364",
+  "en": "impressive",
+  "tr": "etkileyici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1365",
+  "en": "inch",
+  "tr": "inç (2,54 cm)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1366",
+  "en": "incident",
+  "tr": "olay",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1367",
+  "en": "included",
+  "tr": "dahil",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1368",
+  "en": "income",
+  "tr": "gelir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1369",
+  "en": "increasingly",
+  "tr": "giderek artan şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1370",
+  "en": "incredibly",
+  "tr": "inanılmaz derecede",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1371",
+  "en": "indirect",
+  "tr": "dolaylı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1372",
+  "en": "industrial",
+  "tr": "endüstriyel, sanayi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1373",
+  "en": "informal",
+  "tr": "gayriresmî, samimi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1374",
+  "en": "initially",
+  "tr": "başlangıçta",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1375",
+  "en": "initiative",
+  "tr": "girişim, inisiyatif",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1376",
+  "en": "injured",
+  "tr": "yaralı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1377",
+  "en": "injury",
+  "tr": "yaralanma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1378",
+  "en": "inner",
+  "tr": "iç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1379",
+  "en": "innocent",
+  "tr": "masum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1380",
+  "en": "insight",
+  "tr": "içgörü, kavrayış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1381",
+  "en": "inspire",
+  "tr": "ilham vermek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1382",
+  "en": "institute",
+  "tr": "enstitü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1383",
+  "en": "institution",
+  "tr": "kurum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1384",
+  "en": "instruction",
+  "tr": "talimat",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1385",
+  "en": "insurance",
+  "tr": "sigorta",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1386",
+  "en": "intelligence",
+  "tr": "zekâ; istihbarat",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1387",
+  "en": "intended",
+  "tr": "amaçlanan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1388",
+  "en": "intense",
+  "tr": "yoğun, şiddetli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1389",
+  "en": "intention",
+  "tr": "niyet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1390",
+  "en": "internal",
+  "tr": "iç, dahili",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1391",
+  "en": "invest",
+  "tr": "yatırım yapmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1392",
+  "en": "investigate",
+  "tr": "araştırmak, soruşturmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1393",
+  "en": "investigation",
+  "tr": "soruşturma, inceleme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1394",
+  "en": "investment",
+  "tr": "yatırım",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1395",
+  "en": "involved",
+  "tr": "dahil, ilgili",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1396",
+  "en": "january",
+  "tr": "ocak (ay)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1397",
+  "en": "journal",
+  "tr": "dergi; günlük",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1398",
+  "en": "joy",
+  "tr": "neşe, sevinç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1399",
+  "en": "judgement",
+  "tr": "karar; yargı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1400",
+  "en": "july",
+  "tr": "temmuz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1401",
+  "en": "june",
+  "tr": "haziran",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1402",
+  "en": "junior",
+  "tr": "kıdemsiz, küçük",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1403",
+  "en": "justice",
+  "tr": "adalet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1404",
+  "en": "killing",
+  "tr": "öldürme, cinayet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1405",
+  "en": "lab",
+  "tr": "laboratuvar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1406",
+  "en": "labour",
+  "tr": "emek, işçilik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1407",
+  "en": "largely",
+  "tr": "büyük ölçüde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1408",
+  "en": "laughter",
+  "tr": "kahkaha",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1409",
+  "en": "launch",
+  "tr": "başlatmak; denize indirmek; fırlatmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1410",
+  "en": "layer",
+  "tr": "katman, tabaka",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1411",
+  "en": "leadership",
+  "tr": "liderlik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1412",
+  "en": "leading",
+  "tr": "önde gelen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1413",
+  "en": "lean",
+  "tr": "yaslanmak; yağsız",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1414",
+  "en": "learning",
+  "tr": "öğrenme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1415",
+  "en": "lifestyle",
+  "tr": "yaşam tarzı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1416",
+  "en": "listener",
+  "tr": "dinleyici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1417",
+  "en": "living",
+  "tr": "geçim; yaşayan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1418",
+  "en": "located",
+  "tr": "bulunan, yer alan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1419",
+  "en": "logical",
+  "tr": "mantıklı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1420",
+  "en": "long-term",
+  "tr": "uzun vadeli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1421",
+  "en": "lord",
+  "tr": "lord, efendi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1422",
+  "en": "loss",
+  "tr": "kayıp, zarar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1423",
+  "en": "lot",
+  "tr": "çok (a lot of); parti (mal)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1424",
+  "en": "loudly",
+  "tr": "yüksek sesle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1425",
+  "en": "lower",
+  "tr": "alçaltmak, indirmek; alt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1426",
+  "en": "lung",
+  "tr": "akciğer",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1427",
+  "en": "mainly",
+  "tr": "çoğunlukla, esas olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1428",
+  "en": "major",
+  "tr": "büyük, önemli; binbaşı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1429",
+  "en": "majority",
+  "tr": "çoğunluk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1430",
+  "en": "mall",
+  "tr": "alışveriş merkezi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1431",
+  "en": "management",
+  "tr": "yönetim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1432",
+  "en": "manner",
+  "tr": "tavır, tarz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1433",
+  "en": "march",
+  "tr": "mart; yürüyüş; yürümek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1434",
+  "en": "marketing",
+  "tr": "pazarlama",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1435",
+  "en": "mass",
+  "tr": "kütle; kitle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1436",
+  "en": "massive",
+  "tr": "devasa",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1437",
+  "en": "matching",
+  "tr": "uyumlu, eşleşen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1438",
+  "en": "mathematics",
+  "tr": "matematik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1439",
+  "en": "means",
+  "tr": "araç, yol, yöntem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1440",
+  "en": "measure",
+  "tr": "ölçmek; önlem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1441",
+  "en": "measurement",
+  "tr": "ölçüm",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1442",
+  "en": "media",
+  "tr": "medya",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1443",
+  "en": "medical",
+  "tr": "tıbbi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1444",
+  "en": "melt",
+  "tr": "erimek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1445",
+  "en": "mental",
+  "tr": "zihinsel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1446",
+  "en": "military",
+  "tr": "askerî",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1447",
+  "en": "mineral",
+  "tr": "mineral, maden",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1448",
+  "en": "minister",
+  "tr": "bakan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1449",
+  "en": "minor",
+  "tr": "küçük, önemsiz; reşit olmayan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1450",
+  "en": "minority",
+  "tr": "azınlık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1451",
+  "en": "mission",
+  "tr": "görev, misyon",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1452",
+  "en": "mixed",
+  "tr": "karışık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1453",
+  "en": "mixture",
+  "tr": "karışım",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1454",
+  "en": "monday",
+  "tr": "pazartesi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1455",
+  "en": "moral",
+  "tr": "ahlaki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1456",
+  "en": "mostly",
+  "tr": "çoğunlukla",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1457",
+  "en": "motor",
+  "tr": "motor",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1458",
+  "en": "mount",
+  "tr": "tırmanmak; monte etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1459",
+  "en": "movement",
+  "tr": "hareket",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1460",
+  "en": "mud",
+  "tr": "çamur",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1461",
+  "en": "multiple",
+  "tr": "çoklu, birden fazla",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1462",
+  "en": "multiply",
+  "tr": "çarpmak; çoğalmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1463",
+  "en": "murder",
+  "tr": "cinayet; öldürmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1464",
+  "en": "muscle",
+  "tr": "kas",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1465",
+  "en": "mysterious",
+  "tr": "gizemli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1466",
+  "en": "nail",
+  "tr": "çivi; tırnak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1467",
+  "en": "narrative",
+  "tr": "anlatı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1468",
+  "en": "nation",
+  "tr": "ulus, millet",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1469",
+  "en": "native",
+  "tr": "yerli; ana (dil)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1470",
+  "en": "naturally",
+  "tr": "doğal olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1471",
+  "en": "necessarily",
+  "tr": "zorunlu olarak, illa ki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1472",
+  "en": "needle",
+  "tr": "iğne",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1473",
+  "en": "neither",
+  "tr": "hiçbiri; ne ... ne de",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1474",
+  "en": "nerve",
+  "tr": "sinir; cesaret",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1475",
+  "en": "nevertheless",
+  "tr": "yine de, buna rağmen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1476",
+  "en": "next to",
+  "tr": "yanında",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1477",
+  "en": "nine",
+  "tr": "dokuz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1478",
+  "en": "nineteen",
+  "tr": "on dokuz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1479",
+  "en": "ninety",
+  "tr": "doksan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1480",
+  "en": "no one",
+  "tr": "hiç kimse",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1481",
+  "en": "nor",
+  "tr": "ne de",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1482",
+  "en": "notion",
+  "tr": "kavram, fikir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1483",
+  "en": "november",
+  "tr": "kasım (ay)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1484",
+  "en": "nuclear",
+  "tr": "nükleer",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1485",
+  "en": "numerous",
+  "tr": "çok sayıda",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1486",
+  "en": "nut",
+  "tr": "somun (cıvata); fındık, kuruyemiş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1487",
+  "en": "o'clock",
+  "tr": "saat (tam saat: saat beş)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1488",
+  "en": "obey",
+  "tr": "itaat etmek, uymak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1489",
+  "en": "objective",
+  "tr": "hedef, amaç; nesnel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1490",
+  "en": "obligation",
+  "tr": "yükümlülük",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1491",
+  "en": "observation",
+  "tr": "gözlem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1492",
+  "en": "occasionally",
+  "tr": "ara sıra",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1493",
+  "en": "occur",
+  "tr": "meydana gelmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1494",
+  "en": "october",
+  "tr": "ekim (ay)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1495",
+  "en": "odd",
+  "tr": "tuhaf; tek (sayı)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1496",
+  "en": "offence",
+  "tr": "suç; kırgınlık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1497",
+  "en": "offend",
+  "tr": "gücendirmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1498",
+  "en": "offensive",
+  "tr": "saldırgan, kırıcı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1499",
+  "en": "official",
+  "tr": "resmî; yetkili",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1500",
+  "en": "onto",
+  "tr": "üzerine",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1501",
+  "en": "opening",
+  "tr": "açılış; açıklık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1502",
+  "en": "opponent",
+  "tr": "rakip",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1503",
+  "en": "oppose",
+  "tr": "karşı çıkmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1504",
+  "en": "opposed",
+  "tr": "karşı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1505",
+  "en": "opposition",
+  "tr": "muhalefet, karşı çıkma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1506",
+  "en": "organ",
+  "tr": "organ; org",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1507",
+  "en": "organization",
+  "tr": "kuruluş, örgüt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1508",
+  "en": "organize",
+  "tr": "düzenlemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1509",
+  "en": "organized",
+  "tr": "düzenli, organize",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1510",
+  "en": "organizer",
+  "tr": "düzenleyici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1511",
+  "en": "originally",
+  "tr": "aslen, başlangıçta",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1512",
+  "en": "outcome",
+  "tr": "sonuç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1513",
+  "en": "outer",
+  "tr": "dış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1514",
+  "en": "outline",
+  "tr": "taslak, ana hat",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1515",
+  "en": "overall",
+  "tr": "genel; genel olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1516",
+  "en": "pace",
+  "tr": "hız, tempo",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1517",
+  "en": "panel",
+  "tr": "panel, pano",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1518",
+  "en": "paragraph",
+  "tr": "paragraf",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1519",
+  "en": "parking",
+  "tr": "park etme, otopark",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1520",
+  "en": "parliament",
+  "tr": "parlamento, meclis",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1521",
+  "en": "participant",
+  "tr": "katılımcı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1522",
+  "en": "particularly",
+  "tr": "özellikle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1523",
+  "en": "partly",
+  "tr": "kısmen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1524",
+  "en": "passage",
+  "tr": "geçit; pasaj",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1525",
+  "en": "passion",
+  "tr": "tutku",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1526",
+  "en": "penny",
+  "tr": "peni, kuruş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1527",
+  "en": "pension",
+  "tr": "emekli maaşı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1528",
+  "en": "per cent",
+  "tr": "yüzde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1529",
+  "en": "percentage",
+  "tr": "yüzde oranı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1530",
+  "en": "perfectly",
+  "tr": "mükemmel şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1531",
+  "en": "permit",
+  "tr": "izin; izin vermek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1532",
+  "en": "personally",
+  "tr": "şahsen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1533",
+  "en": "perspective",
+  "tr": "bakış açısı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1534",
+  "en": "phase",
+  "tr": "aşama, evre",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1535",
+  "en": "phenomenon",
+  "tr": "olgu, fenomen",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1536",
+  "en": "philosophy",
+  "tr": "felsefe",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1537",
+  "en": "photography",
+  "tr": "fotoğrafçılık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1538",
+  "en": "pile",
+  "tr": "yığın; yığmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1539",
+  "en": "pin",
+  "tr": "iğne, pim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1540",
+  "en": "pitch",
+  "tr": "saha; perde (ses); baş-kıç vurma (gemi)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1541",
+  "en": "planning",
+  "tr": "planlama",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1542",
+  "en": "plot",
+  "tr": "olay örgüsü; arsa; komplo",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1543",
+  "en": "plus",
+  "tr": "artı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1544",
+  "en": "poetry",
+  "tr": "şiir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1545",
+  "en": "pointed",
+  "tr": "sivri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1546",
+  "en": "poison",
+  "tr": "zehir",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1547",
+  "en": "poisonous",
+  "tr": "zehirli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1548",
+  "en": "popularity",
+  "tr": "popülerlik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1549",
+  "en": "portrait",
+  "tr": "portre",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1550",
+  "en": "pose",
+  "tr": "poz vermek; oluşturmak (tehdit)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1551",
+  "en": "possess",
+  "tr": "sahip olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1552",
+  "en": "possession",
+  "tr": "mülk, sahip olma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1553",
+  "en": "potential",
+  "tr": "potansiyel, olası",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1554",
+  "en": "poverty",
+  "tr": "yoksulluk",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1555",
+  "en": "practical",
+  "tr": "pratik, uygulamalı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1556",
+  "en": "praise",
+  "tr": "övgü; övmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1557",
+  "en": "pray",
+  "tr": "dua etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1558",
+  "en": "prayer",
+  "tr": "dua",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1559",
+  "en": "prediction",
+  "tr": "tahmin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1560",
+  "en": "preparation",
+  "tr": "hazırlık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1561",
+  "en": "prepared",
+  "tr": "hazır, hazırlıklı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1562",
+  "en": "presence",
+  "tr": "varlık, bulunma",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1563",
+  "en": "preserve",
+  "tr": "korumak, muhafaza etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1564",
+  "en": "pretend",
+  "tr": "-mış gibi yapmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1565",
+  "en": "previously",
+  "tr": "daha önce",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1566",
+  "en": "priest",
+  "tr": "rahip",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1567",
+  "en": "prime",
+  "tr": "asıl, birinci",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1568",
+  "en": "principle",
+  "tr": "ilke, prensip",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1569",
+  "en": "printing",
+  "tr": "baskı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1570",
+  "en": "priority",
+  "tr": "öncelik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1571",
+  "en": "privacy",
+  "tr": "mahremiyet, gizlilik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1572",
+  "en": "procedure",
+  "tr": "prosedür, işlem",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1573",
+  "en": "producer",
+  "tr": "yapımcı, üretici",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1574",
+  "en": "profile",
+  "tr": "profil",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1575",
+  "en": "proof",
+  "tr": "kanıt",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1576",
+  "en": "proposal",
+  "tr": "teklif, öneri",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1577",
+  "en": "prospect",
+  "tr": "olasılık, beklenti",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1578",
+  "en": "protest",
+  "tr": "protesto; itiraz etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1579",
+  "en": "psychologist",
+  "tr": "psikolog",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1580",
+  "en": "psychology",
+  "tr": "psikoloji",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1581",
+  "en": "pub",
+  "tr": "birahane, pub",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1582",
+  "en": "publication",
+  "tr": "yayın",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1583",
+  "en": "punish",
+  "tr": "cezalandırmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1584",
+  "en": "punishment",
+  "tr": "ceza",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1585",
+  "en": "pure",
+  "tr": "saf",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1586",
+  "en": "qualified",
+  "tr": "nitelikli, yetkin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1587",
+  "en": "quietly",
+  "tr": "sessizce",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1588",
+  "en": "quit",
+  "tr": "bırakmak, istifa etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1589",
+  "en": "quote",
+  "tr": "alıntı; fiyat teklifi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1590",
+  "en": "racing",
+  "tr": "yarış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1591",
+  "en": "rank",
+  "tr": "rütbe, derece",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1592",
+  "en": "rapid",
+  "tr": "hızlı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1593",
+  "en": "rapidly",
+  "tr": "hızla",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1594",
+  "en": "realize",
+  "tr": "farkına varmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1595",
+  "en": "recall",
+  "tr": "hatırlamak; geri çağırmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1596",
+  "en": "recommendation",
+  "tr": "tavsiye",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1597",
+  "en": "regional",
+  "tr": "bölgesel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1598",
+  "en": "regulation",
+  "tr": "yönetmelik, düzenleme",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1599",
+  "en": "related",
+  "tr": "ilgili, akraba",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1600",
+  "en": "relatively",
+  "tr": "nispeten",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1601",
+  "en": "relaxing",
+  "tr": "rahatlatıcı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1602",
+  "en": "relief",
+  "tr": "rahatlama; yardım",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1603",
+  "en": "remark",
+  "tr": "söz, yorum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1604",
+  "en": "repeated",
+  "tr": "tekrarlanan",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1605",
+  "en": "representative",
+  "tr": "temsilci",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1606",
+  "en": "reputation",
+  "tr": "itibar, ün",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1607",
+  "en": "requirement",
+  "tr": "gereklilik, şart",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1608",
+  "en": "researcher",
+  "tr": "araştırmacı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1609",
+  "en": "resist",
+  "tr": "direnmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1610",
+  "en": "resource",
+  "tr": "kaynak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1611",
+  "en": "retired",
+  "tr": "emekli",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1612",
+  "en": "rhythm",
+  "tr": "ritim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1613",
+  "en": "rid",
+  "tr": "kurtulmak (get rid of)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1614",
+  "en": "sadly",
+  "tr": "ne yazık ki; üzgün bir şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1615",
+  "en": "satellite",
+  "tr": "uydu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1616",
+  "en": "satisfy",
+  "tr": "tatmin etmek, karşılamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1617",
+  "en": "saturday",
+  "tr": "cumartesi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1618",
+  "en": "saving",
+  "tr": "tasarruf, birikim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1619",
+  "en": "scary",
+  "tr": "korkutucu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1620",
+  "en": "schedule",
+  "tr": "program, takvim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1621",
+  "en": "scheme",
+  "tr": "plan, tasarı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1622",
+  "en": "sculpture",
+  "tr": "heykel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1623",
+  "en": "secondly",
+  "tr": "ikinci olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1624",
+  "en": "sector",
+  "tr": "sektör",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1625",
+  "en": "seed",
+  "tr": "tohum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1626",
+  "en": "seek",
+  "tr": "aramak, peşinde olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1627",
+  "en": "selection",
+  "tr": "seçim, seçki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1628",
+  "en": "september",
+  "tr": "eylül",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1629",
+  "en": "sequence",
+  "tr": "sıra, dizi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1630",
+  "en": "setting",
+  "tr": "ortam; ayar",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1631",
+  "en": "settle",
+  "tr": "yerleşmek; çözmek (anlaşmazlık)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1632",
+  "en": "seven",
+  "tr": "yedi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1633",
+  "en": "seventeen",
+  "tr": "on yedi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1634",
+  "en": "seventy",
+  "tr": "yetmiş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1635",
+  "en": "sexual",
+  "tr": "cinsel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1636",
+  "en": "shallow",
+  "tr": "sığ",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1637",
+  "en": "shiny",
+  "tr": "parlak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1638",
+  "en": "shooting",
+  "tr": "ateş etme; çekim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1639",
+  "en": "significantly",
+  "tr": "önemli ölçüde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1640",
+  "en": "similarity",
+  "tr": "benzerlik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1641",
+  "en": "similarly",
+  "tr": "benzer şekilde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1642",
+  "en": "six",
+  "tr": "altı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1643",
+  "en": "sixteen",
+  "tr": "on altı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1644",
+  "en": "sixty",
+  "tr": "altmış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1645",
+  "en": "slave",
+  "tr": "köle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1646",
+  "en": "slope",
+  "tr": "yokuş, eğim",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1647",
+  "en": "soccer",
+  "tr": "futbol",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1648",
+  "en": "solar",
+  "tr": "güneş (güneş enerjisi)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1649",
+  "en": "somewhat",
+  "tr": "biraz, bir ölçüde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1650",
+  "en": "specific",
+  "tr": "belirli, özel",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1651",
+  "en": "specifically",
+  "tr": "özellikle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1652",
+  "en": "spending",
+  "tr": "harcama",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1653",
+  "en": "spiritual",
+  "tr": "manevi, ruhani",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1654",
+  "en": "spoken",
+  "tr": "konuşulan, sözlü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1655",
+  "en": "sponsor",
+  "tr": "sponsor",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1656",
+  "en": "stadium",
+  "tr": "stadyum",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1657",
+  "en": "statistic",
+  "tr": "istatistik",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1658",
+  "en": "status",
+  "tr": "durum, statü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1659",
+  "en": "stiff",
+  "tr": "sert, katı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1660",
+  "en": "strongly",
+  "tr": "kuvvetle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1661",
+  "en": "substance",
+  "tr": "madde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1662",
+  "en": "successfully",
+  "tr": "başarıyla",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1663",
+  "en": "summarize",
+  "tr": "özetlemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1664",
+  "en": "sunday",
+  "tr": "pazar (gün)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1665",
+  "en": "surgery",
+  "tr": "ameliyat; muayenehane",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1666",
+  "en": "surrounding",
+  "tr": "çevreleyen, çevredeki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1667",
+  "en": "swear",
+  "tr": "yemin etmek; küfretmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1668",
+  "en": "ten",
+  "tr": "on",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1669",
+  "en": "tend",
+  "tr": "eğiliminde olmak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1670",
+  "en": "theme",
+  "tr": "tema",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1671",
+  "en": "therapy",
+  "tr": "terapi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1672",
+  "en": "thinking",
+  "tr": "düşünme, düşünce",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1673",
+  "en": "third",
+  "tr": "üçüncü",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1674",
+  "en": "thirteen",
+  "tr": "on üç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1675",
+  "en": "thirty",
+  "tr": "otuz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1676",
+  "en": "thousand",
+  "tr": "bin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1677",
+  "en": "threat",
+  "tr": "tehdit",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1678",
+  "en": "threaten",
+  "tr": "tehdit etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1679",
+  "en": "three",
+  "tr": "üç",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1680",
+  "en": "throat",
+  "tr": "boğaz",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1681",
+  "en": "throughout",
+  "tr": "boyunca, baştan sona",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1682",
+  "en": "thursday",
+  "tr": "perşembe",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1683",
+  "en": "thus",
+  "tr": "böylece",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1684",
+  "en": "tone",
+  "tr": "ton, ses tonu",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1685",
+  "en": "tough",
+  "tr": "zorlu, sert",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1686",
+  "en": "transition",
+  "tr": "geçiş",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1687",
+  "en": "tuesday",
+  "tr": "salı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1688",
+  "en": "tv",
+  "tr": "televizyon",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1689",
+  "en": "twelve",
+  "tr": "on iki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1690",
+  "en": "twenty",
+  "tr": "yirmi",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1691",
+  "en": "two",
+  "tr": "iki",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1692",
+  "en": "typically",
+  "tr": "tipik olarak, genellikle",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1693",
+  "en": "ultimately",
+  "tr": "nihayetinde",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1694",
+  "en": "understanding",
+  "tr": "anlayış",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1695",
+  "en": "update",
+  "tr": "güncelleme; güncellemek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1696",
+  "en": "upwards",
+  "tr": "yukarıya doğru",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1697",
+  "en": "used",
+  "tr": "kullanılmış; alışkın (used to)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1698",
+  "en": "vary",
+  "tr": "değişmek, farklılık göstermek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1699",
+  "en": "vast",
+  "tr": "geniş, uçsuz bucaksız",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1700",
+  "en": "venue",
+  "tr": "mekân",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1701",
+  "en": "virtual",
+  "tr": "sanal",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1702",
+  "en": "vision",
+  "tr": "görme; vizyon",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1703",
+  "en": "vitamin",
+  "tr": "vitamin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1704",
+  "en": "washing",
+  "tr": "yıkama",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1705",
+  "en": "weakness",
+  "tr": "zayıflık",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1706",
+  "en": "wealthy",
+  "tr": "zengin",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1707",
+  "en": "wednesday",
+  "tr": "çarşamba",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1708",
+  "en": "whereas",
+  "tr": "oysa, -iken",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1709",
+  "en": "whisper",
+  "tr": "fısıldamak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1710",
+  "en": "widely",
+  "tr": "yaygın olarak",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1711",
+  "en": "wildlife",
+  "tr": "yaban hayatı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1712",
+  "en": "worldwide",
+  "tr": "dünya çapında",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1713",
+  "en": "wow",
+  "tr": "vay",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1714",
+  "en": "written",
+  "tr": "yazılı",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1715",
+  "en": "these",
+  "tr": "bunlar, bu (çoğul)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1716",
+  "en": "those",
+  "tr": "şunlar, onlar, o (çoğul)",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1717",
+  "en": "toward",
+  "tr": "-e doğru",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1718",
+  "en": "dare",
+  "tr": "cesaret etmek, cüret etmek",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1719",
+  "en": "okay",
+  "tr": "tamam",
+  "category": [
+   "general"
+  ]
+ },
+ {
+  "id": "gen_1720",
+  "en": "seldom",
+  "tr": "nadiren",
+  "category": [
+   "general"
+  ]
+ }
+]

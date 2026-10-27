@@ -1,11 +1,70 @@
 {
   "name": "ada-translate",
+  "productName": "Ada Translate",
+  "version": "2.0.0",
+  "description": "Offline Ingilizce <-> Turkce denizcilik sozlugu ve cumle cevirisi",
+  "author": "Recep Oguz Yagbasan",
+  "main": "electron-main.js",
   "private": true,
-  "version": "1.0.0",
   "scripts": {
-    "tauri": "tauri"
+    "start": "electron .",
+    "verify": "bash ./dogrula.sh",
+    "build": "bash ./dogrula.sh && electron-builder --win --x64",
+    "dist:linux": "electron-builder --linux AppImage"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^2.11.4"
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.kaptanoguz.adatranslate",
+    "productName": "Ada Translate",
+    "directories": {
+      "output": "dist-desktop"
+    },
+    "asar": false,
+    "extraResources": [
+      {
+        "from": "build-extra/TESHIS-BASLAT.bat",
+        "to": "../TESHIS-BASLAT.bat"
+      }
+    ],
+    "files": [
+      "electron-main.js",
+      "index.html",
+      "manifest.json",
+      "css/**/*",
+      "js/**/*",
+      "fonts/**/*",
+      "icons/**/*",
+      "vendor/**/*",
+      "models/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "zip",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icons/icon.ico",
+      "signAndEditExecutable": false,
+      "artifactName": "AdaTranslate-${version}-${arch}.${ext}"
+    },
+    "portable": {
+      "artifactName": "AdaTranslate-Portable-${version}.exe"
+    },
+    "linux": {
+      "icon": "icons/icon-512.png",
+      "category": "Education"
+    }
   }
 }

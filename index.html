@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ada Translate</title>
+<meta name="theme-color" content="#F6F5F1" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121518" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Offline İngilizce ↔ Türkçe denizcilik sözlüğü ve cümle çevirisi">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="fonts/fonts.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="#" aria-label="Ada Translate">
+      <img src="icons/icon.svg" alt="" width="26" height="26">
+      <span>Ada Translate</span>
+    </a>
+    <nav class="tabs" aria-label="Bölüm">
+      <button class="tab active" data-view="dict">Sözlük</button>
+      <button class="tab" data-view="translate">Çeviri</button>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section id="dict">
+    <div class="search">
+      <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75"/><path d="m13 13 4 4"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" aria-label="Sözlükte ara"
+             placeholder="Kelime veya terim ara — İngilizce ya da Türkçe">
+      <span class="search-dir" id="dirpill" hidden></span>
+      <button id="clear" class="search-clear" aria-label="Temizle" hidden>
+        <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m6 6 8 8M14 6l-8 8"/></svg>
+      </button>
+    </div>
+    <p class="meta" id="meta"></p>
+    <div id="sentence-hint" class="hint" hidden></div>
+    <ol id="results" class="entries" aria-live="polite"></ol>
+  </section>
+
+  <section id="translate" hidden>
+    <div class="tr-box">
+      <div class="tr-head">
+        <span id="t-src-lang">İngilizce</span>
+        <button id="t-swap" class="swap" title="Yönü değiştir" aria-label="Yönü değiştir">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 7h13m-3-3 3 3-3 3M17 13H4m3-3-3 3 3 3"/></svg>
+        </button>
+        <span id="t-dst-lang">Türkçe</span>
+      </div>
+      <div class="tr-panes">
+        <textarea id="t-in" spellcheck="false" placeholder="Metni yazın veya yapıştırın"></textarea>
+        <div class="tr-out">
+          <div id="t-out" aria-live="polite"></div>
+          <div class="tr-actions">
+            <button id="t-speak" class="icon-btn" title="Sesli oku" aria-label="Sesli oku">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 8v4h3l4 3V5L7 8H4z"/><path d="M14 7.5a3.5 3.5 0 0 1 0 5M16 5.5a6.5 6.5 0 0 1 0 9"/></svg>
+            </button>
+            <button id="t-copy" class="icon-btn" title="Kopyala" aria-label="Kopyala">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><rect x="7" y="7" width="9" height="9" rx="1.5"/><path d="M13 4.5H5.5A1.5 1.5 0 0 0 4 6v7.5"/></svg>
+            </button>
+          </div>
+          <div id="t-bar" class="tr-bar" hidden><span></span></div>
+        </div>
+      </div>
+    </div>
+    <p class="tr-note">Çeviri cihazda yapılır, internet gerekmez. Ctrl + Enter hemen çevirir.</p>
+    <h2 id="t-terms-h" class="sub" hidden>Metindeki terimler</h2>
+    <ol id="t-terms" class="entries compact"></ol>
+  </section>
+</main>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="js/data-bundle.js"></script>
+<script src="js/search.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

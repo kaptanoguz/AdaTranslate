@@ -1,11 +1,5 @@
 node_modules/
-src-tauri/target/
-*.app
-*.deb
-.env
-*.log
-.DS_Store
-
-# dist-web is committed (Tauri needs it at build time; it's just static web assets)
-!dist-web/
-!dist-web/**
+dist-desktop/
+tools/__pycache__/
+# Büyük model dosyaları: bash tools/get_models.sh ile indirilir
+models/*/onnx/*.onnx
